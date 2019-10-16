@@ -61,16 +61,13 @@ extension.
 Just as you can customize and override the default configurations of a gaming control pad, you can also use custom override strategies for language definitions and file paths in Linguist.
 
 Basically, `gitattributes` is just a file used to command or tell Git to perform
-some specific tasks, sort of a way to tweaking it.
-
-* Add a `.gitattributes` file to the root of your project
+some specific tasks, sort of a way to tweaking it. You can add a `.gitattributes` file to the root of your project like so:
 
 ```bash
 touch .gitattributes
 ```
 
-* Use the standard git-style path matchers for the files you want to override
-using the **linguist-documentation**, **linguist-language**, **linguist-vendored**, **linguist-generated** and **linguist-detectable** attributes.
+Now use the standard git-style path matchers for the files you want to override using the **linguist-documentation**, **linguist-language**, **linguist-vendored**, **linguist-generated** and **linguist-detectable** attributes.
 
 > When testing with a local installation of Linguist, take note that the added
 > attributes will not take effect until the `.gitattributes` file is committed to
