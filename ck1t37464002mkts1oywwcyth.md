@@ -122,9 +122,6 @@ Linguist defines the list of all languages known to GitHub in a [yaml file](http
 In order for a file to be highlighted, a language and lexer must be defined
 there.
 
-Most languages are detected by their file extension. This is the fastest and
-most common situation.
-
 If you experience any issue with Linguist, a quick way to get help is by
 contributing via [Pull Requests](https://github.com/github/linguist/pulls) or submitting an [Issue](https://github.com/github/linguist/issues).
 
