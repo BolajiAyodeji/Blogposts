@@ -22,7 +22,7 @@ every file and directory and detects the programming language used in that file.
 
 ## How does Linguist work?
 
-Linguist takes the list of languages it knows from `languages.yml` and uses a number of methods to try and determine the language used by each file, and the overall repository breakdown.
+Linguist takes the list of languages it knows from a [`languages.yml`](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) file and uses a number of methods to try and determine the language used by each file, and the overall repository breakdown.
 
 Linguist starts by going through all the files in a repository and excludes all
 files that it determines to be binary data, vendored code, generated code,
