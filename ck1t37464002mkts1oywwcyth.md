@@ -1,4 +1,4 @@
-## GitHub's repository language overview - How?
+## GitHub repository language overview - How?
 
 The files and directories within a repository determine the languages that make up the repository. With GitHub, you can view a repository’s languages to get a quick overview of the repository. But how does this happen? What powers this repository language overview?
 
