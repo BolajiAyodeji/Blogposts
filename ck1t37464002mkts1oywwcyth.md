@@ -97,7 +97,7 @@ your GitHub repository.
      docs/formatter.rb linguist-documentation=false
 ```
 
-### Using the **linguist-generated** attribute to mark or unmark paths as generated.
+- Using the **linguist-generated** attribute to mark or unmark paths as generated.
 
 > Not all plain text files are true source files. Generated files like minified JavaScript and compiled CoffeeScript can be detected and excluded from language stats.
 
