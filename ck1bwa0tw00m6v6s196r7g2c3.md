@@ -5,6 +5,7 @@ Hello Awesome Hashnoders, 👋
 If you are active on Hashnode, you must have already noticed a new blue navbar with interesting topics on the top of your homepage.   
 
 We realized that people write "technical contents" only on Hashnode and they miss out from other amazing contents they would have written or read about.  
+
 We have therefore introduced streamlined feeds for topics that matter to developers the most and we are calling them “Hashnode Channels.” 
 
 ![](https://media.giphy.com/media/lMameLIF8voLu8HxWV/source.gif)
@@ -28,6 +29,7 @@ You can also see posts chronologically, select “See recent posts instead” fr
 ![hash02.png](https://hashnode.imgix.net/res/hashnode/image/upload/v1570179825128/hTW2hvgcE.png?auto=compress)
 
 A place to connect developers with their dream job easily by showing them who is hiring anywhere in the world!   
+
 Are you hiring developers? Do you know any company who is hiring? Is your company looking out for awesome developers? Then this channel is for you, post the jobs on this channel and help other amazing hashnoders find their dream jobs.
 
 ## [💡 #ShowHashnode](https://hashnode.com/feed/showhashnode)
