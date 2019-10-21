@@ -1,4 +1,4 @@
-## I interviewed 15 leading developer ladies and here's what I learned
+## I interviewed 15 leading developer ladies and here's what I learned 🦄
 
 Earlier this year, we started the [She Inspires Series](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15) on Hashnode, a series that is all about talking to the awesome women in tech, understanding the current health of the tech industry and inspiring other women to become better. ✨
 
@@ -14,7 +14,7 @@ When we started this series, our intention was to spread awareness about women i
 
 ## Tech is for EVERYone 👩‍👩‍👧
 
-![](https://images.unsplash.com/photo-1522202176988-66273c2fd55f)
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571653899541/JE4d-HUxr.jpeg?w=800&auto=compress)
 > Photo by Brooke Cagle on Unsplash
 
 From all our interviews, we have seen that most of our interviewees were not sure of what they wanted to do, most started from a young age after getting inspiration from "a movie", "an application they used", "a challenge they experienced" or "push from a friend/ family". Venturing into Tech did not come as a first option for most of them, some transitioned from different careers and the same applies to many other amazing humans in tech today.  
@@ -24,28 +24,25 @@ The only person that can stop you from success is YOU! You belong here, and don'
 
 ## Junior or Senior, does it matter? 👑
 
-![](https://images.unsplash.com/photo-1531535701800-03b2bec4fbfd)
-> Photo by Mimi Thian on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571653978211/uWnkAM49h.jpeg?w=800&auto=compress)
 
 Time doesn't decide when you can become a Senior. The knowledge and your actual capability will decide so. If you want to transit to Senior, you need to learn and master the skills needed to be one. Keep learning, the more you learn, the more experience you get.
 
 ## Make it Beginner Friendly 🐣
 
-![](https://images.unsplash.com/photo-1528808302-cddd825c94fd)
-> Photo by IIONA VIRGIN on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654165613/o-ZpTYX7U.jpeg?w=800&auto=compress)
 
 As experienced developers or bloggers, we should provide easy-to-read documentation and tutorials. Some developers forgot that they once were also new to the market, and beginners don't get to know all the terms like experienced know. Bear that in mind and try to make it as simple and straight forward when it comes to documentation or a blog post.
 
 ## Open Source? Where can I start? 🏁
 
-![](https://images.unsplash.com/photo-1461896836934-ffe607ba8211)
-> Photo by Braden Collum on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654291072/tYcg_VFyc.jpeg?w=800&auto=compress)
 
 Fork the repo, check the issues, and learn about the APIs. It can be something small that will give you a boost in confidence like documentation fixes. Slowly you will find the bigger issue you want to start.
 
 ## Find a support system 🏘️
 
-![](https://images.unsplash.com/photo-1474552226712-ac0f0961a954)
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654332370/Tv7wX1C3f.jpeg?w=800&auto=compress)
 > Photo by Everton Vila on Unsplash
 
 There are more resources than ever online to help people learn how to code, but just throwing yourself into the internet can be tricky. Identify a learning path and join a community to help you grow. Programs like [FreeCodeCamp](https://www.freecodecamp.org/) and [Microverse](https://www.microverse.org/) provides a linear learning path would help you out tremendously.
@@ -55,8 +52,7 @@ There are more resources than ever online to help people learn how to code, but 
 
 ## Achieve more by doing less 💪
 
-![](https://images.unsplash.com/photo-1443916568596-df5a58c445e9)
-> Photo by Austin Schmid on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654381524/_p5xNRhep.jpeg?w=800&auto=compress)
 
 Be realistic about what you can do in a day, week, month, and so on. Learn to say NO to things and only achieve what is possible and set realistic deadlines for all tasks.
 
@@ -65,7 +61,7 @@ Be realistic about what you can do in a day, week, month, and so on. Learn to sa
 
 ## Perfectionism culture, healthy? 👭
 
-![](https://images.unsplash.com/photo-1557244252-04610dfe5790)
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654419077/ZgW8ZOHTP.jpeg?w=800&auto=compress)
 > Photo by Edvin Johansson on Unsplash
 
 People aren't comfortable with solutions that don't solve all problems or solutions that are only half-way finished. There are so many wonderful things that can happen if someone is willing to put a half-finished idea out there and collaborate with others to complete it.
@@ -75,7 +71,7 @@ People aren't comfortable with solutions that don't solve all problems or soluti
 
 ## Code all day? Please don't 🥳
 
-![](https://images.unsplash.com/photo-1519671482749-fd09be7ccebf)
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654456511/36VlE1slO.jpeg?w=800&auto=compress)
 > Photo by Kelsey Chance on Unsplash
 
 Coding if fun, yes you should write more of it but please engage in other activities outside your workspace. Attend events/ parties, network with others, visit the gym, go hiking and do anything fun you like.
@@ -85,7 +81,7 @@ Coding if fun, yes you should write more of it but please engage in other activi
 
 ## Public Speaking, I'm scared! 🗣️
 
-![](https://images.unsplash.com/photo-1475721027785-f74eccf877e2)
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654490253/ZiaMnM_OT.jpeg?w=800&auto=compress)
 > Photo by Kane Reinholdtsen on Unsplash
 
 Don’t worry if you're scared and that the talk you want to do already exists. It's fine if you are scared at first, even non-first time speakers still get nervous, with the time you get better, so keep speaking and watch yourself grow. A few things that might help:
@@ -102,8 +98,7 @@ Don’t worry if you're scared and that the talk you want to do already exists. 
 
 ## I'm not good enough 🙁
 
-![](https://images.unsplash.com/photo-1539118148749-b7ac2ca84617)
-> Photo by Tim Foster on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654543705/7E9pUscwi.jpeg?w=800&auto=compress)
 
 Imposter syndrome is not always straight forward. Sometimes it's as obvious as thinking you don't belong in a room you were invited to be in. Other times it's the fear of applying for a job that you don't think you're qualified for when you are.
 
