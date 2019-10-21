@@ -15,7 +15,6 @@ When we started this series, our intention was to spread awareness about women i
 ## Tech is for EVERYone 👩‍👩‍👧
 
 ![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571653899541/JE4d-HUxr.jpeg?w=800&auto=compress)
-> Photo by Brooke Cagle on Unsplash
 
 From all our interviews, we have seen that most of our interviewees were not sure of what they wanted to do, most started from a young age after getting inspiration from "a movie", "an application they used", "a challenge they experienced" or "push from a friend/ family". Venturing into Tech did not come as a first option for most of them, some transitioned from different careers and the same applies to many other amazing humans in tech today.  
 
@@ -43,7 +42,6 @@ Fork the repo, check the issues, and learn about the APIs. It can be something s
 ## Find a support system 🏘️
 
 ![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654332370/Tv7wX1C3f.jpeg?w=800&auto=compress)
-> Photo by Everton Vila on Unsplash
 
 There are more resources than ever online to help people learn how to code, but just throwing yourself into the internet can be tricky. Identify a learning path and join a community to help you grow. Programs like [FreeCodeCamp](https://www.freecodecamp.org/) and [Microverse](https://www.microverse.org/) provides a linear learning path would help you out tremendously.
 
@@ -62,7 +60,6 @@ Be realistic about what you can do in a day, week, month, and so on. Learn to sa
 ## Perfectionism culture, healthy? 👭
 
 ![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654419077/ZgW8ZOHTP.jpeg?w=800&auto=compress)
-> Photo by Edvin Johansson on Unsplash
 
 People aren't comfortable with solutions that don't solve all problems or solutions that are only half-way finished. There are so many wonderful things that can happen if someone is willing to put a half-finished idea out there and collaborate with others to complete it.
 
@@ -72,7 +69,6 @@ People aren't comfortable with solutions that don't solve all problems or soluti
 ## Code all day? Please don't 🥳
 
 ![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654456511/36VlE1slO.jpeg?w=800&auto=compress)
-> Photo by Kelsey Chance on Unsplash
 
 Coding if fun, yes you should write more of it but please engage in other activities outside your workspace. Attend events/ parties, network with others, visit the gym, go hiking and do anything fun you like.
 
@@ -82,7 +78,6 @@ Coding if fun, yes you should write more of it but please engage in other activi
 ## Public Speaking, I'm scared! 🗣️
 
 ![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654490253/ZiaMnM_OT.jpeg?w=800&auto=compress)
-> Photo by Kane Reinholdtsen on Unsplash
 
 Don’t worry if you're scared and that the talk you want to do already exists. It's fine if you are scared at first, even non-first time speakers still get nervous, with the time you get better, so keep speaking and watch yourself grow. A few things that might help:
 
@@ -107,8 +102,7 @@ Imposter syndrome is not always straight forward. Sometimes it's as obvious as t
 
 ## Share your knowledge 📝
 
-![](https://images.unsplash.com/photo-1531545514256-b1400bc00f31)
-> Photo by Mimi Thian on Unsplash
+![](https://hashnode.imgix.net/res/hashnode/image/upload/v1571654594351/8SzfCyGBi.jpeg?w=800&auto=compress)
 
 We're ready to hear your stories! Evaluate your experiences thus far and find them interesting situations that you've been in. People would LOVE to hear about it. How did you/your team solve a problem? What key lessons have you learned so far?
 
