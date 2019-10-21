@@ -115,5 +115,3 @@ The stereotypical image of programming is often smacking a keyboard eight hours 
 
 > I feel that many people have this misinterpretation about programming. They believe it's boring, math heavy, and not creative at all. I think we need to start off conversations about programming with how creative and visual it is. Coding is a form of art, just without the paintbrushes or however one defines art. Programming is bringing ideas to life, whether it's visually, functionality wise or both.  
  — [Pariss Athena](https://townhall.hashnode.com/women-in-tech-pariss-athena-cjz3wnz8z003ik5s12e7uzdgg)
- 
- ---
