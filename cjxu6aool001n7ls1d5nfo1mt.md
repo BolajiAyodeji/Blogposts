@@ -59,7 +59,7 @@ Now let's get started!
 
 # Edit your PATH environment variable to include the directory where the C++ compiler is located
 
-> > PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting. - [Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable))
+> PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting. - [Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable))
 
 After installing MinGW, it was installed in `C:\MinGW\bin`. Now you have to include this directory in your environment variable PATH. if you've been using computers for a while now, you should know how to do this already, but if you don't, here are a few resources:
 
@@ -94,7 +94,7 @@ int main()
 }
 ```
 
-> > Save this file as `test.cpp`
+> Save this file as `test.cpp`
 
 # Run your code using Code Runner
 
@@ -105,15 +105,13 @@ int main()
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/Capture5.png)
 
-
-
 # To stop the running code
 
 * Use the shortcut `Ctrl+Alt+M`
 * Or press F1 and then select/type Stop Code Run
 * Or right-click the Output Channel and then click Stop Code Run in the context menu
 
-> > Hurray, you just successfully set up your C++ environment in VsCode.
+> Hurray, you just successfully set up your C++ environment in VsCode.
 
 # Conclusion
 
@@ -153,7 +151,7 @@ To fix this, you need to manually enable read-write.
 * Scroll and find 'Run Code Configuration'
 * Scroll and find a checkbox `Run in Terminal` (Whether to run code in Integrated Terminal) Check the box.
 
-> > OR
+> OR
 
 * In your `setting.json` file, add:
 
