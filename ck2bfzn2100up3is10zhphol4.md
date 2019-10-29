@@ -1,15 +1,16 @@
 ## Women in Tech: Tania Rascia
 
-It's impossible to know everything, so Imposter Syndrome will always be there on some level, but having the confidence to know that you can figure something out, even if you don't know it in advance, is very helpful.
+> It's impossible to know everything, so Imposter Syndrome will always be there on some level, but having the confidence to know that you can figure something out, even if you don't know it in advance, is very helpful.
 
 ![tr.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1572243223396/I69KxJLGa.jpeg)
 
-> I interview leading women developer every week and showcase their history, opinions and advice on the tech. In case you missed our previous interviews, check out the "  [She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)  " series on Hashnode.  
+I interview leading women developer every week and showcase their history, opinions and advice on the tech. In case you missed our previous interviews, check out the "  [She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)  " series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share with your friends and colleagues. 😃
 
 ---
 
-Today, we will be interviewing ** [Tania Rascia 👩‍💻](https://twitter.com/taniarascia) **.  
+Today, we will be interviewing ** [Tania Rascia 👩‍💻](https://twitter.com/taniarascia) **.
+
 Tania is a web developer, technical writer, and former chef from Chicago who currently works as a front end software engineer for a startup, and have written for many developer publications. Tania builds open-source projects and writes about modern JavaScript, Node.js, design and web development.
 
 ----
@@ -120,7 +121,8 @@ I always use the New Moon theme, something I created years ago and take with me 
 
 ---
 
-Thanks for taking out time to read this interview. 👋  
+Thanks for taking out time to read this interview. 👋
+
 This series is all about talking to the awesome women in tech, understanding the current health of the tech industry and inspiring other women to become better. If you want to share your story, please reach out to me on [Hashnode](https://hashnode.com/@bolajiayodeji).
 
 Did you find Tania's story useful and inspiring?
