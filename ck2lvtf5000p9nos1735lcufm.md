@@ -1,4 +1,4 @@
-## Introducing Hashnode IRL with Hashnode IRL  Lagos, Nigeria! 🎉🍕
+## Introducing Hashnode IRL - Developer meetups powered by Hashnode 🎉🍕
 
 Over the years, we have built a growing programming community for Developers learning how to code or willing to help others get started with programming.
 
