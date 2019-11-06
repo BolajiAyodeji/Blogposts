@@ -35,7 +35,7 @@ Hashnode will be [sponsoring](https://irl.hashnode.com/about)  the above meetups
 
 We would be hosting the first IRL meetup in Lagos, Nigeria on the 23rd of November, 2019.
 
- [![irl-lagos.png](https://hashnode.imgix.net/res/hashnode/image/upload/v1573030046084/MPAAGSqHX.png?w=1000&auto=compress)](https://www.meetup.com/Hashnode-IRL-Lagos/events/266228185/) 
+ [![irl-lagos.png](https://hashnode.imgix.net/res/hashnode/image/upload/v1573032380081/WIlu_akeT.png?w=1000&auto=compress)](https://www.meetup.com/Hashnode-IRL-Lagos/events/266228185/) 
 
 
 In this meetup, we’ll uncover the hidden mysteries of web accessibility and demystify what a better web looks like with a Practical Accessibility Workshop and talks on Accessibility in Media, Design, and JavaScript.
