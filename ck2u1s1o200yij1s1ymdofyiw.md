@@ -4,7 +4,7 @@
 
 > — Nenne Adaora Nwodo
 
-![nenne adaora.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1573386415898/u8wiTTyXL.jpeg)
+![nenne adaora.jpg](https://hashnode.imgix.com/res/hashnode/image/upload/v1573386415898/u8wiTTyXL.jpeg?auto=compress)
 
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "[She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)" series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share it with your friends and colleagues. 😃
@@ -107,7 +107,7 @@ Difficulties: Getting ready for my interviews while I still had a full-time job 
 
 ## What does your development environment look like? Could you please share a photo? :)
 
-![Adora's workspace..jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1573451980272/dCgud7TRc.jpeg)
+![Adora's workspace..jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1573451980272/dCgud7TRc.jpeg?auto=compress)
 
 My (still work in progress) home office has all the things I love in it and I plan to add more. 
 I work with my Surface laptop & I'm always listening to music so my surface headphones have to be there, I keep a water bottle because I love to stay hydrated, I play music from my Google home sometimes if I don't feel like wearing a headset, I also have a small box on the tall black table where I keep notes from my friends or mentors to reassure me that I'm doing great whenever imposter syndrome attempts to step in, and yeah, I work from the tall table when I'm tired of sitting. + I shoot and edit videos here sometimes is why you can see the camera ;)
