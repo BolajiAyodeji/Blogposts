@@ -1,10 +1,12 @@
 ## Women in Tech: Nenne Adaora Nwodo
 
-> Don't compare yourself to others or what you see. The only person you should compete with is the person you were yesterday. Make sure you're growing even if it's slow. It's something. If you can see growth, you're doing good. Don't put yourself under pressure :)
+> **Don't compare yourself to others or what you see. The only person you should compete with is the person you were yesterday. Make sure you're growing even if it's slow. It's something. If you can see growth, you're doing good. Don't put yourself under pressure :)**
+
+> — Nenne Adaora Nwodo
 
 ![nenne adaora.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1573386415898/u8wiTTyXL.jpeg)
 
-I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "  [She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)  " series on Hashnode.  
+I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "[She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)" series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share it with your friends and colleagues. 😃
 
 ---
