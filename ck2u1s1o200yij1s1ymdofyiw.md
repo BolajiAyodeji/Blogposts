@@ -4,7 +4,7 @@
 
 > — Nenne Adaora Nwodo
 
-![nenne adaora.jpg](https://hashnode.imgix.com/res/hashnode/image/upload/v1573386415898/u8wiTTyXL.jpeg?auto=compress)
+![u8wiTTyXL (1).jpeg](https://hashnode.imgix.net/res/hashnode/image/upload/v1573460337332/p1rutbOv5.jpeg?w=1000&auto=compress)
 
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "[She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)" series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share it with your friends and colleagues. 😃
