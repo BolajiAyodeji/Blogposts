@@ -1,4 +1,4 @@
-## NettyFinder: Check a Nigerian telephone number and detects which network it belongs to
+## NettyFinder: Check a Nigerian telephone number and detect which network it belongs to
 
 I built a small Progressive Web App sometimes ago and decided to share it with YOU today.
 
