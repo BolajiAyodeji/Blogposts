@@ -136,6 +136,6 @@ This series is all about talking to the awesome women in tech, understanding the
 
 Did you find Tatiana's story useful and inspiring?
 Write down your thoughts in the comments section below and don't forget to share this interview. 
-You can also follow [Hashnode](https://twitter.com/hashnode) on Twitter to stay up-to-date with our future She Inspires interviews. 
+You can also follow Hashnode on  [Twitter](https://twitter.com/hashnode)  to stay up-to-date with our future She Inspires interviews. 
 
 See you next time and keep trailblazing 💙💙
