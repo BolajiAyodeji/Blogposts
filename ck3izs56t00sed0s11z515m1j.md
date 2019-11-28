@@ -35,7 +35,7 @@ git commit -m "Setup multiple roles for netlify-cms git gateway"
 
 - **-a**
 
-This option Includes all currently changed files in this commit and therefore skips the `git add` staging step. However, untracked files will not be included.
+This option rewrites the last commit with any staged changes or a new commit message and should only be performed on commits that have not been pushed to a remote repository, yet.
 
 ```bash
 git commit -a "Setup multiple roles for netlify-cms git gateway"
