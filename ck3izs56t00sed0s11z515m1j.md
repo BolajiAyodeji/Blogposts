@@ -132,7 +132,7 @@ Resolves: #123
 Looks great, right? Here's how you can make yours great too:
 
 1. Specify the type of commit:
- - **feature**:  The new feature you're adding to a particular application
+ - **feat**:  The new feature you're adding to a particular application
  - **fix**: A bug fix
  - **style**: Feature and updates related to styling
  - **refactor**: Refactoring a specific section of the codebase
