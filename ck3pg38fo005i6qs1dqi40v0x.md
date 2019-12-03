@@ -4,7 +4,7 @@
 
 > — Egwuenu Gift
 
-![gift.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1575011630260/dp9e5D9Qg.jpeg)
+![gift.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1575011630260/dp9e5D9Qg.jpeg?w=400)
 
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "[She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)" series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share it with your friends and colleagues. 😃
@@ -116,7 +116,7 @@ Egwuenu Gift is a Full Stack Developer currently working at Andela. She is passi
 
 ## What does your development environment look like? Could you please share a photo? :)
 
-![workspace.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1575011444726/1jblE5oOP.jpeg)
+![workspace.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1575011444726/1jblE5oOP.jpeg?auto=compress)
 
 I work mostly from home and this is what my workspace looks like :)
 
