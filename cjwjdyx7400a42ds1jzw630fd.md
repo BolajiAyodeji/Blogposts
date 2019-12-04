@@ -18,18 +18,12 @@ When you’re building a simple form where you’re only receiving data from the
 user and not processing (i.e contact form) the goal is to get the data from the
 form and send to your company support email (e.g info@…, support@…)
 
-Using a server here is not ideal and is only an overkill, a very common way of
-doing this is via [PHPMailer](https://github.com/PHPMailer/PHPMailer) ( The
-classic email sending library for PHP). PHPMailer is used with PHP and requires
-a lot of boring server configurations. What if you’re just building a static
-site? There should be an easier way of doing this client side right?
+Using a server here is not ideal and is only an overkill and what if you’re just building a static site? There should be an easier way of doing this client-side right?
 
-In this article, I’ll introduce you to two methods of handling form data client
-side in static sites. There are other methods but I’ve used these two and
-considered them to be the best and easiest (no hard feelings :) ).
+In this article, I’ll introduce you to two methods of handling form data client-side in static sites. There are other methods but I’ve used these two and
+considered them to be better and easier.
 
-NO hectic configurations, NO servers, NO serious stuff, just build your form, do
-some little tweaks, the user submits and bingo it heads straight to your
+NO hectic configurations, NO servers, NO serious stuff, just build your form, do some little tweaks, the user submits and bingo it heads straight to your
 designated email. :)
 
 ### STARTER FORM
@@ -53,11 +47,9 @@ Now, let’s get started!!
 ![](https://cdn-images-1.medium.com/max/800/0*7DZwsHAjwcTxTzfR)
 
 [Formspree](http://formspree.io) provides functional HTML forms via their
-platform with no PHP or JavaScript. Send your form to their URL and it'll be forwarded to your email. No PHP, Javascript or sign up required — perfect for
-static sites!
+platform with no PHP or JavaScript. Send your form to their URL and it'll be forwarded to your email. No PHP, Javascript or sign up required — perfect for static sites! 
 
-Wait!, wait!!, wait!!! it’s [Open
-Sourced](https://github.com/formspree/formspree) too
+It is also [Open Sourced](https://github.com/formspree/formspree).
 
 #### Form handling with Formspree
 
@@ -282,6 +274,3 @@ file uploads and spam filtering. [Full guide + practical code]
 
 
 %[https://www.youtube.com/watch?v=6ElQ689HRcY]
-
-
-Thanks for reading! Please share :)
