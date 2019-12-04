@@ -229,11 +229,4 @@ The **default** case does not have to be the last case in a switch block:
 There are so many practical examples of switch cases, you can head
 [here ](https://javascript.info/switch)to learn more about switch cases.
 
-If this article helped you, show it by sharing!!
-
 Thanks for reading!
-
-You can follow me on twitter @iambolajiayo
-
-Check out some of my recent projects on
-[GitHub](https://github.com/bolajiayodeji)
