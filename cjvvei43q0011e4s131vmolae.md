@@ -42,27 +42,37 @@ When working with Objects, using const only prevents reassignment and not immuta
 Consider the code below. We have declared a variable using the `const` keyword and assigned an object named `user` to it.
 
 ```
-const user = {  first_name: 'bolaji',  last_name: 'ayodeji',  email: 'hi@bolajiayodeji.com',  net_worth: 2000}
+const user = {  
+first_name: 'bolaji',  
+last_name: 'ayodeji',  
+email: 'hi@bolajiayodeji.com',  
+net_worth: 2000}
 ```
 
 ```
-user.last_name = 'Samson';// this would work, user is still mutable!
+user.last_name = 'Samson';
+// this would work, user is still mutable!
 ```
 
 ```
-user.net_worth = 983265975975950;// this would work too, user is still mutable and getting rich :)!
+user.net_worth = 983265975975950;
+// this would work too, user is still mutable and getting rich :)!
 ```
 
 ```
-console.log(user);  // user is mutated
+console.log(user);  
+// user is mutated
 ```
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fXjTs7lGxDXd3bFv2rF1Vg.png)
 
-Although we can’t reassign to this variable called object, we can still mutate the object itself.
+Although we can’t reassign this variable called object, we can still mutate the object itself.
 
 ```
-const user = {  user_name: 'bolajiayodeji'}// won't work
+const user = {  
+user_name: 'bolajiayodeji'
+}
+// won't work
 ```
 
 ![](https://cdn-images-1.medium.com/max/1600/1*hxSHWKuB8nopFHif_ETW9g.png)
@@ -74,7 +84,11 @@ We definitely would want to have Objects with properties that cannot be modified
 To disable any changes to the object we need `Object.freeze()`.
 
 ```
-const user = {  first_name: 'bolaji',  last_name: 'ayodeji',  email: 'hi@bolajiayodeji.com',  net_worth: 2000}
+const user = {  
+first_name: 'bolaji',  
+last_name: 'ayodeji',  
+email: 'hi@bolajiayodeji.com',  
+net_worth: 2000}
 ```
 
 
@@ -84,15 +98,18 @@ Object.freeze(user);
 
 
 ```
-user.last_name = 'Samson';// this won't work, user is still immutable!
+user.last_name = 'Samson';
+// this won't work, user is still immutable!
 ```
 
 ```
-user.net_worth = 983265975975950;// this won't work too, user is still immutable and still broke :(!
+user.net_worth = 983265975975950;
+// this won't work too, user is still immutable and still broke :(!
 ```
 
 ```
-console.log(user);  // user is immutated
+console.log(user);  
+// user is immutated
 ```
 
 ![](https://cdn-images-1.medium.com/max/1600/1*uiv64RdHsencUe9ZKptrbw.png)
@@ -102,7 +119,14 @@ console.log(user);  // user is immutated
 Well, `Object.freeze()` is a bit shallow, you will need to apply it on nested objects to protect them recursively.
 
 ```
-const user = {  first_name: 'bolaji',  last_name: 'ayodeji',  contact: {    email: 'hi@bolajiayodeji.com',    telephone: 08109445504,  }}
+const user = {  
+first_name: 'bolaji',  
+last_name: 'ayodeji',  
+  contact: {    
+   email: 'hi@bolajiayodeji.com',   
+   telephone: 08109445504,  
+  }
+}
 ```
 
 
@@ -112,11 +136,13 @@ Object.freeze(user);
 
 
 ```
-user.last_name = 'Samson';// this won't work, user is still immutable!
+user.last_name = 'Samson';
+// this won't work, user is still immutable!
 ```
 
 ```
-user.contact.telephone = 07054394926;// this will work because the nested object is not frozen
+user.contact.telephone = 07054394926;
+// this will work because the nested object is not frozen
 ```
 
 ```
@@ -125,14 +151,12 @@ console.log(user);
 
 ![](https://cdn-images-1.medium.com/max/1600/1*xL0vmY5YC7n3hq5SfIT-Vg.png)
 
-So `Object.freeze()` doesn't fully **freeze** an object when it has properties which are nested.
+So `Object.freeze()` doesn't fully **freeze** an object when it has properties that are nested.
 
 To completely freeze objects and its nested properties, you can write your own library or use already created libraries like [Deepfreeze](https://github.com/substack/deep-freeze) or [immutable-js](https://github.com/immutable-js/immutable-js)
 
 ### Conclusion
 
 `const` and `Object.freeze()` are not the same, `const` prevents reassignment and `Object.freeze()` prevents immutability
-
-> PS: This article was first published on my blog [here](https://bolajiayodeji.com/object.freeze-vs-const/)
 
 Thanks for reading, Cheers!
