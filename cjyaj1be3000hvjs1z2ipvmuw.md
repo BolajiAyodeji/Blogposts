@@ -1,4 +1,4 @@
-## Getting started with Hugo and deploying to Netlify.
+## Getting Started with Hugo and Deploying to Netlify
 
 Hugo is a fast and modern static site generator written in [Go](https://golang.org/) and designed to make website creation fun again. It builds pages when you create or update your content. Websites built with Hugo are extremely fast and secure like [https://bolajiayodeji.com](https://bolajiayodeji.com/). In technical terms, Hugo takes a source directory of files and templates and uses these as input to create a complete website.
 
@@ -85,29 +85,41 @@ Follow the video below to install Hugo on your windows machine or read the [Inst
 
 To install the “extended” Sass/SCSS:
 
-        snap install hugo --channel=extended
+```
+snap install hugo --channel=extended
+```
 
 To install the non-extended version without Sass/SCSS support:
 
-        snap install hugo
+```
+snap install hugo
+```
 
 * Using the [Debian Package](https://packages.debian.org/search?keywords=hugo) for Ubuntu.
 
 This installs the “extended” Sass/SCSS version.
 
-       sudo apt-get install hugo
+```
+sudo apt-get install hugo
+```
 
 * For Arch Linux
 
-       sudo pacman -Syu hugo
+```
+sudo pacman -Syu hugo
+```
 
 * For Fedora, Red Hat and CentOS
 
-       sudo dnf install hugo
+```
+sudo dnf install hugo
+```
 
 ### Installing on OpenBSD
 
-       doas pkg_add hugo
+```
+doas pkg_add hugo
+```
 
 ## Creating a new site
 
@@ -115,7 +127,9 @@ You can simply fork the starter repository. It contains the finished work with T
 
 * Create a new site with name Hugo101
 
-      hugo new site Hugo10
+```
+hugo new site Hugo10
+```
 
 Now you should have a new folder Hugo101 with subfolders:
 
@@ -145,13 +159,17 @@ This video would show you how to install and use themes on Hugo. Installing is v
 
 * After installing the theme or cloning the starter file, start the Hugo server
 
-      hugo server -D
+```
+hugo server -D
+```
 
 Now your new site should be available at **[localhost:1313](http://localhost:1313/).**
 
 * To add a new post
 
-      hugo new post/my-first-post.md
+```
+hugo new post/my-first-post.md
+```
 
 This would be added in /contents/post
 
@@ -169,7 +187,9 @@ This would be added in /contents/post
 
 * To build files, run
 
-      hugo
+```
+hugo
+```
 
 Now your directory would have a new subfolder public , this is the final build. *Hugo takes a source directory of files and templates and uses these as input to create a complete website.* The public is the complete website and is what you’d deploy.
 
@@ -190,10 +210,13 @@ We would deploy to Netlify in the next section of this tutorial, but before that
 
 Create a new file in the root of your project, If you’re using the starter file, I’ve added this already.
 
-    touch netlify.toml
+```
+touch netlify.toml
+```
 
 Paste this in it: (This is just configuring how Hugo should work with Netlify)
 
+```
     [build]
     publish = "public"
     command = "hugo --gc --minify"
@@ -224,6 +247,7 @@ Paste this in it: (This is just configuring how Hugo should work with Netlify)
 
     [context.next.environment]
     HUGO_ENABLEGITINFO = "true"
+```
 
 ## Deploying to Netlify
 
