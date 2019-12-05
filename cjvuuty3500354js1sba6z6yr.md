@@ -1,8 +1,6 @@
 ## Manipulating Arrays in JavaScript
 
-Arrays have become an important part of any programming language. Most times we
-need to do several operations on arrays, hence this article.
-
+Arrays have become an important part of any programming language. 
 In this article, I would show you various methods of manipulating arrays in
 JavaScript [^^]
 
@@ -31,10 +29,7 @@ these methods allow us to add, remove, modify and do lots more to arrays.
 
 I would be showing you a few in this article, let’s roll :)
 
-> NB: I used **Arrow functions** in this post, If you don’t know what this means,
-> you should read
-[here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
-Arrow function is an **ES6 feature**.
+> NB: I used **Arrow functions** in this article, If you don’t know what this means, you should read [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
 
 *****
 
