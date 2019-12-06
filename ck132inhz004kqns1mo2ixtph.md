@@ -15,7 +15,7 @@ In this article, I'll show you how to take an existing Node.js app and deploy it
 
 ## Prerequisites
 
-In my previous article, I wrote about "[Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.hashnode.dev/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)" and I promised to write a follow-up article to show how to host the SlackBot on either Heroku, Zeit or Netlify and publish it to the Slack Apps store. Well, this is the follow-up article but without the "Publishing to Slack Apps" part, we'll cover that in another article.
+In my previous article, I wrote about "[Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)" and I promised to write a follow-up article to show how to host the SlackBot on either Heroku, Zeit or Netlify and publish it to the Slack Apps store. Well, this is the follow-up article but without the "Publishing to Slack Apps" part, we'll cover that in another article.
 
 I assume you have/ know the following already:
 
@@ -199,7 +199,7 @@ heroku logs --tail
 
 ##### **ðŸš€ Let's Deploy**
 
-How this method work is that you push your entire project to GitHub and integrate it to Heroku. Every time you push, it deploys from GitHub to Heroku. Pretty cool right?
+How this method work is that you push your entire project to GitHub and integrate it into Heroku. Every time you push, it deploys from GitHub to Heroku. Pretty cool right?
 
 - Login to your Heroku Dashboard- Create a new app
 
@@ -261,7 +261,7 @@ After deploying your app, ensure you add a Node.js buildpack to your project.
 
 ### Adding a Database to your deployed App'
 
-The Heroku add-on marketplace has a large number of data stores, from Redis and MongoDB providers, to Postgres and MySQL.
+The Heroku add-on marketplace has a large number of data stores, from Redis and MongoDB providers to Postgres and MySQL.
 
 Heroku provides three managed data services to all customers in the form of Add-ons:
 
@@ -269,7 +269,7 @@ Heroku provides three managed data services to all customers in the form of Add-
 - [Heroku Redis](https://elements.heroku.com/addons/heroku-redis)
 - [Apache Kafka on Heroku](https://elements.heroku.com/addons/cloudkarafka)
 
-Writing about this three will make this article too long. It's pretty simple and I'll add some links from Heroku Docs.
+Writing about these three will make this article too long. It's pretty simple and I'll add some links from Heroku Docs.
 
 - [Heroku Postgresql Docs](https://devcenter.heroku.com/categories/postgres-basics)
 - [Heroku Redis Docs](https://devcenter.heroku.com/articles/heroku-redis)
@@ -297,4 +297,4 @@ The Heroku experience provides services, tools, workflows, and polyglot supportâ
 
 > If you're a student, Kindly register for the [GitHub Student Developer Pack](https://education.github.com/pack) to get One free [Hobby Dyno](https://www.heroku.com/pricing) for up to two years.
 
-> The pack give students free access to the best developer tools in one place so you can learn by doing.
+> The pack gives students free access to the best developer tools in one place so you can learn by doing.
