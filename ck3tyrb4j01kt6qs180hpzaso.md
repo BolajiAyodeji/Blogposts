@@ -105,11 +105,11 @@ yarn install --save-dev react-axe
 - Initialize the module
 
 ```js
-var React = require('react');
-var ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 if (process.env.NODE_ENV !== 'production') {
-  var axe = require('react-axe');
+  let axe = require('react-axe');
   axe(React, ReactDOM, 1000);
 } else {
   ReactDOM.render(<App />, document.getElementById('root'));
@@ -118,7 +118,7 @@ if (process.env.NODE_ENV !== 'production') {
 - Add configuration rules
 
 ```js
-var config = {
+let config = {
   rules: [
     { id: 'heading-order', enabled: true },
     { id: 'label-title-only', enabled: true },
