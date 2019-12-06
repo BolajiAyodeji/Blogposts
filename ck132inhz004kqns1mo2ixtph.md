@@ -19,7 +19,7 @@ In my previous article, I wrote about "[Building a SlackBot with Node.js and Sla
 
 I assume you have/ know the following already:
 
-- Read my [previous article](https://bolajiayodeji.hashnode.dev/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)
+- Read my [previous article](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)
 - Built the [inspireNuggets SlackBot](https://github.com/BolajiAyodeji/inspireNuggetsSlackBot)
 - Git installed- Node and npm installed
 - A free [Heroku account](https://signup.heroku.com/)
