@@ -4,7 +4,7 @@
 
 > — Jenn Creighton
 
-![Jenn.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1574403769673/GAKOSwqE1.png)
+![Jenn.png](https://hashnode.imgix.net/res/hashnode/image/upload/v1574403769673/GAKOSwqE1.png?auto=compress&w=800)
 
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the "[She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15)" series on Hashnode.  
 Also, if you find this interview useful, please don't forget to share it with your friends and colleagues. 😃
