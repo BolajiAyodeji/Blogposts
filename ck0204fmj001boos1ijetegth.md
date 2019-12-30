@@ -1,8 +1,5 @@
 ## Facebook Developer Circles Lokoja - Launch Event 2019
 
-
-![DevC_Email_Header.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1567400604391/3W2wsOlh6.png)
-
 Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market. 
 
 ## Why join a circle?
