@@ -55,7 +55,7 @@ Here is a sample code sandbox that shows how this logic is used with a user inte
 
 %[https://codesandbox.io/s/magic-react-busbe?fontsize=14&hidenavigation=1&theme=dark]
 
-Want to get started now? I'll recommend you start with the official [React Docs](https://reactjs.org/tutorial/tutorial.html) and [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) by [Tania Rascia](https://hashnode.com/@taniarascia). Prefer visuals? Check out [ReactforBeginners](https://reactforbeginners.com/) by Wes Bos (PAID) and [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44) by FreeCodeCamp (FREE).
+Want to get started now? I'll recommend you start with the official [React Docs](https://reactjs.org/tutorial/tutorial.html) and [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) by Tania Rascia. Prefer visuals? Check out [ReactforBeginners](https://reactforbeginners.com/) by Wes Bos (PAID) and [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44) by FreeCodeCamp (FREE).
 
 ---
 
