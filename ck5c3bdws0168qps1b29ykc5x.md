@@ -17,7 +17,7 @@ If you have been considering to get started with learning Reactjs, here are some
 
 React components implement a **render()** method that takes input data and returns what to display. 
 
-This would display a heading saying “Hello, world!”.
+This would display a heading saying, “Hello, world!”.
 
 ```js
 ReactDOM.render(
