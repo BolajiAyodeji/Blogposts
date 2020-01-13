@@ -15,7 +15,7 @@ React has grown to be the developer's choice as it has topped several polls and 
 
 If you have been considering to get started with learning Reactjs, here are some snippets to show how React code looks like and maybe inspire you to get started as soon as possible.
 
-React components implement a render() method that takes input data and returns what to display. 
+React components implement a **render()** method that takes input data and returns what to display. 
 
 This would display a heading saying “Hello, world!”.
 
