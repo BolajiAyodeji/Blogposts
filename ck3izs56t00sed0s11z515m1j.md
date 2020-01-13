@@ -47,7 +47,7 @@ This option rewrites the very last commit with any currently staged changes or a
 
 ```bash
 git add .
-git commit --ammend -m "Update roles for netlify-cms git gateway"
+git commit --amend -m "Update roles for netlify-cms git gateway"
 ```
 
 ## Why should you write good commit messages?
