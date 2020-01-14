@@ -59,7 +59,7 @@ Want to get started now? I'll recommend you start with the official [React Docs]
 
 ---
 
-## The 15 Amazing Dev Tools
+## The 15 Amazing React Dev Tools
 
 React is a famous JavaScript library with tons of frameworks and tools created around it daily. While the numerous lists of tools provide you with a wide range of options, choosing which tool to use can be daunting for a beginner or intermediate. Below is a list of recommended React Dev Tools you can consider.
 
