@@ -1,6 +1,6 @@
 ## #DevCLokoja30DaysOfCode Season I Recap
 
-Last year November, [we announced the first #30DaysofCode challenge](https://facebook.com/groups/devclokoja/permalink/2564914083584282/) for members of Facebook Developer Circle Lokoja to help members improve their programming skills or get started in programming by learning and writing code for 30 days in a row and get rewarded for their efforts.
+Last year November, [we announced the first #DevCLokoja30DaysofCode challenge](https://facebook.com/groups/devclokoja/permalink/2564914083584282/) for members of Facebook Developer Circle Lokoja to help members improve their programming skills or get started in programming by learning and writing code for 30 days in a row and get rewarded for their efforts.
 
 This challenge started at 1ST DECEMBER 2019 and ended on the 30TH DECEMBER 2019.
 
