@@ -4,8 +4,6 @@
 
 > — Charlie Gerard
 
-![charlie.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1580070992601/-GKt6imUk.jpeg)
-
 ---
 
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the series on Hashnode.  
