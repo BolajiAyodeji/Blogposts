@@ -105,4 +105,4 @@ Don't forget to Download [Discord](https://discordapp.com/) on your mobile and l
 
 Open-source technologies are driving the future as the most widely adopted tools for building disruptive and innovative solutions to current global issues. Learn how to effectively contribute towards building the next generation of world-class solutions in Africa by joining an Open Source Community Africa Chapter nearest to you.
 
-![osf-nxbc.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1578394672981/7ngqLWYh6.jpeg)
+![NXTBC.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1582063720929/5cEREkL07.png)
