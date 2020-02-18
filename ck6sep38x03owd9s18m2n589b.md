@@ -93,6 +93,13 @@ BUS ARRIVAL TIME: 6:00 am
 
 Buses will be at these locations as early as 6: 00 am and would leave their locations at 8:00 am prompt to the venue 🚀.
 
+## Discord Server
+
+We have a new server to accommodate our global community, chapters, events, and programs. Ensure to join and invite others. Speaker slides, important updates, and support requests will be disseminated via this medium henceforth :).
+
+%[https://discord.gg/8STPZzN]
+
+
 ---
 
 Open-source technologies are driving the future as the most widely adopted tools for building disruptive and innovative solutions to current global issues. Learn how to effectively contribute towards building the next generation of world-class solutions in Africa by joining an Open Source Community Africa Chapter nearest to you.
