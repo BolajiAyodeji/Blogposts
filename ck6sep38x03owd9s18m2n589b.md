@@ -24,7 +24,7 @@ Read more about the event and agenda here:
 
 %[https://festival.oscafrica.org/sustain-africa]
 
-Want to attend SustainAfrica but got no [Sustain ticket](https://opencollective.com/open-source-festival-2020-4abe0517/contribute/osf-sustainafrica-12876)? We have limited seats available, kindly the application link in the Sustain Africa page.
+Want to attend SustainAfrica but got no [Sustain ticket](https://opencollective.com/open-source-festival-2020-4abe0517/contribute/osf-sustainafrica-12876)? We have limited seats available, kindly find the application link in the Sustain Africa page.
 
 **Who should attend?**
 
