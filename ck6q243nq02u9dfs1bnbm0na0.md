@@ -111,7 +111,7 @@ If we want to build a future that works for everybody, it becomes vitally import
 
 ## What does your development environment look like? Could you please share a photo? :)
 
-![flora's workspace.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1581875294249/-4wxtEd4Y.jpeg)
+![flora's workspace.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1581875294249/-4wxtEd4Y.jpeg?auto=compress&w=1000)
 
 The pixelated Metroid painting was done by my friend Stefan in the early 2000s and remains one of my favorite art pieces. The printed tweet from Ryan Florence is meant to be a joke, but I also look at it sometimes if I do feel the imposter syndrome coming on. Will Larson's An Elegant Puzzle is a permanent fixture on my desk and I refer to it often. Highly recommended! The desk from EvoDesk and I use the Microsoft Sculpt keyboard, which has been a godsend for my wrists.
 
