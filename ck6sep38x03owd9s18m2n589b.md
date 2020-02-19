@@ -99,7 +99,7 @@ We have a new server to accommodate our global community, chapters, events, and 
 
 %[https://discord.gg/8STPZzN]
 
-Don't forget to Download [Discord](https://discordapp.com/) on your mobile and laptop devices.
+Don't forget to Download [Discord](https://discordapp.com/) on your mobile and laptop devices for faster communication.
 
 ---
 
