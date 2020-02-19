@@ -4,7 +4,7 @@
 
 > — Flora Worley
 
-![Flora.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1581876759666/7-ZcMymLV.jpeg)
+![Flora.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1581876759666/7-ZcMymLV.jpeg?auto=compress&w=800)
 
 ---
 
@@ -53,6 +53,8 @@ Flora is a UI Engineer, ReactJS specialist with 5 years experience building Reac
 ## You are a ReactJS specialist with 5 years experience, how and what resources did you use to master React?
 
 **Flora:** I started using React after attending Christopher Chadeaux's talk about [React's architecture at OSCON in 2014](https://www.youtube.com/watch?v=tXeBZ3WujTs). Most of my experience at that time was in Backbone, and our team at Sprintly had been having a really difficult time nailing down several race conditions related to paginated fetching and cache updates. I think I intuitively understood the value proposition of React and it's one-way data flow paradigm early as a result. I can't recall how I learned React itself other than through reading the official docs (particularly Pete Hunt's "Thinking in React" article), but I believe the first practical step I took was rendering some JSX in one of our Backbone views. At that time, Sprintly had just merged with a company called QuickLeft, and QuickLeft's co-founder and CTO, Sam Breed, was also pushing React for many new projects. I don't think much has changed in the sense that figuring out how to build and bundle a React project is the greatest hurdle to overcome.
+
+%[https://www.youtube.com/watch?v=tXeBZ3WujTs]
 
 ## We see that you work predominately in Front-end Engineering, JavaScript, ReactJS and GraphQL. How did you decide to focus on these paths?
 
