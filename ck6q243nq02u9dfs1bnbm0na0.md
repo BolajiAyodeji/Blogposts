@@ -4,7 +4,7 @@
 
 > — Flora Worley
 
-![Flora.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1581876759666/7-ZcMymLV.jpeg?auto=compress&w=700&h=700&fit=crop)
+![Flora Worley](https://hashnode.imgix.net/res/hashnode/image/upload/v1581876759666/7-ZcMymLV.jpeg?auto=compress&w=700&h=700&fit=crop)
 
 ---
 
