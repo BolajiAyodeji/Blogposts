@@ -47,7 +47,7 @@ already](https://codepen.io/iambolajiayo/pen/MdGdex?editors=1010)
 
 (Follow the next step and update this form to use this method)
 
-`"
+```
     <form action="https://formspree.io/you@email.com" method="POST">
         <input type="hidden" name="_subject" value="Bolaji's Form">                 
         <input type="hidden" name="_next" value="/thanks.html" >
