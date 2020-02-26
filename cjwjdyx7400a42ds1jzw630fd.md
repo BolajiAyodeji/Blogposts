@@ -110,7 +110,7 @@ plans are mostly needed by Enterprise applications and companies; the Free plan 
 
 * Formspree premium users can submit forms via AJAX. Just set the Accept header to application/json. If you're using jQuery this can be done like so:
 
-`"
+```
     $.ajax({
         url: "https://formspree.io/FORM_ID",
         method: "POST",
@@ -126,7 +126,7 @@ Well, this is for paid users :)
 library](https://github.com/BolajiAyodeji/simple-ajax-library), a simple library
 I built for handling HTTP requests. Like so:
 
-`"
+```
     const http = new simpleAJAX;
 
     const data = {
@@ -167,7 +167,7 @@ If you're into React, [ZEIT](https://zeit.co/) has a comprehensive guide on usin
 
 * Now that you have deployed your site let's create the form again
 
-`"
+```
     <form action="/thanks.html" name="Bolaji's form" method="POST" data-netlify="true">
         <input type="text" name="name">
         <input type="email" name="email">
