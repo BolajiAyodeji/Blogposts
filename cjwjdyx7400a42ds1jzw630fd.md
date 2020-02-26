@@ -237,7 +237,7 @@ file uploads and spam filtering. [Full guide + practical code]
 
 %[https://www.youtube.com/watch?v=6ElQ689HRcY]
 
-###Useful Links
+### Useful Links
 
 - https://www.netlify.com/docs/form-handling/
 - https://forestry.io/blog/5-ways-to-handle-forms-on-your-static-site/
