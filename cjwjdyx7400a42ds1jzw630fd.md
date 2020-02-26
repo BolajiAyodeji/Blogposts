@@ -146,6 +146,8 @@ I built for handling HTTP requests. Like so:
 
 A star would make me happy! :)
 
+If you're into React, [ZEIT](https://zeit.co/) has a comprehensive guide on using Formspree with [Create React App](https://zeit.co/guides/deploying-react-forms-using-formspree-with-zeit-now), complete with deployment instructions. Highly recommended!
+
 ### METHOD TWO 
 
 ![netlify.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1582700147438/mBF_qYAFD.png)
@@ -215,14 +217,10 @@ And that’s all!!
 
 ### Final HTML Form code
 
-
 %[https://gist.github.com/BolajiAyodeji/e95ca45355aec76c477ec3cac7fc1d9a]
 
 
-
 %[https://gist.github.com/BolajiAyodeji/5fb88278f28302423d657c9a91d2e3f8]
-
-
 
 ### Conclusion
 
@@ -238,3 +236,13 @@ file uploads and spam filtering. [Full guide + practical code]
 
 
 %[https://www.youtube.com/watch?v=6ElQ689HRcY]
+
+###Useful Links
+
+- https://www.netlify.com/docs/form-handling/
+- https://forestry.io/blog/5-ways-to-handle-forms-on-your-static-site/
+- https://gridsome.org/docs/guide-forms/
+- https://zeit.co/guides/deploying-react-forms-using-formspree-with-zeit-now
+- https://zeit.co/guides/deploying-statickit-with-zeit-now
+
+Thanks for reading!
