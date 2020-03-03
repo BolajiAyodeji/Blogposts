@@ -4,7 +4,7 @@
 
 > — Edidiong Asikpo
 
-![Edidiong_Asikpo.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1583195307330/iMYfNl_nA.jpeg)
+![Edidiong_Asikpo.jpeg](https://hashnode.imgix.net/res/hashnode/image/upload/v1583195307330/iMYfNl_nA.jpeg?auto=compress&w=800)
 
 ---
 
@@ -112,7 +112,7 @@ She is an eloquent writer, speaker, and communicator with a keen interest in mak
 
 ## What does your development environment look like? Could you please share a photo? :)
 
-![Edidiong's workspace.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1583195236154/1Nl7bKNqM.jpeg)
+![Edidiong's workspace.jpeg](https://hashnode.imgix.net/res/hashnode/image/upload/v1583195236154/1Nl7bKNqM.jpeg?auto=compress&w=800)
 
 Well, It’s pretty boring, right? I guess I am not really into cool workspaces like most developers
 
