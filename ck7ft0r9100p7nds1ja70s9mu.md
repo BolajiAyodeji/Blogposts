@@ -157,7 +157,7 @@ https://res.cloudinary.com/bolaji/image/upload/q_auto,f_auto/v1583381262/bolaji_
 
 The faster your website loads images, the faster your website loads, the better your SEO ranking becomes, the better your user experience becomes, the more users interact with your website/ product, the increased your conversion rates become. It's a win-win, satisfy your users and increase your conversion rates.
 
-I consider this article fundamental as there is so much more you can do with Cloudinary to manage your media assets, and I hope this helps you find your way to the numerous other transformations you can perform with Cloudinary.
+I consider this article fundamental as there is so much more you can do with Cloudinary to manage your media assets, and I hope this helps you find your way to the numerous other transformations you can perform with Cloudinary :).
 
 ## Further Resources
 
