@@ -120,7 +120,7 @@ This transformation allows you to control the visual quality and compression lev
 
 I uploaded [this image](https://res.cloudinary.com/bolaji/image/upload/v1583381262/bolaji_headshot.jpg) to Cloudinary with an initial file size of 1.46 MB
 
-Now I apply the `q_auto` parameter just after the `/upload/,` and the image is delivered with optimal visual quality while minimizing the file size to 297 KB based on the image content and the viewing browser. That's about 1163 KB lost in 215 ms.
+Now I apply the `q` parameter with value `auto` (q_auto) just after the `/upload/,` and the image is delivered with optimal visual quality while minimizing the file size to 297 KB based on the image content and the viewing browser. That's about 1163 KB lost in 215 ms.
 
 ```
 https://res.cloudinary.com/bolaji/image/upload/q_auto/v1583381262/bolaji_headshot.jpg
@@ -136,7 +136,7 @@ Different browsers support different image formats, Cloudinary allows you to del
 
 I uploaded [this image](https://res.cloudinary.com/bolaji/image/upload/v1583381262/bolaji_headshot.jpg) to Cloudinary with an initial file size of 1.46 MB
 
-Now I apply the `f_auto` parameter just after the `/upload/,` and the image is delivered as WebP to Chrome browsers (376 KB), JPEG-XR to Internet Explorer browsers, or as a regular JPEG to browsers that support neither format.
+Now I apply the `f` parameter with value `auto` (f_auto) just after the `/upload/,` and the image is delivered as WebP to Chrome browsers (376 KB), JPEG-XR to Internet Explorer browsers, or as a regular JPEG to browsers that support neither format.
 
 ```
 https://res.cloudinary.com/bolaji/image/upload/f_auto/v1583381262/bolaji_headshot.jpg
