@@ -147,7 +147,7 @@ https://res.cloudinary.com/bolaji/image/upload/f_auto/v1583381262/bolaji_headsho
 
 If you add the `f_auto` and `q_auto` parameter, then Cloudinary will deliver WebP and JPEG-XR to the compatible browsers but might deliver selected images as PNG-8 or PNG-24 if the quality algorithm determines that as optimal.
 
-Using the automatic format and automatic quality is most recommended as it allows Cloudinary's algorithm to decide how to deliver the image based on the user's browsers leading to better-looking images and optimal images.
+Using the automatic format and automatic quality is most recommended as it allows Cloudinary's algorithm to decide how to deliver the image based on the user's browsers leading to better visual quality and optimal images.
 
 ```
 https://res.cloudinary.com/bolaji/image/upload/q_auto,f_auto/v1583381262/bolaji_headshot.jpg
