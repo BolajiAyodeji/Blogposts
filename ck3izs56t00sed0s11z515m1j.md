@@ -33,12 +33,12 @@ git add static/admin/config.yml
 git commit -m "Setup multiple roles for netlify-cms git gateway"
 ```
 
-- **-a**
+- **-a or --all**
 
-This option rewrites the last commit with any staged changes or a new commit message and should only be performed on commits that have not been pushed to a remote repository, yet.
+This option automatically commits all (including new) tracked, modified or deleted files.
 
 ```bash
-git commit -a "Setup multiple roles for netlify-cms git gateway"
+git commit -a -m "Add a new role for netlify-cms git gateway"
 ```
 
 - **--amend**
