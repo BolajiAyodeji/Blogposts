@@ -162,8 +162,7 @@ I consider this article fundamental as there is so much more you can do with Clo
 ## Further Resources
 
 - [Cloudinary Image Transformation Documentation](https://cloudinary.com/documentation/image_transformations)
-- [Compress Images for Web and Boost Performance on Your Site](https://cloudinary.com/blog/compress_images_for_web_and_boost_performance_on_your_site
-https://cloudinary.com/features/optimization_fast_delivery)
+- [Compress Images for Web and Boost Performance on Your Site](https://cloudinary.com/blog/compress_images_for_web_and_boost_performance_on_your_site)
 - [Automatically Reduce Image Size Without Losing Quality](https://cloudinary.com/blog/adaptive_browser_based_image_format_delivery)
 - [Compression of Image Files With Only One Line of Code](https://cloudinary.com/blog/compression_of_image_files_with_only_one_line_of_code)
 - [How to make your website load lightning fast with WebP images](https://www.freecodecamp.org/news/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2/)
