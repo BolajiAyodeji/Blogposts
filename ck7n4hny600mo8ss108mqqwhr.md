@@ -13,6 +13,7 @@ I have received tons of messages and requests from amazing developers looking fo
 - Speaker Decks
 - Books
 - Videos
+- Podcasts
 - Technical Writers to Follow
 
 It's open to suggestions and contributions, please check it out.
