@@ -100,7 +100,7 @@ She is an eloquent writer, speaker, and communicator with a keen interest in mak
 
 ## Which of your projects are you most proud of? Can you briefly introduce us to it and why you built it?
 
-**Edidiong:** It has to be the new documentation platform for Interswitch. Over the years a lot of people have complained about our API documentation [here](https://sandbox.interswitchng.com/docbase/) and this [new platform](https://developer.interswitch.com/) aims to solve that problem. I can't wait for us to launch the documentation platform.
+**Edidiong:** It has to be the new documentation platform for Interswitch. Over the years a lot of people have complained about our API documentation [here](https://sandbox.interswitchng.com/docbase/) and this [new platform](https://developer.interswitchgroup.com/docs/) aims to solve that problem. I can't wait for us to launch the documentation platform.
 
 ## What is the best advice someone has given you that has helped you in your career?
 
