@@ -245,8 +245,6 @@ We have a new Discord server to accommodate our global community, chapters, even
 
 We have started publishing some videos from the festival on our [YouTube channel](https://www.youtube.com/channel/UCr12SA6qoKe-mWgsGd09sYQ). Please ensure to subscribe and turn on notifications to get updated when we upload new videos.
 
-%[https://www.youtube.com/channel/UCr12SA6qoKe-mWgsGd09sYQ]
-
 ## The Big Question
 
 Which country would host the Open Source Festival 2021???
