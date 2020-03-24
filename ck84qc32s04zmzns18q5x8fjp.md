@@ -27,7 +27,7 @@ We had ten power-packed workshops on the first day of the festival, with over 40
 
 ![_47A0983.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1584276938387/oX8c_WDFa.jpeg)
 
-![ban.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1584446469221/DSaFbT5aq.png)
+![venue.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1584446469221/DSaFbT5aq.png)
 
 🎙️The first workshop was anchored by [Regina Nkemchor Adejo](https://oscafest.sched.com/speaker/nkemregina), who taught the attendees how to improve their Linux User Experience by exploring the various streams of open source desktop customization.
 
