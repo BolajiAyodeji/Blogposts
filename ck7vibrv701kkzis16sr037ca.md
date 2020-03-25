@@ -1,10 +1,10 @@
 ## Women in Tech: Ada Nduka Oyom
 
-> **You don't have to win every time, you just need to learn how to get comfortable with the process so it's not alien to you when you join else it could be a lot intimidating**
+> **You don't have to win every time, you just need to learn how to get comfortable with the process so it's not alien to you when you join else it could be a lot intimidating.**
 
 > — Ada Nduka Oyom
 
-![GOOGLE_IWD_2020...70.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1584325490094/7yV1DEEzp.jpeg)
+![GOOGLE_IWD_2020...70.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1584325490094/7yV1DEEzp.jpeg?w=800&auto=compress)
 
 ---
 
@@ -92,7 +92,7 @@ Ada is also actively involved in advocating for open source in Africa, hence co-
 
 ## What does your development environment look like? Could you please share a photo? :)
 
-![Workstation.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1584325443241/ATIr6mreW.jpeg)
+![Developer Workstation](https://hashnode.imgix.net/res/hashnode/image/upload/v1584325443241/ATIr6mreW.jpeg?w=800&auto=compress)
 
 My workstation at the office
 
@@ -106,7 +106,7 @@ Thanks for taking out time to read this interview. 👋
 
 This series is all about talking to the awesome women in tech, understanding the current health of the tech industry, and inspiring other women to become better. If you want to share your story, please reach out to me on [Hashnode](https://hashnode.com/@bolajiayodeji).
 
-Did you find Ada's story useful and inspiring?
+## Did you find Ada's story useful and inspiring?
 Write down your thoughts in the comments section below and don't forget to share this interview. 
 You can also follow Hashnode on  [Twitter](https://twitter.com/hashnode)  to stay up-to-date with our future. She Inspires interviews. 
 
