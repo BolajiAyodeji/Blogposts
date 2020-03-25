@@ -1,7 +1,6 @@
 ## How to Fix Git Always Asking for User Credentials
 
-Have you ever encountered Git asking you for your username and password every time you try to interact with GitHub even after configuring it? Well, this is a very common problem among users who use the HTTPS clone URL for their repository.
-In this article, I'll show you how to fix this.
+Have you ever encountered Git asking you for your username and password every time you try to interact with GitHub even after configuring it? Well, this is a very common problem among users who use the HTTPS clone URL for their repository. In this article, I'll show you how to fix this.
 
 ---
 
