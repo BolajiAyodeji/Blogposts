@@ -4,7 +4,7 @@
 
 > — Tomomi Imura
 
-![tomomi_and_leia.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1585648061086/lpIfLudf1.jpeg)
+![Tomomi Imura's image](https://hashnode.imgix.net/res/hashnode/image/upload/v1585648061086/lpIfLudf1.jpeg?auto=compress&w=1200)
 
 ---
 
@@ -154,7 +154,7 @@ I give a lot of workshops and webinars, so for teaching people, I found Glitch v
 
 ## What does your development environment look like? Could you please share a photo? :) 
 
-![IMG_20200319_104419_MP.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1585648035519/feBOUmQpV.jpeg)
+![IMG_20200319_104419_MP.jpg](https://hashnode.imgix.net/res/hashnode/image/upload/v1585648035519/feBOUmQpV.jpeg?auto=compress)
 
 My physical environment is usually trashed by this bad cat. Another cat is a good boy who doesn't bother me too much.
 
