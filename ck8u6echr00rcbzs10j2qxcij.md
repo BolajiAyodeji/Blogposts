@@ -1,7 +1,7 @@
 ## Women of DevC Lokoja IWD Celebration 2020 - Recap
 
 
-Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market. 
+[Developer Circles from Facebook](https://developers.facebook.com/developercircles/) is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market. 
 
 To build upon the United Nation’s official International Women’s Day theme in 2020 “#EachforEqual” We hosted an International Women's Day event aimed at celebrating women in various roles in the tech space. The event was originally scheduled to hold physically, but due to the evolving public health concerns related to COVID-19, we decided to cancel the Women of DevC Lokoja - IWD Celebration physical event. Meanwhile, we hosted the event virtually via Zoom and Google Meets (a remote video conferencing app).
 
