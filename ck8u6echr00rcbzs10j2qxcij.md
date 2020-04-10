@@ -19,7 +19,7 @@ We had several talk sessions and Q/As which featured amazing speakers who shared
 
 ![WhatsApp Image 2020-03-28 at 11.17.59 AM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586347745832/Ym0a5oVGV.jpeg)
 
-- [Angie Jones](https://twitter.com/techgirl1908) (Senior Developer Advocate at Applitools) gave her talk on "Computer Programming: Not Just a Man's Sport" where she introduced the attendees to the basics of programming
+- [Angie Jones](https://twitter.com/techgirl1908) (Senior Developer Advocate at Applitools) gave her talk on "Computer Programming: Not Just a Man's Sport" where she introduced the attendees to the basics of programming.
 
 ![WhatsApp Image 2020-03-28 at 11.18.08 AM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586346921288/G0jePD1qg.jpeg)
 
@@ -37,11 +37,11 @@ We had several talk sessions and Q/As which featured amazing speakers who shared
 
 %[https://www.freecodecamp.org/news/connecting-the-dots-a-story-of-learning-to-code-and-giving-back-c8867cdffcb1/]
 
-- [Ada Nduka Oyom](https://twitter.com/Kolokodess) Founder She Code Africa gave her talk where she shared her story on how she got into tech and the amazing work she's doing at She Code Africa
+- [Ada Nduka Oyom](https://twitter.com/Kolokodess) Founder She Code Africa gave her talk where she shared her story on how she got into tech and the amazing work she's doing at She Code Africa.
 
 %[https://townhall.hashnode.com/women-in-tech-ada-nduka-oyom-ck7vibrv701kkzis16sr037ca]
 
-- [Nenne Adaora Nwodo](https://twitter.com/adoranwodo) (Software Engineer at Microsoft) gave her talk on "Crawl, Walk, Run, Fly. Go From Newbie To Experienced Developer" where she gave a detailed guide on how to grow as a developer
+- [Nenne Adaora Nwodo](https://twitter.com/adoranwodo) (Software Engineer at Microsoft) gave her talk on "Crawl, Walk, Run, Fly. Go From Newbie To Experienced Developer" where she gave a detailed guide on how to grow as a developer.
 
 ![WhatsApp Image 2020-03-28 at 2.03.51 PM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586348188010/qvbtVDoHa.jpeg)
 
@@ -67,19 +67,19 @@ We had several talk sessions and Q/As which featured amazing speakers who shared
 
 %[https://devcareer.io/]
 
-- Founders and Coders · GitHub - Learning resources and curriculum
+- Founders and Coders GitHub - Learning resources and curriculum.
 
 %[https://github.com/foundersandcoders]
 
-- Webmaker - A tool for practising HTML, CSS, and js offline
+- Webmaker - A tool for practising HTML, CSS, and js offline.
 
 %[https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh?hl=en]
 
-- FavCode54 - A tech initiative that aims to Teach, Mentor, & Build the next generation of African Software Developers
+- FavCode54 - A tech initiative that aims to Teach, Mentor, & Build the next generation of African Software Developers.
 
 %[https://favcode54.org/]
 
-- She Code Africa - Celebrating and empowering Women in Tech across Africa
+- She Code Africa - Celebrating and empowering Women in Tech across Africa.
 
 %[https://www.shecodeafrica.org/]
 
