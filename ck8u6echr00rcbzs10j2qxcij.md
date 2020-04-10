@@ -15,33 +15,47 @@ On 28th March 2020, we had our first virtual event at Facebook Developer Circle:
 
 We had several talk sessions and Q/As which featured amazing speakers who shared their story, history and encouraged the attendees to get started with tech.
 
-- [Bolaji Ayodeji](https://twitter.com/iambolajiayo) introduced the audience to Facebook Developer Circles and the amazing work they have been doing to support the community in Lokoja, Kogi State.
+### Talk One
+
+[Bolaji Ayodeji](https://twitter.com/iambolajiayo) introduced the audience to Facebook Developer Circles and the amazing work they have been doing to support the community in Lokoja, Kogi State.
 
 ![WhatsApp Image 2020-03-28 at 11.17.59 AM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586347745832/Ym0a5oVGV.jpeg)
 
-- [Angie Jones](https://twitter.com/techgirl1908) (Senior Developer Advocate at Applitools) gave her talk on "Computer Programming: Not Just a Man's Sport" where she introduced the attendees to the basics of programming.
+### Talk Two
+
+[Angie Jones](https://twitter.com/techgirl1908) (Senior Developer Advocate at Applitools) gave her talk on "Computer Programming: Not Just a Man's Sport" where she introduced the attendees to the basics of programming.
 
 ![WhatsApp Image 2020-03-28 at 11.18.08 AM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586346921288/G0jePD1qg.jpeg)
 
 %[https://www.youtube.com/watch?v=DEvNrdN3oa8]
 
-- [Eunice Emmanuel-Bagi](https://twitter.com/Emmanuelbagi) (Co-founder Mentor-Box) gave her talk on "Leveraging on innovation to create ecosystems for technology to thrive in underserved communities" where she introduced the attendees to the new innovation hub and co-working space launched in Lokoja, Kogi State.
+### Talk Three
+
+[Eunice Emmanuel-Bagi](https://twitter.com/Emmanuelbagi) (Co-founder Mentor-Box) gave her talk on "Leveraging on innovation to create ecosystems for technology to thrive in underserved communities" where she introduced the attendees to the new innovation hub and co-working space launched in Lokoja, Kogi State.
 
 ![WhatsApp Image 2020-03-28 at 11.18.08 AM (1).jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586346963343/-x-z44_05.jpeg)
 
-- [Gift Egwuenu](https://twitter.com/lauragift_) (Frontend Engineer & Developer Evangelist at Datopian) gave her talk on "Personal Branding for Software Engineers" where she introduced the attendees to the benefits of personal branding and how they can build one.
+### Talk Four
+
+[Gift Egwuenu](https://twitter.com/lauragift_) (Frontend Engineer & Developer Evangelist at Datopian) gave her talk on "Personal Branding for Software Engineers" where she introduced the attendees to the benefits of personal branding and how they can build one.
 
 %[https://www.youtube.com/watch?v=HxDqyK3fNUs]
 
-- [Fatimat Gbajabiamila](https://twitter.com/fg_webdev) (Software Engineer at Apolitical) age her talk on "Building your career with the tech community" where she explained how she got started in tech with the help of the community and how the attendees can leverage on community-based programs and resources to learn.
+### Talk Five
+
+[Fatimat Gbajabiamila](https://twitter.com/fg_webdev) (Software Engineer at Apolitical) age her talk on "Building your career with the tech community" where she explained how she got started in tech with the help of the community and how the attendees can leverage on community-based programs and resources to learn.
 
 %[https://www.freecodecamp.org/news/connecting-the-dots-a-story-of-learning-to-code-and-giving-back-c8867cdffcb1/]
 
-- [Ada Nduka Oyom](https://twitter.com/Kolokodess) Founder She Code Africa gave her talk where she shared her story on how she got into tech and the amazing work she's doing at She Code Africa.
+### Talk Six
+
+[Ada Nduka Oyom](https://twitter.com/Kolokodess) Founder She Code Africa gave her talk where she shared her story on how she got into tech and the amazing work she's doing at She Code Africa.
 
 %[https://townhall.hashnode.com/women-in-tech-ada-nduka-oyom-ck7vibrv701kkzis16sr037ca]
 
-- [Nenne Adaora Nwodo](https://twitter.com/adoranwodo) (Software Engineer at Microsoft) gave her talk on "Crawl, Walk, Run, Fly. Go From Newbie To Experienced Developer" where she gave a detailed guide on how to grow as a developer.
+### Talk Seven
+
+[Nenne Adaora Nwodo](https://twitter.com/adoranwodo) (Software Engineer at Microsoft) gave her talk on "Crawl, Walk, Run, Fly. Go From Newbie To Experienced Developer" where she gave a detailed guide on how to grow as a developer.
 
 ![WhatsApp Image 2020-03-28 at 2.03.51 PM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1586348188010/qvbtVDoHa.jpeg)
 
@@ -103,6 +117,6 @@ We had several talk sessions and Q/As which featured amazing speakers who shared
 
 ---
 
-Thanks to everyone who contributed to the success of this event: Facebook, our sponsors, our amazing speakers, and everyone who attended the event.
+Thanks to everyone who contributed to the success of this event: Facebook, our sponsors, our amazing speakers, our friends at [DevC Uyo](https://devcuyo.hashnode.dev/) and everyone who attended the event.
 
 > Join [Facebook Developer Circle: Lokoja](https://web.facebook.com/groups/devclokoja/) today, to collaborate, learn, and code with other local developers today.
