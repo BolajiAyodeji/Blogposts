@@ -402,7 +402,7 @@ This is, in fact, the most important tool in this article as it comprises of all
 
 React has a community of millions of developers, and it continuously built by amazing developers across the globe.
 
-The [Hashnode React Community](https://hashnode.com/n/reactjs) is an online forum for discussion about best practices and application architecture, as well as the future of React.
+The [Hashnode React Community](https://hashnode.com/n/reactjs) is an online forum for discussion about best practices and application architecture, as well as the future of React. You can also check out these [effective questions](https://www.toptal.com/react#hiring-guide) that can help you evaluate your mastery of React.js.
 
 Feel free to drop by and ask questions when you need help :).
 
