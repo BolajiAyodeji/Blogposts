@@ -132,16 +132,12 @@ Also, remember that even the most experienced developers still stack overflow al
 
 **Eva:** I got two!
 
-- Chroma code
-
-%[https://chroma-code.netlify.com]
-
+1. Chroma code  
+%[https://chroma-code.netlify.com]  
 I did it for fun, the aim was to learn a little bit about video manipulation and thanks to it I got to travel the world and meet awesome people and explain how you can create your own invisibility cloak. Definitely proud of myself, I need to create more… “useless” stuff.
 
-- Naranja
-
-%[https://www.naranja.com/]
-
+2. Naranja  
+%[https://www.naranja.com/]  
 I worked on this website for most of 2018 and part of 2019 and… It’s not perfect but I learn so so so much! I learned Angular, (more) accessibility, security, writing documentation and how to build a great team.
 
 ## What is the best advice someone has given you that has helped you in your career?
