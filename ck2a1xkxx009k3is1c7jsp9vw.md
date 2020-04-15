@@ -6,15 +6,15 @@ for safety, accessibility or PCI compliance reasons is necessary. It becomes
 very important to redirect from HTTP to HTTPS.
 
 
-### What is SSL?
+## What is SSL?
 
 SSL (Secure Sockets Layer) is a standard security protocol for establishing
-encrypted links between a web server and a browser in an online communication.
+encrypted links between a web server and a browser in online communication.
 
 The usage of SSL technology ensures that all data transmitted between the web
-server and browser remains encrypted.
+server and browser remain encrypted.
 
-An **SSL certificate** is necessary to create SSL connection. You would need to
+An **SSL certificate** is necessary to create an SSL connection. You would need to
 give all details about the identity of your website and your company as and when
 you choose to activate SSL on your web server. Following this, two cryptographic keys are created with a Private Key and a Public Key.
 
@@ -27,7 +27,7 @@ In order to force your web traffic to use HTTPS, edit the codes in the
 Before we move onto redirecting HTTP to HTTPS, here's how you can edit .htaccess
 file. If you already know skip to Redirection steps.
 
-### Editing .htaccess File
+## Editing .htaccess File
 
 There are instructions/directives in the .htaccess file that tell the server how
 to act in certain scenarios and directly affects how your website functions.
@@ -36,70 +36,70 @@ Common directives in .htaccess file:
 * Redirects
 * Rewriting URLs
 
-**Ways to edit an .htaccess file:**
+**Ways to edit a .htaccess file:**
 
-1.  Edit the file on your computer and upload it to the server using FTP.
-1.  Use "Edit" mode in FTP program that allows you to edit a file remotely.
-1.  Use a text editor and SSH to edit the file.
-1.  Use the File Manager in **cPanel** to edit the file.
+-  Edit the file on your computer and upload it to the server using FTP.
+-  Use "Edit" mode in the FTP program that allows you to edit a file remotely.
+-  Use a text editor and SSH to edit the file.
+-  Use the File Manager in **cPanel** to edit the file.
 
-### Editing .htaccess in cPanel File Manager
+## Editing .htaccess in cPanel File Manager
 
 **Note:** Backup your website in case something goes wrong.
 
-1.  Login to cPanel
-1.  Files > File Manager > Document Root for:
-1.  Now select the domain name you want to access
-1.  Check "Show Hidden Files (dotfiles)"
-1.  Click "Go"
-1.  After a new tab or window opens, look for the .htaccess file.
-1.  Right click on the .htaccess file and click on "Code Edit" on the menu.
-1.  A dialogue box may pop up asking about encoding. Click "Edit" button to
+-  Login to cPanel
+-  Files > File Manager > Document Root for:
+-  Now select the domain name you want to access
+-  Check "Show Hidden Files (dotfiles)"
+-  Click "Go"
+-  After a new tab or window opens, look for the .htaccess file.
+-  Right-click on the .htaccess file and click on "Code Edit" on the menu.
+-  A dialogue box may pop up asking about encoding. Click the "Edit" button to
 continue.
-1.  Edit the file
-1.  "Save Changes" when done.
-1.  Test your website to make sure it is done correctly. In case, there is an error,
+-  Edit the file
+-  "Save Changes" when done.
+-  Test your website to make sure it is done correctly. In case, there is an error,
 restore to the previous version and try again.
-1.  Once you are done, click "Close" to close the window.
+-  Once you are done, click "Close" to close the window.
 
-### Redirecting HTTP to HTTPS
+## Redirecting HTTP to HTTPS
 
-#### 1. Redirect All Web Traffic
+### 1. Redirect All Web Traffic
 
 If you have existing code in your .htaccess, add the following:
 
-    RewriteEngine On
+```
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ 
+```
 
-    RewriteCond %{SERVER_PORT} 80
-
-    RewriteRule ^(.*)$ 
-
-#### 2. Redirect Only a Specific Domain
+### 2. Redirect Only a Specific Domain
 
 For redirecting a specific domain to use HTTPS, add the following:
 
-    RewriteEngine On
+```
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^yourdomain\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ 
+```
 
-    RewriteCond %{HTTP_HOST} ^yourdomain\.com [NC]
-
-    RewriteCond %{SERVER_PORT} 80
-
-    RewriteRule ^(.*)$ 
-
-#### 3. Redirect Only a Specific Folder
+### 3. Redirect Only a Specific Folder
 
 Redirecting to HTTPS on a specific folder, add the following:
 
-    RewriteEngine On
+```
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{REQUEST_URI} folder
+RewriteRule ^(.*)$ 
+```
 
-    RewriteCond %{SERVER_PORT} 80
+> NB: Replace **"yourdomain"** with your actual domain name wherever required.
+Also, in case of the folder, replace **/folder** with the actual folder name.
 
-    RewriteCond %{REQUEST_URI} folder
+---
 
-    RewriteRule ^(.*)$ 
-
-Note: Replace *"yourdomain"* with your actual domain name wherever required.
-Also, in case of the folder, replace */folder* with the actual folder name.
-
-Think it was helpful? Share this article to help others come on HTTPS.
+Think it was helpful? Share this article to help others come on HTTPS :).
 
