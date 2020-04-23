@@ -74,7 +74,7 @@ In order to join you need to have a little bit of experience speaking at events 
 
 When it comes to the teaching part, teaching is my way of keeping myself humble. It helps me keep learning new things and understanding known concepts more deeply.
 
-%[https://youtu.be/d4gSor3KyIw?t=1004]
+%[https://youtu.be/d4gSor3KyIw]
 
 ## What advice do you have for a newbie or intermediate who dreams to work as a Front-end Developer?
 
