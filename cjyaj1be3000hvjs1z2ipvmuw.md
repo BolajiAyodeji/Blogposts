@@ -49,6 +49,7 @@ I’ve also created a repository with starter files which can be found [here](ht
 ### Installation guide
 
 To start using Hugo, you need to first install it.
+
 >  Hugo was written in Go, but you don’t need to install Go to enjoy Hugo. You only need a precompiled binary!
 
 Hugo currently provides pre-built binaries for the following:
@@ -133,7 +134,7 @@ hugo new site Hugo10
 
 Now you should have a new folder Hugo101 with subfolders:
 
-    .
+     .
     ├── archetypes
     ├── assets
     ├── config
@@ -193,7 +194,7 @@ hugo
 
 Now your directory would have a new subfolder public , this is the final build. *Hugo takes a source directory of files and templates and uses these as input to create a complete website.* The public is the complete website and is what you’d deploy.
 
-    .
+     .
     ├── archetypes
     ├── assets
     ├── config
