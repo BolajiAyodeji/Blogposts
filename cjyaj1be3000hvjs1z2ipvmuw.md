@@ -133,16 +133,17 @@ hugo new site Hugo10
 ```
 
 Now you should have a new folder Hugo101 with subfolders:
-
-     .
-    ├── archetypes
-    ├── assets
-    ├── config
-    ├── content
-    ├── data
-    ├── layouts
-    ├── static
-    └── themes
+ 
+```
+├── archetypes
+├── assets
+├── config
+├── content
+├── data
+├── layouts
+├── static
+└── themes
+```
 
 Full directory structure explanation can be found [here](https://gohugo.io/getting-started/directory-structure/)
 
@@ -177,13 +178,13 @@ This would be added in /contents/post
 * Some posts parameters would be added at the top of the file. I’ve added some additional parameters you might need.
 
 ```
-    ---
-    title: "my first post"
-    date: 2018-11-05T13:22:14+24:00
-    draft: false 
-    tags: ["markdown", "GitHub", "website"]
-    categories: ["hugo", "base16"]
-    ---
+---
+title: "my first post"
+date: 2018-11-05T13:22:14+24:00
+draft: false 
+tags: ["markdown", "GitHub", "website"]
+categories: ["hugo", "base16"]
+ ---
 ```
 
 * To build files, run
@@ -194,16 +195,17 @@ hugo
 
 Now your directory would have a new subfolder public , this is the final build. *Hugo takes a source directory of files and templates and uses these as input to create a complete website.* The public is the complete website and is what you’d deploy.
 
-     .
-    ├── archetypes
-    ├── assets
-    ├── config
-    ├── content
-    ├── data
-    ├── layouts
-    ├── public
-    ├── static
-    └── themes
+```    
+├── archetypes
+├── assets
+├── config
+├── content
+├── data
+├── layouts
+├── public
+├── static
+└── themes
+```
 
 * Configure Hugo for deployment
 
@@ -218,36 +220,36 @@ touch netlify.toml
 Paste this in it: (This is just configuring how Hugo should work with Netlify)
 
 ```
-    [build]
-    publish = "public"
-    command = "hugo --gc --minify"
+[build]
+ publish = "public"
+ command = "hugo --gc --minify"
 
-    [context.production.environment]
-    HUGO_VERSION = "0.54.0"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
+[context.production.environment]
+ HUGO_VERSION = "0.54.0"
+ HUGO_ENV = "production"
+ HUGO_ENABLEGITINFO = "true"
 
-    [context.split1]
-    command = "hugo --gc --minify --enableGitInfo"
+[context.split1]
+ command = "hugo --gc --minify --enableGitInfo"
 
-    [context.split1.environment]
-    HUGO_VERSION = "0.54.0"
-    HUGO_ENV = "production"
+[context.split1.environment]
+ HUGO_VERSION = "0.54.0"
+ HUGO_ENV = "production"
 
-    [context.deploy-preview]
-    command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+[context.deploy-preview]
+ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-    [context.deploy-preview.environment]
-    HUGO_VERSION = "0.54.0"
+[context.deploy-preview.environment]
+ HUGO_VERSION = "0.54.0"
 
-    [context.branch-deploy]
-    command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+[context.branch-deploy]
+ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-    [context.branch-deploy.environment]
-    HUGO_VERSION = "0.54.0"
+[context.branch-deploy.environment]
+ HUGO_VERSION = "0.54.0"
 
-    [context.next.environment]
-    HUGO_ENABLEGITINFO = "true"
+[context.next.environment]
+ HUGO_ENABLEGITINFO = "true"
 ```
 
 ## Deploying to Netlify
@@ -274,13 +276,13 @@ Select the “New site from git.” button
 
 ### **Select the repository you want to use for continuous deployment.**
 
-For this tutorial, I assume its Hugo101, else you can filter through your repositories in real time.
+For this tutorial, I assume its Hugo101, else you can filter through your repositories in real-time.
 
 ![](https://cdn-images-1.medium.com/max/2560/1*eLqmQvQ-EO_gdgSdlu3jjQ.png)
 
 ### **Deploy settings**
 
-Here you select the branch you wanted published, your [build command](https://gohugo.io/getting-started/usage/#the-hugo-command), and your publish (i.e. deploy) directory. The publish directory is public. The following steps assume you are publishing from the master branch.
+Here you select the branch you wanted to be published, your [build command](https://gohugo.io/getting-started/usage/#the-hugo-command), and your publish directory (Directory that contains the built static files). The publish directory for Hugo is public. The following steps assume you are publishing from the master branch.
 
 ![](https://cdn-images-1.medium.com/max/2560/1*eS_547o7sh8vVqiHAopqNw.png)
 
