@@ -1,4 +1,4 @@
-## The GROWTH MINDSET demystified
+## The GROWTH MINDSET Demystified
 
 I can’t do it, I can’t learn this, it's too hard, Come on, I’m just a Junior Developer, Webpack is not my thing, Python is hard, I tried it and failed.
 
@@ -18,7 +18,7 @@ Let's get started!!
 
 * * *
 
-### WHAT DOES THE GROWTH MINDSET MEAN?
+## WHAT DOES THE GROWTH MINDSET MEAN?
 
 > Carol Dweck is the Lewis & Virginia Eaton Professor of Psychology at Stanford University and the author of [_Mindset: The New Psychology of Success_](http://www.amazon.com/Mindset-The-New-Psychology-Success/dp/1400062756)
 
@@ -36,7 +36,7 @@ Now, **The Growth Mindset** simply means having the mindset that your talents, s
 
 Recent advances in neuroscience have shown us that the brain is far more malleable than we ever knew. Research on brain plasticity has shown how connectivity between neurons can change with experience. With practice, neural networks grow new connections, strengthen existing ones, and builds insulation that speeds transmission of impulses. These neuroscientific discoveries have shown us that we can increase our neural growth by the actions we take, such as using good strategies, consistency, asking questions, practising, and following good nutrition and sleep habits.
 
-Mark Zuckerberg was not born a geek, [Sarah Drasner](https://hashnode.com/@sarah_edo) was not born a Developer Avocado, [Syed Fazle Rahman](https://hashnode.com/@fazlerocks) was not born a co-founder, they all started from somewhere, learning and Improving daily.
+Mark Zuckerberg was not born a geek, [Sarah Drasner](https://hashnode.com/@sarah_edo) was not born a Developer Avocado, [Dan Ambrov](https://twitter.com/dan_abramov) was not born a software engineer, they all started from somewhere, learning and improving daily.
 
 This is the Idea we should embrace as developers/designers, It is never easy and accepting this fact is the beginning of you moving forward, but saying “NO I CAN’T” kills it all.
 
@@ -50,7 +50,7 @@ The Growth Mindset is not focused on caring about success or achievements, but r
 
 * * *
 
-### Advantages of The Growth Mindset
+## Advantages of The Growth Mindset
 
 The Growth Mindset is a very buzzing topic and research has shown how much increase in success it has birthed after its evolution.
 
@@ -74,11 +74,11 @@ This is how we operate as humans too, you need to undergo a lot of good strategi
 
 * * *
 
-### How do you build a Growth Mindset?
+## How do you build a Growth Mindset?
 
 Truth be told, we all had fixed mindsets at some point in our lives, we probably did not know it was called that, but we can build The GROWTH MINDSET.
 
-What’s the best way to get started with your growth mindset revolution? One way is to identify where you may have a fixed mindset tendency in your life or career so that you can work to become more growth minded.
+What’s the best way to get started with your growth mindset revolution? One way is to identify where you may have a fixed mindset tendency in your life or career so that you can work to become more growth-minded.
 
 We all live upon a continuum ( something that keeps on going, changing slowly over time), and consistent self-assessment helps us become the person we want to be.
 
@@ -86,29 +86,29 @@ We all live upon a continuum ( something that keeps on going, changing slowly ov
 
 Here are just a few ways to get over the Fixed Mindset and become Growth Minded:
 
-*   **See Setbacks As Feedbacks**
+### See Setbacks As Feedbacks
 
 It’s easy to be frustrated by setbacks. Yet they are _useful_ because they provide information in the form of feedback. A setback indicates that something went wrong or rather something is missing and you now have the opportunity to figure out _what went wrong_ and _why_, _learn from it_, and _prevent it from happening again._
 
 The growth mindset sees setbacks as useful, whereas a fixed mindset sees them as annoying hurdles and cause motivation or effort to drop.
 
-*   **Stop trying to prove yourself always**
+### Stop trying to prove yourself always
 
 In a fixed mindset success and achievements is a top priority. You _always_ want to be measured by others, and you _always_ want to be perfect. The very act of ‘succeeding’ requires that you show yourself to be better than others. So if you focus on succeeding and ‘achieving’ things, you’re always in a rush and your focus would be diverted. In a growth mindset, you don’t care about proving yourself to others, you only care about improving, learning and growing.
 
-*   **Put more effort rather than running away**
+### Put more effort rather than running away
 
 If you’re constantly interested in learning more and improving, then you should put in more time and effort to do so.
 
-*   **Your company matters**
+### Your company matters
 
 You should not hang out with folks with Fixed mindsets, In fact, hang out with those who are more Growth minded than you, this way the check and balance you when you feel lazy.
 
-*   **Challenge yourself**
+### Challenge yourself
 
 Learning is not an easy trade, you need to challenge yourself, pick up tasks you don’t know and work on getting them done. Spend more time doing stuff you don’t know and get better doing them repeatedly.
 
-* * *
+## Conclusion
 
 Your mindset is the view you adopt of yourself — whether your abilities and characteristics can change, or whether they are set in stone, the decision is all yours.
 
