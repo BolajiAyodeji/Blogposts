@@ -8,7 +8,7 @@ In this tutorial, I’d show you how to build your first Hugo site and deploy to
 
 ## Hugo Features
 
-* Hugo is the fastest tool of its kind. At <1 ms per page, the average site builds in less than a second. *Watch a video [here](https://www.youtube.com/watch?v=w7Ft2ymGmfc) to see how fast Hugo is*
+* Hugo is the fastest tool of its kind. At <1 ms per page, the average site builds in less than a second. *Watch this video [here](https://www.youtube.com/watch?v=w7Ft2ymGmfc) to see how fast Hugo is*
 
 * Hugo supports unlimited content types, taxonomies, menus, dynamic API-driven content, and more, all without plugins.
 
