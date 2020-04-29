@@ -32,7 +32,7 @@ Opportunities to work across Africa, Europe and North America provided at WeJapa
 
 ![favor.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1588147624779/V2TIYrRaX.jpeg)
 
-“First, I am an experienced Software Engineer passionate about building innovative products geared toward simplifying & improving life. I have worked with small & large companies, and I know how no-so-funny it is to land a good-paying job.
+“First, I am an experienced Software Engineer passionate about building innovative products geared toward simplifying & improving life. I have worked with small & large companies, and I know how challenging it is to land a good-paying job.
 
 While studying in the USA, I, somehow, got to interview with Facebook, Github, Pwc, Spherexx, Expessicor, Coinbase,  Dropbox, Autodesk, Box, PureStorage, BMW, Honeypot GmbH, Steinunn | Certara GmbH and many others. I landed some, some rejected me, I rejected some. I have also consulted for Saint Louis University & Oklahoma State University (USA), and other private organizations.
 
