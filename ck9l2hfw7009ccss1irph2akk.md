@@ -50,7 +50,7 @@ WeJapa is run by an amazing team of engineers and top talents from Nigeria, Rwan
 
 ## HIRE ENGINEERS
 
-While we have launched in Beta, we would be launching a new feature to allow companies, startups, or recruiters to request to hire top talents from our pool of vetted technical talents. If you need talents now, kindly email us at hr@japa4work.com.
+While we have launched in Beta, we would be launching a new feature that will allow companies, startups, or recruiters to hire top talents from our pool of vetted technical talents. If you need talents now, kindly email us at hr@japa4work.com.
 
 ## GET THE APP
 
