@@ -14,7 +14,7 @@ Japa originates from two Yoruba (A language of south-western people of Nigeria c
 
 ### WE GRANT ACCESS - Gain Access to Thousands of Jobs
 
-Finding the right job that meets a career development goal can be very hard, and as if finding one is not hard enough, finding one in the right location is harder. As a techie, you should spend your time focusing on the product you're building, not worrying about bills to pay, accommodation palava, or feeding. At WeJapa, our commitment to connect people with the right job, with our very relatable brand, and passion to empower Africans through technology, has enabled us to help over 20 people since we launched (and counting) gain access to tech jobs across Africa, Europe, and North America.
+Finding the right job that meets a career development goal can be very hard, and as if finding one is not hard enough, finding one in the right location is harder. As a techie, you should spend your time focusing on the product you're building, not worrying about bills to pay, accommodation palava, or feeding. At WeJapa, our commitment to connect people with the right job, with our very relatable brand, and passion to empower Africans through technology, has enabled us to help over 15 people since we launched (and counting) gain access to tech jobs across Africa, Europe, and North America.
 
 ### WE ASSESS - Get a Free Skill-level or Talent Assessment
 
@@ -28,7 +28,7 @@ Like everyone else, hiring managers want value for their money, and as such look
 
 Opportunities to work across Africa, Europe and North America provided at WeJapa ranges from full-time, part-time, short-term, contractual and freelancing. Work does not have to be rigid and boring. At WeJapa, we provide various job opportunities to tech experts to choose from; jobs that come with all the perks of modern workplaces such as a 6-7 figure salary, allowances, accommodation, feeding, opportunity to relocate and many more. These jobs provide you with the best-in-class working environment, incentives, support, and infrastructures, so you can focus on work, and never get worked-up working. In other words, they take real work out of the work.
 
-## FOUNDERS STATEMENT
+## FOUNDER'S STATEMENT
 
 ![favor.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1588147624779/V2TIYrRaX.jpeg)
 
@@ -36,7 +36,7 @@ Opportunities to work across Africa, Europe and North America provided at WeJapa
 
 While studying in the USA, I, somehow, got to interview with Facebook, Github, Pwc, Spherexx, Expessicor, Coinbase,  Dropbox, Autodesk, Box, PureStorage, BMW, Honeypot GmbH, Steinunn | Certara GmbH and many others. I landed some, some rejected me, I rejected some. I have also consulted for Saint Louis University & Oklahoma State University (USA), and other private organizations.
 
-Just yesterday (April 27th, 2020  Facebook reached out to me for a full-time role, which Lord knows, I am not interested in “at this time”).
+Just yesterday (April 28th, 2020  Facebook reached out to me for a full-time role, which Lord knows, I am not interested in “at this time”).
 
 With my experience working with small & large companies, I fully understand the process of getting the right talents matched with the right companies. 
 
