@@ -14,7 +14,7 @@ Japa originates from two Yoruba (A language of south-western people of Nigeria c
 
 ### WE GRANT ACCESS - Gain Access to Thousands of Jobs
 
-Finding the right job that meets a career development goal can be very hard, and as if finding one is not hard enough, finding one in the right location is harder. As a techie, you should spend your time focusing on the product you're building, not worrying about bills to pay, accommodation palava, or feeding. At WeJapa, our commitment to connect people with the right job, with our very relatable brand, and passion to empower Africans through technology, has enabled us to help over 15 people since we launched (and counting) gain access to tech jobs across Africa, Europe, and North America.
+Finding the right job that meets a career development goal can be very hard, finding one in the right location is even harder. As a techie, you should spend your time focusing on the product you're building, not worrying about bills to pay, accommodation, or feeding. At WeJapa, our commitment is to connect people with the right job. Our very relatable brand, and passion to empower Africans through technology, has enabled us to help over 15 people since we launched (and counting) gain access to tech jobs across Africa, Europe, and North America.
 
 ### WE ASSESS - Get a Free Skill-level or Talent Assessment
 
@@ -26,7 +26,7 @@ Like everyone else, hiring managers want value for their money, and as such look
 
 ### YOU GET HIRED - Japa
 
-Opportunities to work across Africa, Europe and North America provided at WeJapa ranges from full-time, part-time, short-term, contractual and freelancing. Work does not have to be rigid and boring. At WeJapa, we provide various job opportunities to tech experts to choose from; jobs that come with all the perks of modern workplaces such as a 6-7 figure salary, allowances, accommodation, feeding, opportunity to relocate and many more. These jobs provide you with the best-in-class working environment, incentives, support, and infrastructures, so you can focus on work, and never get worked-up working. In other words, they take real work out of the work.
+Opportunities to work across Africa, Europe and North America provided at WeJapa ranges from full-time, part-time, short-term, contractual and freelance. Work does not have to be rigid and boring. At WeJapa, we provide various job opportunities to tech experts to choose from; jobs that come with all the perks of modern workplaces such as a 6-7 figure salary, allowances, accommodation, feeding, opportunity to relocate and many more. These jobs provide you with the best-in-class working environment, incentives, support, and infrastructures, so you can focus on work, and never get worked-up working. In other words, they take real work out of the work.
 
 ## FOUNDER'S STATEMENT
 
@@ -50,10 +50,10 @@ WeJapa is run by an amazing team of engineers and top talents from Nigeria, Rwan
 
 ## HIRE ENGINEERS
 
-While we have launched in Beta, we would be launching a new feature to allow companies, startups, or recruiters to request to hire top talents from our pool of vetted technical talent. If you need talents now, feel free to email us at hr@japa4work.com.
+While we have launched in Beta, we would be launching a new feature to allow companies, startups, or recruiters to request to hire top talents from our pool of vetted technical talents. If you need talents now, kindly email us at hr@japa4work.com.
 
 ## GET THE APP
 
-The WeJapa app is now available on Google Play Store and Apple App Store, head to [https://wejapa.com](https://wejapa.com) to download for your preferred device now.
+The WeJapa app is now available on Google Play Store and Apple App Store, head to [https://wejapa.com](https://wejapa.com) and download for your preferred device now.
 
 ![EWlzD9qWsAEcPP0.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1587973036252/e3WT5pRjL.jpeg)
