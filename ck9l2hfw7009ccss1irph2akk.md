@@ -20,7 +20,7 @@ Finding the right job that meets a career development goal can be very hard, fin
 
 In all honesty, no expert or individual can properly evaluate his or her own abilities, only another expert or professional can. At WeJapa, we help developers assess their skill-level or talent based on their ability to solve problems, learning speed, and strength of character. We also carry out assessments based on behavioural and situational capabilities to determine leadership potentials. We want to make sure every techie has the competency and stack-ability to execute world-class projects.
 
-### WE RECOMMEND - Perfect Fit Jobs Across Countries, and Continents
+### WE MATCH - Perfect Fit Jobs Across Countries, and Continents
 
 Like everyone else, hiring managers want value for their money, and as such looks out for talents and potential talents. Based on our assessments at WeJapa we match your talents with the right jobs or projects that fit your personal growth and career development perfectly. We match your hard software skill with your soft skills to recommend the perfect job which comes with great perks, and benefits for you where you can work and highly function as part of a team.
 
