@@ -56,4 +56,4 @@ While we have launched in Beta, we would be launching a new feature that will al
 
 The WeJapa app is now available on Google Play Store and Apple App Store, head to [https://wejapa.com](https://wejapa.com) and download for your preferred device now.
 
-![EWlzD9qWsAEcPP0.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1587973036252/e3WT5pRjL.jpeg)
+[![EWlzD9qWsAEcPP0.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1587973036252/e3WT5pRjL.jpeg)](https://wejapa.com/)
