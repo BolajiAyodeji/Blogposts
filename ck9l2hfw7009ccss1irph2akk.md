@@ -34,9 +34,9 @@ Opportunities to work across Africa, Europe and North America provided at WeJapa
 
 “First, I am an experienced Software Engineer passionate about building innovative products geared toward simplifying & improving life. I have worked with small & large companies, and I know how challenging it is to land a good-paying job.
 
-While studying in the USA, I, somehow, got to interview with Facebook, Github, Pwc, Spherexx, Expessicor, Coinbase,  Dropbox, Autodesk, Box, PureStorage, BMW, Honeypot GmbH, Steinunn | Certara GmbH and many others. I landed some, some rejected me, I rejected some. I have also consulted for Saint Louis University & Oklahoma State University (USA), and other private organizations.
+While studying in the USA, I, somehow, got to interview with Facebook, GitHub, Pwc, Spherexx, Expessicor, Coinbase,  Dropbox, Autodesk, Box, PureStorage, BMW, Honeypot GmbH, Steinunn | Certara GmbH and many others. I landed some, some rejected me, I rejected some. I have also consulted for Saint Louis University & Oklahoma State University (USA), and other private organizations.
 
-Just yesterday (April 28th, 2020  Facebook reached out to me for a full-time role, which Lord knows, I am not interested in “at this time”).
+Just yesterday (April 28th, 2020)  Facebook reached out to me for a full-time role, which Lord knows, I am not interested in “at this time”.
 
 With my experience working with small & large companies, I fully understand the process of getting the right talents matched with the right companies. 
 
