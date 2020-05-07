@@ -72,6 +72,8 @@ Our first live stream with [Favour Ori](https://twitter.com/favouroncode) (Softw
 
 ![Live Stream](https://cdn.hashnode.com/res/hashnode/image/upload/v1588872393770/PTx2VJc29.png)
 
+> Add this event to your [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGptM3BkbmY1OWtlcDVuOGlmbnF1cGY4a2IgZGV2Y2xva29qYUBt&tmsrc=devclokoja%40gmail.com)
+
 The focus of this program is to help and motivate members to improve their programming skills or get started in programming by learning and writing code consistently.
 
 ---
