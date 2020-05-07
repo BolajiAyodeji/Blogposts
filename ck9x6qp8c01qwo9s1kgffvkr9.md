@@ -30,9 +30,9 @@ This challenge starts on 11TH MAY 2020 and ends on the 22ND JUNE 2020.
 
 - Learn and code daily for a minimum of 1 hour for the next seven weeks from the start date
 - Share your progress every day with the community on the FB group with the hashtag #DevCLokoja7WeeksOfCode
-- Submit your daily post link in this spreadsheet before 11:59 PM every day (we will use this sheet to select the TOP 3 ACTIVE MEMBERS)
+- Submit your daily post link in [this spreadsheet](https://bit.ly/DevCLokoja7WeeksOfCodeSheets) before 11:59 PM every day (we will use this sheet to select the TOP 3 ACTIVE MEMBERS)
 - Every day, reach out to at least two people in DevCLokoja who are participating in the challenge and support or ask questions.
-- Write a recap article at the end of the challenge to be published on our Blog and tell us effective the challenge was, how it went and what you learned or built during the seven weeks.
+- Write a recap article at the end of the challenge to be published on [our Blog](https://devclokoja.hashnode.dev/writers-guide) and tell us effective the challenge was, how it went and what you learned or built during the seven weeks.
 
 ### How to Get Started
 
@@ -45,7 +45,7 @@ This challenge starts on 11TH MAY 2020 and ends on the 22ND JUNE 2020.
 ### Rewards
 
 - Internet Subscription for TOP 3 ACTIVE MEMBERS
-- 3 Months Prograte Plus Subscription
+- 3 Months [Prograte Plus Subscription](https://progate.com/plans/for_users)
 - 30 Minutes Q/A session with an experienced Software Engineer or Designer.
 
 The focus of this program is to help members improve their programming skills or get started in programming by learning and writing code consistently.
