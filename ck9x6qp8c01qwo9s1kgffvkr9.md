@@ -2,7 +2,7 @@
 
 The current global pandemic has brought several shifts to how we perceive life, interact, work and communicate. While this is going well for some, it's a nightmare for others and possibly a combination of both for some.
 
-We have put together some events and virtual engagements to support members of DevCLokoja during these trying times. These are the event plans and budget we have for the next seven weeks in the first half of 2020 from 11th May 2020 - June 2020.
+We have put together some events and virtual engagements to support members of DevCLokoja during these trying times. These are the event plans for the next seven weeks in the first half of 2020 from 11th May 2020 - June 2020.
 
 
 ## Program One (#7WeeksOfCode)
