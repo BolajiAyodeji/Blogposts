@@ -26,7 +26,7 @@ const user = 'Bolaji Ayodeji'
 user = 'Joe Nash'
 ```
 
-This would throw an `[Uncaught TypeError(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_function)` because we are trying to reassign the variable **user** which was declared with the `const` keyword. THIS IS NOT VALID.
+This would throw an `Uncaught TypeError` because we are trying to reassign the variable **user** which was declared with the `const` keyword. THIS IS NOT VALID.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fkm8tv7a1jdhQSWa1Hl5tg.png)
 
