@@ -8,8 +8,8 @@ It is argued among a few developers especially newbies that these two feature wo
 
 `const` and `Object.freeze()` are totally different.
 
-*   `**const**` behaves like `let`. The only difference is, it defines a variable that cannot be reassigned. Variables declared by `const` are block scoped and not function scoped like variables declared with `var`
-*   `**Object.freeze()**` takes an object as an argument and returns the same object as an immutable object. This implies that **no properties of the object can be added, removed, or changed.**
+*   **const** behaves like `let`. The only difference is, it defines a variable that cannot be reassigned. Variables declared by `const` are block scoped and not function scoped like variables declared with `var`
+*   **Object.freeze()** takes an object as an argument and returns the same object as an immutable object. This implies that **no properties of the object can be added, removed, or changed.**
 
 > **Mutable objects** have properties that can be changed. Immutable **objects** have no properties that can be changed after the **object** is created.
 
@@ -22,14 +22,11 @@ It is argued among a few developers especially newbies that these two feature wo
 const user = 'Bolaji Ayodeji'
 ```
 
-
-
 ```
 user = 'Joe Nash'
 ```
 
-
-This would throw an `[Uncaught TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_function)` because we are trying to reassign the variable **user** which was declared with the `const` keyword. THIS IS NOT VALID.
+This would throw an `[Uncaught TypeError(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_function)` because we are trying to reassign the variable **user** which was declared with the `const` keyword. THIS IS NOT VALID.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fkm8tv7a1jdhQSWa1Hl5tg.png)
 
@@ -91,11 +88,9 @@ email: 'hi@bolajiayodeji.com',
 net_worth: 2000}
 ```
 
-
 ```
 Object.freeze(user);
 ```
-
 
 ```
 user.last_name = 'Samson';
@@ -129,11 +124,9 @@ last_name: 'ayodeji',
 }
 ```
 
-
 ```
 Object.freeze(user);
 ```
-
 
 ```
 user.last_name = 'Samson';
