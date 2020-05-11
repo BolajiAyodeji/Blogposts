@@ -21,7 +21,7 @@ I assume you have/ know the following already:
 
 - Read my [previous article](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)
 - Built the [inspireNuggets SlackBot](https://github.com/BolajiAyodeji/inspireNuggetsSlackBot)
-- Git installed- Node and npm installed
+- Git, Nodejs and npm installed
 - A free [Heroku account](https://signup.heroku.com/)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed
 
