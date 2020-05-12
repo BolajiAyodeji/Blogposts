@@ -46,7 +46,7 @@ newWindow.location = url;
 When a user moves from URL A to URL B, URL B still receives information (like traffic data) about the previous web location (URL A) even though it's owned by a different user. Adding the `rel="noreferrer"` attribute on the parent would prevent sending request "referrer" header information between both locations. 
 
 - **rel=" noopener"** protects a new window to be accessed by the window.opener property from an external window and make sure it runs in a separate process.
-- **rel=" noreferrer"** is similar to *noopener*, except that it also prevents the destination window from seeing what URL the user came from.
+- **rel=" noreferrer"** is similar to *noopener*, except that it also prevents the destination window from seeing the referred URL.
 
 ```html
 <a href="https://hashnode.com/devblog" target="_blank" rel="noopener noreferrer">
