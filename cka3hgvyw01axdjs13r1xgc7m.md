@@ -37,6 +37,12 @@ When using the target blank attribute, please ensure to add `rel="noopener noref
 
 Adding the `rel="noopener noreferrer"` attribute on the parent `<a>` element will allow the new window run in a separate process and prevent the window.opener reference from being set, which means the property will equal null.
 
+```js
+var otherWindow = window.open();
+otherWindow.opener = null;
+otherWindow.location = url;
+```
+
 When a user moves from URL A to URL B, URL B still receives information (like traffic data) about the previous web location (URL A) even though it's owned by a different user. Adding the `rel="noreferrer"` attribute on the parent would prevent sending request "referrer" header information between both locations. 
 
 - **rel=" noopener"** protects a new window to be accessed by the window.opener property from an external window and make sure it runs in a separate process.
