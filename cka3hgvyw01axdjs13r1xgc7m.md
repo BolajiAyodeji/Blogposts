@@ -23,7 +23,7 @@ Most often, you'll find yourself only using the **_blank** target attribute than
 
 Every new window has the [opener API](https://developer.mozilla.org/en-US/docs/Web/API/Window/opener), and when you click on an external link with `target=" blank`, the new tab has a window.opener which points to the parent window and can run on the same process as the parent (unless [site Isolation](https://www.chromium.org/developers/design-documents/site-isolation) is enabled). So when a user clicks the external link, the new page opened has full control over the parent document's window object.
 
-Since the new page can access the parent window object with the `window.opener` property, it can redirect your page (a trusted site) to a malicious URL while opening the external link, which makes your site vulnerable and exposed to data theft or other phishing attacks (and since users trust your website already, they can easily be a victim).
+Since the new page can access the parent window object with the `window.opener` property, it can redirect the external page to a malicious URL, which makes your site vulnerable and exposed to data theft or other phishing attacks (and since users trust your website already, they can easily be a victim).
 
 ```js
 window.opener.location = newURL
