@@ -16,7 +16,7 @@ If this interview was helpful to you, please share it with your friends and coll
 
 ---
 
-Today, we will be interviewing **[Julia 👩‍💻](https://twitter.com/unicorncoding)**.
+Today, we will be interviewing **[Julia 👩‍💻](https://instagram.com/coding_unicorn)**.
 
 Julia is a full-stack developer currently working on building the free and open source tech video hub – dev.tube. Also known as Coding Unicorn, she writes about coding and career and shares tips and tricks with developers on her [Instagram](https://www.instagram.com/coding_unicorn/).
 
