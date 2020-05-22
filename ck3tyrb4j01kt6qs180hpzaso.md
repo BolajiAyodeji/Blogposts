@@ -20,6 +20,16 @@ Most developers [Definition of Done](https://www.agilealliance.org/glossary/defi
 
 Your application is not "Done" until you have tested to be sure it complies with all the accessibility standards and guidelines.
 
+## Prerequisites
+
+Before you begin this tutorial you'll need the following:
+
+- Web Browser
+- DevTools
+- Nodejs installed
+- NPM installed
+- Reactjs installed
+- Vuejs installed
 
 ## What is Auditing?
 
@@ -71,7 +81,7 @@ Axe also has an accessibility analysis tool and library for Android.
 
 Axe also has a command-line interface for the aXe accessibility testing engine.
 
-- Install the package
+### Install the package
 
 ```sh
 #npm
@@ -80,12 +90,12 @@ npm install axe-cli -g
 #yarn
 yarn install axe-cli -g
 ```
-- Test a website with its URL
+### Test a website with its URL
 
 ```sh
 axe https://bolajiayodeji.com
 ```
-- Test with specific rules
+### Test with specific rules
 
 ```sh
 axe https://bolajiayodeji.com --rules color-contrast
@@ -93,7 +103,7 @@ axe https://bolajiayodeji.com --rules color-contrast
 
 ## Getting Started with [Axe for React.js](https://github.com/dequelabs/react-axe)
 
-- Install the package
+### Install the package
 
 ```sh
 #npm
@@ -102,7 +112,7 @@ npm install --save-dev react-axe
 #yarn
 yarn install --save-dev react-axe
 ```
-- Initialize the module
+### Initialize the module
 
 ```js
 import React from 'react';
@@ -115,7 +125,7 @@ if (process.env.NODE_ENV !== 'production') {
   ReactDOM.render(<App />, document.getElementById('root'));
 }
 ```
-- Add configuration rules
+### Add configuration rules
 
 ```js
 let config = {
@@ -130,9 +140,9 @@ let config = {
 
 axe(React, ReactDOM, 1000, config);
 ```
-- Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
+### Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
 
-- The errors are logged with priority levels
+The errors are logged with priority levels
   - Minor
   - Moderate
   - Serious
@@ -142,7 +152,7 @@ axe(React, ReactDOM, 1000, config);
 
 ## Getting Started with [Axe for Vue.js](https://github.com/vue-a11y/vue-axe)
 
-- Install the package
+### Install the package
 
 ```sh
 #npm
@@ -151,7 +161,7 @@ npm install -D vue-axe
 #yarn
 yarn add -D vue-axe
 ```
-- Initialize the module
+### Initialize the module
 
 ```js
 import Vue from 'vue'
@@ -171,13 +181,13 @@ if (process.env.NODE_ENV !== 'production') {
 }
 ```
 
-- Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
+### Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
 
 ## Bonus: Linting with [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 
 Axe logs issues to the DevTools console on the final rendered DOM, which is great. What if you want to see these errors right in your editor or terminal? Well, you would need to set up a linter that would allow you to see accessibility issues in your JSX.
 
-- Install [ESLint](http://eslint.org/)
+### Install [ESLint](http://eslint.org/)
 
 ```sh
 # npm
@@ -187,7 +197,7 @@ npm install eslint --save-dev
 yarn add eslint --d
 ```
 
-- Install the plugin
+### Install the plugin
 
 ```sh
 # npm
@@ -197,7 +207,7 @@ npm install eslint-plugin-jsx-a11y --save-dev
 yarn add eslint-plugin-jsx-a11y --dev
 ```
 
-- Add `jsx-a11y` to your `.eslintrc` configuration file
+### Add `jsx-a11y` to your `.eslintrc` configuration file
 
 ```
 {
@@ -207,7 +217,7 @@ yarn add eslint-plugin-jsx-a11y --dev
 }
 ```
 
-- Include all the recommended rules by the plugin 
+### Include all the recommended rules by the plugin 
 
 ```
 {
@@ -217,7 +227,7 @@ yarn add eslint-plugin-jsx-a11y --dev
 }
 ```
 
-- To check for more stricter rules
+### To check for stricter rules
 
 ```
 {
