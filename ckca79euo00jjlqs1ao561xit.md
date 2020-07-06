@@ -2,7 +2,7 @@
 
 Three months ago, [we launched WeJapa](https://japa4work.com/wejapa-your-job-search-ends-here-ck9l2hfw7009ccss1irph2akk) to simplify the entire job-hunting process, making it easier to find jobs, apply and relocate to locations outside your home country for work and so far it's been amazing.
 
-WeJapa is a Talent-as-a-service company that provides highly sought-after opportunities for African techies and in the few months of our launch, we've connected 20+ vetted technical professionals with freelance, part-time and full-time job opportunities in several regions across the world.
+WeJapa is a Talent-as-a-service company that provides highly sought-after opportunities for African techies and in the few months of our launch, we've connected lots of vetted technical professionals with freelance, part-time and full-time job opportunities in several regions across the world.
 
 In this article, I'll take you through a tour of the WeJapa application for Android, iOS and Web. We will cover all the prerequisites you need to get started and land a job via WeJapa. Let's get started? 🙃
 
