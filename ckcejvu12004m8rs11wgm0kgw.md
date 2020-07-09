@@ -1,6 +1,6 @@
 ## How to Add a README file to your GitHub Profile
 
-GitHub recently introduced a special feature for developers, that allows you to showcase yourself by pinning a **README.md** containing information about you, your work, portfolio and anything else on your GitHub profile.
+GitHub recently introduced a special feature for developers, that allows you to showcase yourself by pinning a `README.md` containing information about you, your work, portfolio and anything else on your GitHub profile.
 
 Here are some of my favourites:
 
@@ -24,15 +24,15 @@ In this article, I'll show you how to create a new GitHub repository and pin you
 
 ![GitHub screenshot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594277554831/g90tgFMHm.png)
 
-- Click on the checkbox: **Initialize this repository with a README**. This will create a **README.md** file inside your **<Username>/<Username>** repository.
+- Click on the checkbox: **Initialize this repository with a README**. This will create a `README.md` file inside your **<Username>/<Username>** repository.
 
 ![Screenshot 2020-07-09 at 7.58.56 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594277960735/ckdAt2xy0.png)
 
 ## STEP TWO
 
-> A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md, README.1ST – or simply README. The file's name is generally written in uppercase letters. ~ [Wikepedia](https://en.wikipedia.org/wiki/README)
+> A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called `READ.ME`, `README.TXT`, `README.md`, `README.1ST` – or simply README. The file's name is generally written in uppercase letters. ~ [Wikepedia](https://en.wikipedia.org/wiki/README)
 
-Now you have the README.md file in your *✨special✨ repository*, that's all you need. Edit the file as you deem fit (add images, text, tables, lists, embeds and anything else markdown supports). The README.md will automatically appear on your public GitHub profile!
+Now you have the `README.md` file in your *✨special✨ repository*, that's all you need. Edit the file as you deem fit (add images, text, tables, lists, embeds and anything else markdown supports). The README file will automatically appear on your public GitHub profile!
 
 ![GitHub screenshot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594278115318/8hu4yN9mQ.png)
 
