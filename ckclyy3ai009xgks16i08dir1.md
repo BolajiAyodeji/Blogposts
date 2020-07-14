@@ -4,8 +4,6 @@ Hashnode recently started some writing challenges and series to encourage develo
 
 This week's challenge is the [#MyFirstInterviewExperience](https://hashnode.com/n/myfirstinterviewexperience) where developers get to share their first interview experience and lessons learned from it. While this is my own story, I look forward to reading yours and hope developers preparing for interviews will learn from these stories.
 
-![GIF](https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/source.gif)
-
 ## The Beginning
 
 My first interview experience was for an internship role at [Upnepa NG](http://upnepa.ng), a company in Lagos, Nigeria. Upnepa is a data-driven platform which gives real-time (On/Off) information and total hours of electricity supply in selected areas, communities and homes across Nigeria.
