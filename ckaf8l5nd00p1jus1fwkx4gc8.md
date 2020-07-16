@@ -12,7 +12,7 @@ I interview leading women developers every week and showcase their history, opin
 
 If this interview was helpful to you, please share it with your friends and colleagues and help others 🚀🙂.
 
-Today, we will be interviewing **[Shruti: Kapoor 👩‍💻](https://twitter.com/shrutikapoor08)**.
+Today, we will be interviewing **[Shruti Kapoor 👩‍💻](https://twitter.com/shrutikapoor08)**.
 
 **Shruti** is a **Senior Software Engineer at PayPal** who frequently write JS blogs and actively works with JavaScript (ES6), ReactJS, Redux, GraphQL.
  
