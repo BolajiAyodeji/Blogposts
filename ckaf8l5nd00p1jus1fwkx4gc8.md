@@ -6,19 +6,15 @@
 
 ![profile.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1589971585514/0A-pyhbJB.jpeg)
 
----
-
 I interview leading women developers every week and showcase their history, opinions, and advice on the tech. In case you missed our previous interviews, check out the series on Hashnode.  
 
 %[https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15]
 
 If this interview was helpful to you, please share it with your friends and colleagues and help others 🚀🙂.
 
----
-
 Today, we will be interviewing **[Shruti: Kapoor 👩‍💻](https://twitter.com/shrutikapoor08)**.
 
-Shruti: is a Senior Software Engineer at PayPal who frequently write JS blogs and actively works with: JavaScript (ES6), ReactJS, Redux, GraphQL.
+**Shruti** is a **Senior Software Engineer at PayPal** who frequently write JS blogs and actively works with JavaScript (ES6), ReactJS, Redux, GraphQL.
  
 
 ----
