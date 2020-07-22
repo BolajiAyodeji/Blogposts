@@ -8,7 +8,7 @@ Today, we have **[Colleen Schnettler 👩‍💻](https://twitter.com/leenyburge
 
 In this interview, you'll to learn how Colleen started her career in tech, her journey so far, advice on tech, consultation and open source. If this interview was helpful to you, please share it with your friends and colleagues and help others 🚀💜 
 
-![Colleen Schnettler.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595321162184/URGehm_WA.png)
+![Colleen Schnettler.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595321162184/URGehm_WA.png?auto=compress)
 
 ---
 
