@@ -86,7 +86,7 @@ Get involved in open source.
 
 ## What does your development environment look like?
 
-![colleens_desk.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595404728971/xlB3mCCWj.jpeg)
+![colleens_desk.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595404728971/xlB3mCCWj.jpeg?auto=compress)
 
 I have a henge dock for my MacBook, an external 4K 27" monitor, an HD camera for video conferencing, and a desk that transitions from sitting to standing.
 
