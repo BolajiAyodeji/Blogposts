@@ -11,7 +11,7 @@ Also, if you find this interview useful, please don't forget to share it with yo
 
 ---
 
-Today, we will be interviewing ** [Egwuenu Gift 👩‍💻](https://twitter.com/lauragift21) **.
+Today, we will be interviewing ** [Egwuenu Gift 👩‍💻](https://twitter.com/lauragift_) **.
 
 Egwuenu Gift is a Full Stack Developer currently working at Andela. She is passionate about making the web accessible to everyone and also an advocate for building open-source software and enjoys solving complex problems using web technologies. She leads the Vue Vixens chapter in Nigeria, the JAMstack community in Lagos and also co-organizes Concatenate Conference.
 
