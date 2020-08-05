@@ -6,7 +6,7 @@ Today, we have **[Carol Kariuki 👩‍💻](https://twitter.com/itsmscarol)**, 
 
 > — Carol Kariuki
 
-In this interview, you'll to learn how Carol started her career in tech 10 years ago, her journey so far, advice on tech, and working at Facebook. If this interview was helpful to you, please share it with your friends and colleague 🚀💜 
+In this interview, you'll learn how Carol started her career in tech 10 years ago, her journey so far, advice on tech, and working at Facebook. If this interview was helpful to you, please share it with your friends and colleague 🚀💜 
 
 ![Carol Kariuki.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1596595037045/BJJeoKnZj.jpeg)
 
