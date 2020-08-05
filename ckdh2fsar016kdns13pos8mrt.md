@@ -114,9 +114,8 @@ Sorry to disappoint, I don't have the fancy ones. I like to curl up in my bed or
 
 Thanks for taking out time to read this interview. 👋
 
-This series is all about talking to the awesome women in tech, understanding the current health of the tech industry and inspiring other women to become better. If you want to share your story, please reach out to me on [Hashnode](https://hashnode.com/@bolajiayodeji).
+Did you find Carol's story useful and inspiring? Write down your thoughts in the comments section below and don't forget to share this interview. 
 
-Did you find Carol's story useful and inspiring?
-Write down your thoughts in the comments section below and don't forget to share this interview. 
+This series is all about talking to the awesome women in tech, understanding the current health of the tech industry and inspiring other women to become better. If you want to share your story, please let me know in the comments or reach out to me on [Twitter](https://twitter.com/iambolajiayo).
 
 You can also follow Hashnode on  [Twitter](https://twitter.com/hashnode)  to stay up-to-date with our future She Inspires interviews. See you next time and keep trailblazing 💪💙
