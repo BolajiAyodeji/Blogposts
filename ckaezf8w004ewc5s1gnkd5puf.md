@@ -4,7 +4,7 @@ Learning is a journey that never ends. At every point in your career, you will k
 
 The ability to find answers to problems is key, and these answers can be gotten by either debugging, googling or asking questions. These are skills everyone should learn.
 
-While asking questions is great, doing it the wrong or less effective way might lead to many hours of unproductive work. In this article show you how to ask effective questions, become a better googler and hone your problem-solving skills.
+While asking questions is great, doing it the wrong or less effective way might lead to many hours of unproductive work. In this article, I'll show you how to ask effective questions, become a better googler and hone your problem-solving skills.
 
 ## The Read Search Ask Method
 
