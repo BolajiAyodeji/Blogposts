@@ -19,10 +19,7 @@ Upon successful participation, you'll get an opportunity to qualify for:
 - Sign Facebook’s [contributor license agreement (CLA)](https://code.facebook.com/cla/).
 - Create a minimum of 4 contributions/pull requests into Open Source projects with at least 1 out of 4 PRs towards any project within [DevC GitHub Organization](https://github.com/fbdevelopercircles) or any Facebook-led Open Source project.
 
-Learn more about the program here:
-
-%[https://developers.facebook.com/developercircles/open-source-immersion]
-
+Learn more about the program [here](https://developers.facebook.com/developercircles/open-source-immersion).
 
 ## Conclusion
 
