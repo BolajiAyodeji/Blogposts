@@ -1,4 +1,4 @@
-## Open Source Immersion Program from Facebook 🤝 Open Source Community Africa
+## Open Source Immersion Program from Facebook 🤝 OSCA
 
 We're partnering with [Facebook Developer Circles](https://developers.facebook.com/developercircles) for the ongoing [Open Source Immersion Program](https://developers.facebook.com/developercircles/open-source-immersion/) from Facebook. This program is a month-long celebration of Open Source technology, run by Facebook with the goal to provide developers with practical education and experience contributing to Open Source projects.
 
