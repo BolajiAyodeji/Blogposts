@@ -4,12 +4,14 @@
 
 Here's a unique opportunity for you to build your Open Source skills and get familiar with GitHub. There’s also a strong chance of receiving some limited edition Facebook swag 😉
 
+## The Open Source Immersion Program
+
 Over one month starting July 15, 2020, at 12:00 AM PST, participants in the Open Source Immersion will benefit from a range of educational experiences and receive support as they submit Pull Requests (PR) on GitHub.
 
-## Takeaway Prizes
+Upon successful participation, you'll get an opportunity to qualify for:
 
-- Successful participants will receive a certificate of participation.
-- The first 1,000 eligible participants will receive a limited-edition swag giveaway from Facebook for Developers.
+- A certificate of participation.
+- A limited-edition swag giveaway from Facebook for Developers (For the first 1,000 eligible participants).
 
 ## How to Get Started
 
