@@ -8,7 +8,7 @@ Today, we have **[Bear Douglas 👩‍💻](https://twitter.com/beardigsit)**, D
 
 In this interview, you'll to learn how Bear started her career in tech, her journey so far, advice on tech and over a decade of work experience. If this interview was helpful to you, please share it with your friends and colleagues and help others 🚀💜 
 
-![Bear Douglas](https://cdn.hashnode.com/res/hashnode/image/upload/v1597240095934/CaY-o1DRy.jpeg)
+![Bear Douglas](https://cdn.hashnode.com/res/hashnode/image/upload/v1597240095934/CaY-o1DRy.jpeg?auto=compress)
 
 ---
 
