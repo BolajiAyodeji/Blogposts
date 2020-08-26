@@ -71,8 +71,7 @@ In this interview, you'll to learn how Stephanie started her career in tech, her
 
 ## What does your development environment look like?
 
-![Stephaine's workspace.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598360291331/awFMp_IqH.png)
-
+Though I can’t share a pic of my environment, these are the tools I use heavily on any given day: Azure DevOps Boards (for project management), GitHub (for tracking dev work and signing off on a PR after all reviews are done), ExP and Adobe Target (for creating new A/B tests). 
 
 ## Finally, what would be your message to women trying to get into technology?
 
