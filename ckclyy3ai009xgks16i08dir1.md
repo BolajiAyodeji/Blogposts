@@ -6,13 +6,11 @@ This week's challenge is the [#MyFirstInterviewExperience](https://hashnode.com/
 
 ## The Beginning
 
-My first interview experience was for an internship role at [Upnepa NG](http://upnepa.ng), a company in Lagos, Nigeria. Upnepa is a data-driven platform which gives real-time (On/Off) information and total hours of electricity supply in selected areas, communities and homes across Nigeria.
+My first interview experience was for an internship role at [Upnepa NG](http://upnepa.ng), a company in Lagos, Nigeria. Upnepa is a data-driven platform that gives real-time (On/Off) information and total hours of electricity supply in selected areas, communities, and homes across Nigeria.
 
-I saw the advert for the role of Web Developer Intern in October 2018 on posted on Facebook by one of Upnepa co-founders. As at then, Upnepa just got started and just joined an acceleration program in collaboration with  Facebook and CCHUB at NG_HUB from Facebook.
+I saw the advert for the role of Web Developer Intern in October 2018 posted on Facebook by one of Upnepa co-founders. As at then, Upnepa just got started and just joined an acceleration program in collaboration with  Facebook and CCHUB at NG_HUB from Facebook.
 
-![Job advert](https://scontent.fabv3-1.fna.fbcdn.net/v/t1.0-9/44364900_1915387021864420_6954921085934501888_o.jpg?_nc_cat=108&_nc_sid=8bfeb9&_nc_eui2=AeHpxiQsL-c6g_FUtHLg7UIGJ61ogewWSDUnrWiB7BZINTZCc2oNu9tl-JXd8yczpxox5WAuzD0IKNc4qqnkhJzi&_nc_ohc=SSFgYGRQxFgAX-w7Z1N&_nc_ht=scontent.fabv3-1.fna&oh=86961966a24213bbde0b2888dcfe9a52&oe=5F317E93) 
-
-I so much loved their mission to monitor, aggregate, and analyse power supply, power outages and power distribution in order to improve productivity in young people and students, provide power supply rates insight for SMEs, and foresight for governmental institutions, energy distribution companies and energy solution projects. 
+I so much loved their mission to monitor, aggregate, and analyze power supply, power outages, and power distribution in order to improve productivity in young people and students, provide power supply rates insight for SMEs, and foresight for governmental institutions, energy distribution companies, and energy solution projects. 
 
 I prepared my resume and applied for the job. This was my first time applying for a job, I was very inexperienced and wasn't sure how it all works. I just kept calm and waited for whatever comes next 🧘🏾‍♂️.
 
@@ -45,13 +43,13 @@ Yayy, I got the job and was super excited! 🤩
 - Ensure you have good people-skills aside technical skills.
 - Do some research about the company before applying and interviewing.
 - Get a good internet connection before joining the interview.
-- Invest in quality webcams, microphones or noise cancellation headphones.
+- Invest in quality webcams, microphones, or noise cancellation headphones.
 
 %[https://twitter.com/iambolajiayo/status/1255694731482365952]
 
 ## Conclusion
 
-Don't spend your entire life waiting for the best time making that move, write that article, build that side-project, apply for that job or ask that question today. The best time is always now!
+Don't spend your entire life waiting for the best time making that move, write that article, build that side-project, apply for that job, or ask that question today. The best time is always now!
 
 Join Hashnode's writing challenges like the [#2Articles1Week](https://hashnode.com/2articles1week) and [#MyFirstInterviewExperience](https://hashnode.com/n/myfirstinterviewexperience) to write, share knowledge, become a better writer, learn in public and win some Hashnode badges.
 
