@@ -57,7 +57,7 @@ It opened my eyes to how much “gender stereotype” awareness we still need to
 
 ## We see that you work predominately in Product Design, Product Research, Product Management, Community Building, and Open Source. How did you decide to focus on these paths?
 
-**Peace:** I am very concerned about the product or community I’m involved with. How well do people interact with this product? how inclusive is my product/community? what experience do people sense from using this or being part of this? 
+**Peace:** I am very concerned about the product or community I’m involved with. How well do people interact with this product? how inclusive and accessible is my product/community? what experience do people sense from using this or being part of this? 
 Let’s say I am very concerned about people and how they feel, that has driven me down this line. 
 
 ## What advice do you have for a newbie or intermediate who dreams to work as a Senior Product Designer?
@@ -98,7 +98,9 @@ You don’t need guidance for everything, just take the initiative and be in a p
 
 ## What are your favorite programming/ design tools?
 
-**Peace:** Everyone that knows me, calls me Figma lol … I love Figma, more so because of how collaborative, accessible, and inclusive they have been over the years.
+**Peace:** My note and pen, they’re the fastest things I can pull up to make a rough sketch, list or anything I need to start off my design process. 
+
+I also like Figma, more so because of how collaborative, accessible, and inclusive they have been over the years.
 
 ## What does your work environment look like? Could you please share a photo? :)
 
@@ -109,6 +111,8 @@ This is my previous working space, working on a new one :) … I’m not ready t
 ## Finally, what would be your message to women trying to get into technology?
 
 **Peace:** "Humans are allergic to change. They love to say, 'We’ve always done it this way.' I try to fight that. That’s why I have a clock on my wall that runs counterclockwise." -  Grace Hopper, Pioneering Computer Scientist
+
+Yes, be part of that change. Whoever told you it was a man’s world, lied :). Start today!
 
 ---
 
