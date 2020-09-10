@@ -1,12 +1,12 @@
 ## Women in Tech: Peace Ojemeh
 
-Today, we have **[Peace Ojemeh 👩‍💻](https://twitter.com/Peace_Ojemeh)**, a Senior Product Designer at Tjommi who helps organizations & communities design, maintain and improve the quality of their products & overall experience, to match the needs of their target audience.
+Today, we have **[Peace Ojemeh 👩‍💻](https://twitter.com/Peace_Ojemeh)**, a Senior Product Designer at Tjommi who helps organizations & communities design, maintain, and improve the quality of their products & overall experience, to match the needs of their target audience.
 
 > **Breathe and take that step, you have no idea what it waiting on the other side. How are you going to find out anyway, if you don’t try?**
 
 > — Peace Ojemeh
 
-In this interview, you'll learn how Peace started her career in tech, her journey so far, advice on tech, and experience at Open Source Community Africa, African Union, Google Summer of Code, and Google Code-In. If this interview is helpful to you, please share it with your friends and help others. 💜 
+In this interview, you'll learn how Peace started her career in tech, her journey so far, advice on tech, and experience at Open Source Community Africa, African Union, Google Summer of Code, and International Telecommunication Union. If this interview is helpful to you, please share it with your friends and help others. 💜 
 
 ![Peace Ojemeh](https://cdn.hashnode.com/res/hashnode/image/upload/v1599745711297/_bJKMFyiW.jpeg)
 
