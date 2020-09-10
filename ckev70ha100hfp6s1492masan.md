@@ -8,7 +8,7 @@ Today, we have **[Peace Ojemeh 👩‍💻](https://twitter.com/Peace_Ojemeh)**,
 
 In this interview, you'll learn how Peace started her career in tech, her journey so far, advice on tech, and experience at Open Source Community Africa, African Union, Google Summer of Code, and Google Code-In. If this interview is helpful to you, please share it with your friends and help others. 💜 
 
-![Peace Ojemeh](https://cdn.hashnode.com/res/hashnode/image/upload/v1599641251641/XPeQBU3gq.jpeg)
+![Peace Ojemeh](https://cdn.hashnode.com/res/hashnode/image/upload/v1599641251641/XPeQBU3gq.jpeg?w=1200&auto=compress)
 
 ---
 
@@ -102,7 +102,7 @@ You don’t need guidance for everything, just take the initiative and be in a p
 
 ## What does your work environment look like? Could you please share a photo? :)
 
-![Peace Ojemeh's Workspace](https://cdn.hashnode.com/res/hashnode/image/upload/v1599640631474/eQA7UuR_G.jpeg)
+![Peace Ojemeh's Workspace](https://cdn.hashnode.com/res/hashnode/image/upload/v1599640631474/eQA7UuR_G.jpeg?w=1200&auto=compress)
 
 This is my previous working space, working on a new one :) … I’m not ready to unveil yet :)
 
