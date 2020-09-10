@@ -8,7 +8,7 @@ Today, we have **[Peace Ojemeh 👩‍💻](https://twitter.com/Peace_Ojemeh)**,
 
 In this interview, you'll learn how Peace started her career in tech, her journey so far, advice on tech, and experience at Open Source Community Africa, African Union, Google Summer of Code, and Google Code-In. If this interview is helpful to you, please share it with your friends and help others. 💜 
 
-![Peace Ojemeh](https://cdn.hashnode.com/res/hashnode/image/upload/v1599641251641/XPeQBU3gq.jpeg?w=1200&auto=compress)
+![Peace Ojemeh](https://cdn.hashnode.com/res/hashnode/image/upload/v1599745711297/_bJKMFyiW.jpeg)
 
 ---
 
@@ -21,7 +21,7 @@ I got into tech at the end of 2017.  I attended a design sprint event hosted in 
 
 ## Can you briefly tell us about your job title?
 
-**Peace:** I recently became a Senior Product Designer at Tjommi. My role is to create interfaces to help people seamlessly interact with our product, participating in all phases of the development, from scratch to delivery. I constantly collaborate with the developing team in order to bring value to the customer’s experience.
+**Peace:** I recently started consulting as a Senior Product Designer for Tjommi. My role is to create interfaces to help people seamlessly interact with our product, participating in all phases of the development, from scratch to delivery. I constantly collaborate with the developing team in order to bring value to the customer’s experience.
 
 As a product designer, I am not only focused on the aesthetics and interactions, but the ENTIRE user experience. I am all about solving problems and this requires skills like research, business strategy, prototyping, user testing, etc., to create a platform where users feel comfortable interacting with. 
 
