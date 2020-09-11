@@ -2,7 +2,7 @@
 
 Today, we have **[Peace Ojemeh 👩‍💻](https://twitter.com/Peace_Ojemeh)**, a Senior Product Designer at Tjommi who helps organizations & communities design, maintain, and improve the quality of their products & overall experience, to match the needs of their target audience.
 
-> **Breathe and take that step, you have no idea what it waiting on the other side. How are you going to find out anyway, if you don’t try?**
+> **Breathe and take that step, you have no idea what is waiting on the other side. How are you going to find out anyway, if you don’t try?**
 
 > — Peace Ojemeh
 
@@ -84,7 +84,7 @@ Let’s say I am very concerned about people and how they feel, that has driven 
 
 **Peace:** This is something I experienced a lot starting out, I am naturally introverted (designing has done a great job on me over the years LOL) and a perfectionist. One time, I was working on an open-source project, I had this idea that came to mind. I thought and thought and thought and THOUGHT about it cleaning it up and making sure it was PERFECT before I had the "guts" to let it out and share with my team, several times I thought of just letting it go as it wasn’t a "good enough idea". When I shared it, they really loved the idea and someone said "In the past 20 years + of working on this project, no one has ever thought of doing this… it’s so amazing, Perrie". My heart melted because this was something I was so scared of sharing, feeling like it was not “a great enough” idea to share. 
 
-So I would say, we have days where everything works great and also we have bad days, where everything seems to go wrong. Focus on your strength, no one has it ENTIRELY figure out. Breathe and take that step, you have no idea what it waiting on the other side. How are you going to find out anyway, if you don’t try?
+So I would say, we have days where everything works great and also we have bad days, where everything seems to go wrong. Focus on your strength, no one has it ENTIRELY figure out. Breathe and take that step, you have no idea what is waiting on the other side. How are you going to find out anyway, if you don’t try?
 
 ## What advice would you give to aspiring programmers who look forward to working for companies like Google or Twitter?
 
