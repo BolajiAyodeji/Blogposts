@@ -38,7 +38,7 @@ Yayy, I got the job and was super excited! 🤩
 ## Lessons Learned
 
 - Build a killer brand for yourself. Check out Gift's [guide](https://lauragift21.hashnode.dev/building-a-killer-personal-brand-cjww7wzdj000m1ws1o42r58hm) on personal branding for developers.
-- Prepare a good resume before applying. Hers's a [great guide](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/) for this.
+- Prepare a good resume before applying. Here's a [great guide](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/) for this.
 - You don't need to "know it all", you just need to "know it and know-how and where to find more knowledge."
 - Ensure you have good people-skills aside technical skills.
 - Do some research about the company before applying and interviewing.
