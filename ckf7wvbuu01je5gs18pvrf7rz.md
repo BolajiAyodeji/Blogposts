@@ -8,7 +8,7 @@ Today, we have **[Jess Dodson 👩‍💻](https://twitter.com/girlgerms)**, a W
 
 In this interview, you'll learn how Jess started her career in tech, her 15 years journey so far, advice on tech, and experience at the University of Queensland and Microsoft. 💜 
 
-![Jess Dodson.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1600408188826/vF5U5ckfW.jpeg)
+![Jess Dodson's Photo](https://cdn.hashnode.com/res/hashnode/image/upload/v1600408188826/vF5U5ckfW.jpeg?w=1200&auto=compress)
 
 ---
 
@@ -94,7 +94,7 @@ It's very rarely personal, so use it as a learning experience to grow so that th
 
 ## What does your development environment look like?
 
-![JessDodson_Desk.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1600408161505/H4xs-rwVO.jpeg)
+![JessDodson_Desk.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1600408161505/H4xs-rwVO.jpeg?w=1200&auto=compress)
 
 I've been working from home for the last 7 months, so this is my home office 💜
 
