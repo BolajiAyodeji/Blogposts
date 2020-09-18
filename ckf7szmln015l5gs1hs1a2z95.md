@@ -184,7 +184,7 @@ Here's a breakdown of the command we used:
 - `-f` is the flag that allows you to specify the **f**ilename for the archive.
 - `-C` is the flag that specifies the destination folder to extract the archive.
 
-## Display Progress
+## Display Archive Progress
 
 Want to see the progress of the archive process? You can add the `-v` verbose mode flag, which will display the archive progress in the terminal while creating the archive.
 
