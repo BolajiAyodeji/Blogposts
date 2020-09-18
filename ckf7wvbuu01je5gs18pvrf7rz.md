@@ -1,6 +1,6 @@
 ## Women in Tech: Jess Dodson
 
-Today, we have **[Jess Dodson 👩‍💻](https://twitter.com/girlgerms)**, a Windows system administrator with 15 years experience, currently working at Microsoft as a Customer Engineer in Identity & Security. Jess is big on passing on information to others that’s technically relevant, as well as passing on information that, while not technical, is useful for those in system administration.
+Today, we have **[Jess Dodson 👩‍💻](https://twitter.com/girlgerms)**, a Windows System administrator, currently working at Microsoft as a Customer Engineer in Identity & Security. Jess is big on passing on information to others that’s technically relevant, as well as passing on information that, while not technical, is useful for those in system administration.
 
 > **The other thing is to surround yourself with a tribe of people who will lift you up and will talk away those demons. These are people who know you, who you trust, and who support you - and you support them too.**
 
