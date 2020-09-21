@@ -26,7 +26,7 @@ One fantastic feature of the operating system is the Command Line Interface (CLI
 
 ## How to Zip a File or Directory with Tar
 
-Tar (an abbrevation for **T**ape **Ar**chive) is a Linux command used to create a `.tar`, `.tar.gz`, `.tar.bz2` or `.tgz` archive file (also known as "tarballs").
+Tar (an abbrevation for **T**ape **Ar**chive) is a Linux command used to create a `.tar`, `.tar.gz`, or `.tar.bz2` archive file (also known as "tarballs").
 
 You can collect files or directories into an archive with the command below like so:
 
