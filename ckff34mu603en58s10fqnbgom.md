@@ -8,7 +8,7 @@ Today, we have **[Olamide Ajah 👩‍💻](https://twitter.com/abbysay)**, the 
 
 In this interview, you'll learn how Olamide started her career in tech, her 12 years journey so far, advice on tech, and experience with guiding teams through the conceptualization of product ideas. 💜 
 
-![Olamide Ajah](https://cdn.hashnode.com/res/hashnode/image/upload/v1600846462100/2PhRXcsWV.jpeg)
+![Olamide Ajah](https://cdn.hashnode.com/res/hashnode/image/upload/v1600846462100/2PhRXcsWV.jpeg?w=1200&auto=compress)
 
 ---
 
@@ -102,7 +102,7 @@ We need talents that are endlessly curious, highly creative, emotionally intelli
 
 ## What does your development environment look like?
 
-![Olamide's Workspace](https://cdn.hashnode.com/res/hashnode/image/upload/v1600846532853/sP4xWOPQx.jpeg)
+![Olamide's Workspace](https://cdn.hashnode.com/res/hashnode/image/upload/v1600846532853/sP4xWOPQx.jpeg?w=1200&auto=compress)
 
 ## Finally, what would be your message to women trying to get into technology?
 
