@@ -1,6 +1,6 @@
 ## Women in Tech: Olamide Ajah
 
-Today, we have **[Olamide Ajah 👩‍💻](https://twitter.com/abbysay)**, the Chief Technology Officer at Seamfix with acclaimed expertise in project management, people management, leadership, and software development. Though a highly versatile individual, her love interest is technical project management. 
+Today, we have **[Olamide Ajah 👩‍💻](https://twitter.com/abbysay)**, the Chief Technology Officer at Seamfix with acclaimed expertise in project management, people management, leadership, and software development. Though a highly versatile individual, her love interest is product management. 
 
 > **Don't narrow your focus to your field, though; of course, you should strive to deepen your knowledge in your chosen field.**
 
