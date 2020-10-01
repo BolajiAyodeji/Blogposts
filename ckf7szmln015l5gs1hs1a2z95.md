@@ -1,8 +1,8 @@
-## How to Zip and Unzip Files with the CLI using Tape Archive
+## How to Create File Archives Using the Linux Tape Archive (TAR) Command
 
-We manage many files and directories on our computer, and most times, it's a lot. You can organize and sort these files in folders for easier access and management. However, what do you do when you want to share these files with another user or computer?
+We manage many files and directories on our computer, and most times, it's a lot. You can organize and sort these files in folders for easier access and management. However, what do you do when you have to share these files with another user or computer?
 
-In this article, I'll show you how to group files or directories in an archive (which you can hence share to a friend), compress these archives (reducing the final archive file size) alongside how to extract the collected files from the archive using the CLI.
+In this article, I'll show you how to combine files or directories in an archive, compress these archives (reducing the final archive file size) alongside how to extract the collected files from the archive using the CLI.
 
 ## Prerequisites
 
@@ -199,6 +199,8 @@ tar -cvf archive-name.tar /path/to/file-or-directory
 ## Conclusion
 
 If you're continually using or contributing to open-source, you'll come across many `.tar.gz` files, which is mostly used to bundle and compress the installable file of the project. With this article, I hope you'll harness these files effectively, like the boss that you are.
+
+If you forget any command or are unsure about what to do, you can run `tar --help` or `man tar` which will display a manual with all possible options for the tar command.
 
 Here are some useful **Tar** flags for your reference:
 
