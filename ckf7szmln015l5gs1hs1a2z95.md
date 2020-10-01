@@ -24,11 +24,11 @@ As opposed to the GUI (Graphical User Interface), which provides users with a us
 
 One fantastic feature of the operating system is the Command Line Interface (CLI), which allows users to interact with their computer from a shell. This shell is a REPL (Read, Evaluate, Print, Loop) environment where users can enter a command, and the shell runs it and returns a result.
 
-## How to Zip a File or Directory with Tar
+## How to Create an Archive (File or Directory) with Tar
 
 Tar (an abbrevation for **T**ape **Ar**chive) is a Linux command used to create a `.tar`, `.tar.gz`, or `.tar.bz2` archive file (also known as "tarballs").
 
-You can collect files or directories into an archive with the command below like so:
+You can combine files or directories into an archive with the command below like so:
 
 ```bash
 tar -cf archive-name.tar /path/to/file-or-directory
@@ -50,7 +50,7 @@ Let's run `ls -lshS` to list the files in our current directory with their file 
 
 The contents of the **node_modules** directory with the initial **32K** size compressed into the archive will result in a **174M** size.
 
-## How to Zip a File or Directory and Compress with GZIP
+## How to Create an Archive and Compress with GZIP
 
 By default, we want our archive files to be compressed and produce lesser file sizes (I do, don't you? 😌); however, the previous command only collected the files into the archive. To compress your final archive, you'll append the `-z` flag, which will use GZIP to automatically compress the archive and produce a `.tar.gz` file.
 
@@ -81,7 +81,7 @@ Here's a breakdown of the command we used:
 - `-c` is the flag that **c**reates the archive file.
 - `-f` is the flag that allows you to specify the **f**ilename for the archive.
 
-## How to Zip a File or Directory and Compress with BZIP2
+## How to Create an Archive and Compress with BZIP2
 
 GZIP is the most frequently used compression method; however, there's a BZIP2 method that compresses more than GZIP but takes more time to execute. GZIP is faster, but it generally compresses a bit less (larger file) while BZIP2 is slower, but it compresses a bit more (smaller file). 
 
@@ -184,7 +184,7 @@ Here's a breakdown of the command we used:
 - `-f` is the flag that allows you to specify the **f**ilename for the archive.
 - `-C` is the flag that specifies the destination folder to extract the archive.
 
-## Display Archive Progress
+## How to Display Archive Progress
 
 Want to see the progress of the archive process? You can add the `-v` verbose mode flag, which will display the archive progress in the terminal while creating the archive.
 
