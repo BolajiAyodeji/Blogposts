@@ -1,6 +1,6 @@
 ## Getting Started with Hugo and Deploying to Netlify
 
-Hugo is a fast and modern static site generator written in [Go](https://golang.org/) and designed to make website creation fun again. It builds pages when you create or update your content. Websites built with Hugo are extremely fast and secure. In technical terms, Hugo takes a source directory of files and templates and uses these as input to create a complete website.
+Hugo is a fast and modern static site generator written in [Go](https://golang.org/) and designed to make website creation fun again. It builds pages when you create or update your content. Websites built with Hugo are extremely fast and secure. Hugo takes a source directory of files and templates and uses these as input to create a complete website.
 
 Hugo sites can be hosted anywhere, including [Netlify](https://netlify.com/), [Heroku](https://www.heroku.com/), [GoDaddy](https://www.godaddy.com/), [DreamHost](https://www.dreamhost.com/), [GitHub Pages](https://pages.github.com/), [GitLab Pages](https://about.gitlab.com/features/pages/), [Surge](https://surge.sh/), [Aerobatic](https://www.aerobatic.com/), [Firebase](https://firebase.google.com/docs/hosting/), [Google Cloud Storage](https://cloud.google.com/storage/), [Amazon S3](https://aws.amazon.com/s3/), [Rackspace](https://www.rackspace.com/cloud/files), [Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website), and [CloudFront](https://aws.amazon.com/cloudfront/) and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
 
@@ -26,9 +26,9 @@ All features can be found [here](https://gohugo.io/about/features/)
 
 For this tutorial, we’re going to build a Simple Blog with Hugo.
 
-PS: I would be using a windows machine in this tutorial, so all steps would be based on windows, but I added installation guides for other operating systems.
+PS: I would be using a windows machine in this tutorial. Hence all steps would be based on windows, but I added installation guides for other operating systems.
 
-I’ve also created a repository with starter files which can be found [here](https://github.com/BolajiAyodeji/hugo101). Use the installation guide to get Hugo running on your machine and fork the starter files. Ensure you follow the steps.
+I’ve also created a repository with starter files found [here](https://github.com/BolajiAyodeji/hugo101). Use the installation guide to get Hugo running on your machine and fork the starter files. Ensure you follow the steps.
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ I’ve also created a repository with starter files which can be found [here](ht
 
 ### Installation guide
 
-To start using Hugo, you need to first install it.
+To start using Hugo, you need first to install it.
 
 >  Hugo was written in Go, but you don’t need to install Go to enjoy Hugo. You only need a precompiled binary!
 
@@ -66,7 +66,7 @@ Hugo currently provides pre-built binaries for the following:
 
 ### Installing on Mac
 
-Follow the video below to install Hugo on your macOS or read the [Installation guide](https://gohugo.io/getting-started/installing#macos). There are several techniques for installing Hugo on mac, so I won’t be going through them. BTW, I’m using a windows machine so I possibly don't know how to guide you :)
+Follow the video below to install Hugo on your macOS or read the [Installation guide](https://gohugo.io/getting-started/installing#macos). There are several techniques for installing Hugo on mac, so I won’t be going through them. BTW, I’m using a windows machine, so I possibly don't know how to guide you :)
 
 
 %[https://www.youtube.com/watch?v=WvhCGlLcrF8]
@@ -74,7 +74,7 @@ Follow the video below to install Hugo on your macOS or read the [Installation g
 
 ### Installing on Windows
 
-Follow the video below to install Hugo on your windows machine or read the [Installation guide](https://gohugo.io/getting-started/installing#windows). This video is a complete guide, but if you have installation issues, please let me know in comments.
+Follow the video below to install Hugo on your windows machine or read the [Installation guide](https://gohugo.io/getting-started/installing#windows). This video is a complete guide, but please let me know in comments if you have installation issues.
 
 
 %[https://www.youtube.com/watch?v=G7umPCU-8xc]
@@ -124,7 +124,7 @@ doas pkg_add hugo
 
 ## Creating a new site
 
-You can simply fork the starter repository. It contains the finished work with Theme and custom posts. Creating a site with Hugo is quite simple, just follow the following steps.
+You can fork the starter repository. It contains the finished work with Theme and custom posts. Creating a site with Hugo is quite simple, follow the following steps.
 
 * Create a new site with name Hugo101
 
@@ -155,7 +155,7 @@ Additional resource:
 
 * Add a new theme. All Hugo themes can be found [here](https://themes.gohugo.io/). For this tutorial, we’d be using the [Hugo Base16 ](https://github.com/htdvisser/hugo-base16-theme)theme by [Hylke Visser](https://github.com/htdvisser).
 
-This video would show you how to install and use themes on Hugo. Installing is very simple, you just need to find the theme you like and download it into the themes subdirectory. If you’re using the starter file, I’ve done that already.
+This video would show you how to install and use themes on Hugo. Installing is very simple; you need to find the theme you like and download it into the themes subdirectory. If you’re using the starter file, I’ve done that already.
 
 %[https://www.youtube.com/watch?v=L34JL_3Jkyc]
 
@@ -193,7 +193,7 @@ categories: ["hugo", "base16"]
 hugo
 ```
 
-Now your directory would have a new subfolder public , this is the final build. *Hugo takes a source directory of files and templates and uses these as input to create a complete website.* The public is the complete website and is what you’d deploy.
+Now your directory would have a new subfolder public; this is the final build. *Hugo takes a source directory of files and templates and uses these as input to create a complete website.* The public is the complete website and is what you’d deploy.
 
 ```    
 ├── archetypes
@@ -211,7 +211,7 @@ Now your directory would have a new subfolder public , this is the final build. 
 
 We would deploy to Netlify in the next section of this tutorial, but before that, we need to configure Hugo for Netlify.
 
-Create a new file in the root of your project, If you’re using the starter file, I’ve added this already.
+Create a new file in your project's root; If you’re using the starter file, I’ve added this already.
 
 ```
 touch netlify.toml
@@ -276,7 +276,7 @@ Select the “New site from git.” button
 
 ### **Select the repository you want to use for continuous deployment.**
 
-For this tutorial, I assume its Hugo101, else you can filter through your repositories in real-time.
+For this tutorial, I assume its Hugo101; else you can filter through your repositories in real-time.
 
 ![](https://cdn-images-1.medium.com/max/2560/1*eLqmQvQ-EO_gdgSdlu3jjQ.png)
 
@@ -292,7 +292,7 @@ In the Netlify console, select “Deploy site” and wait for it to build
 
 ![](https://cdn-images-1.medium.com/max/2000/0*aJAHwKA-zRCZgvps.gif)
 
-Once the build is finished, you should now see a “Hero Card” at the top of your screen letting you know the deployment is successful. You’ll see that the URL is automatically generated by Netlify. You can update the URL in “Settings.” [Visit the live site](https://hugo101.netlify.com/).
+Once the build is finished, you should now see a “Hero Card” at the top of your screen, letting you know the deployment is successful. You’ll see that Netlify automatically generates the URL. You can update the URL in “Settings.” [Visit the live site](https://hugo101.netlify.com/).
 
 Now every time you push changes to your hosted git repository, Netlify will rebuild and redeploy your site. You can add your own changes to the starter files and tweak as you wish.
 
@@ -310,19 +310,15 @@ This is just a beginners guide, there’s still more to Hugo, head out and read 
 
 * [Introduction to Hugo Templating](https://gohugo.io/templates/introduction/)
 
-* [Content Organization](https://gohugo.io/content-management/organization/)
-
-* [Using a Custom Domain with Netlify](https://www.netlify.com/docs/custom-domains/)
-
 * [Hugo configuration](https://gohugo.io/getting-started/configuration/)
 
 * [Hugo CLI commands](https://gohugo.io/commands/)
 
 * [Hugo variables and Params](https://gohugo.io/variables/)
 
-* [Hugo Pipes](https://gohugo.io/hugo-pipes/)
-
 * [How Netlify handles Hugo versions](https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/)
+
+* [Tutorials on how to create, work with and adapt websites built with Hugo](https://makewithhugo.com)
 
 ## Credits
 
