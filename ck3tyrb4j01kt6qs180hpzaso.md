@@ -1,14 +1,14 @@
 ## Accessibility Auditing with Axe for automated Web UI testing
 
-Accessibility has become widely know and sort-for topic with a lot of developers and organizations advocating for the need to focus more on it towards building for the Next Billion Users.
+Accessibility has become a widely known and sort-for topic, with many developers and organizations advocating for the need to focus more on it towards building for the Next Billion Users.
 
 An accessible site is one whose content can be accessed regardless of any user's impairments and whose functionality can also be operated by the most diverse range of users possible.
 
 In this article, I'll introduce you to the Axe Library and how you can use it for auditing your application(s) on Web Browsers, CLI, Android, React.js, and Vue.js.
 
-New to Web Accessibility? You should read my previous article :).
+New to Web Accessibility? It will help if you read my previous article :).
 
-%[https://bolajiayodeji.com/introduction-to-web-accessibility-cjwum18h600007ds1wreswp3q]
+%[https://blog.bolajiayodeji.com/introduction-to-web-accessibility]
 
 ---
 
@@ -22,7 +22,7 @@ Your application is not "Done" until you have tested to be sure it complies with
 
 ## Prerequisites
 
-Before you begin this tutorial you'll need the following:
+Before you begin this tutorial, you'll need the following:
 
 - Web Browser
 - DevTools
@@ -33,7 +33,7 @@ Before you begin this tutorial you'll need the following:
 
 ## What is Auditing?
 
-Technical Audit (TA) is an audit performed by an auditor, engineer or subject-matter expert evaluates deficiencies or areas of improvement in a process, system or proposal ~ [Wikipedia](https://en.wikipedia.org/wiki/Technical_audit)
+Technical Audit (TA) is an audit performed by an auditor, engineer or subject-matter expert evaluates deficiencies or areas of improvement in a process, system, or proposal ~ [Wikipedia](https://en.wikipedia.org/wiki/Technical_audit)
 
 Accessibility Audit (AA) is an audit performed by a developer, engineer, or accessibility expert, which evaluates deficiencies or areas of improvement in building websites that comply with the [web accessibility guidelines](https://www.w3.org/WAI/intro/wcag).
 
@@ -45,7 +45,7 @@ Some auditing libraries, such as `react-axe` and `eslint-plugin-jsx-a11y` are gr
 
 ## Why Audit?
 
-Most accessibility tools are meant to be run on applications that have been deployed already, and this can result in delays and serious debugging issues.
+Most accessibility tools are meant to be run on applications that have been deployed already, which can result in delays and serious debugging issues.
  
 - It is more of a command
 - To save time
@@ -244,7 +244,7 @@ See the difference between 'recommended' and 'strict' mode [here](https://github
 
 ![eslint_console.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575620397277/DicVWv2Hl.png)
 
-If your App was bootstrapped with [Create-React-App](https://github.com/facebook/create-react-app) then worry less, `eslint-jsx-a11y` is included already.
+If your App was bootstrapped with [Create-React-App](https://github.com/facebook/create-react-app), worry less, `eslint-jsx-a11y` is included already.
 
 ## Conclusion
 
