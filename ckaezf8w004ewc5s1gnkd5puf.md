@@ -36,12 +36,13 @@ Let's assume you couldn't fix your issues from the first step (but you could ide
 
 > Documentation is a set of documents provided on paper, or online, or on digital or analogue media, such as audio tape or CDs. Examples are user guides, white papers, on-line help, quick-reference guides. Paper or hard-copy documentation has become less common. ~ [Wikipedia](https://en.wikipedia.org/wiki/Documentation)
 
-Documentation serves as the official guide of a particular programming language, framework, library, or technology. The best place to get the first-hand resource on a specific issue is to check the technology's official help guide. You might have misconfigured something, installed some wrong package, or forgot to import something, and to read the docs of the tech responsible for the bug will help you find a fix quickly. Recently I was working on a Gatsby project, and I ran into some console errors and a blank white page in production; meanwhile, this didn't occur in development.
+Documentation serves as the official guide of a particular programming language, framework, library, or technology. The best place to get first-hand resource on a specific issue is to check the technology's official help guide. You might have misconfigured something, installed some wrong package, forgot to import something and reading the tech's docs responsible for the bug will help you find a fix quickly. Recently I was working on a Gatsby project, and I ran into some console errors and a blank white page in production; meanwhile, this didn't occur in development.
 
 ```
 TypeError: t.test is not a function
 ```
-So vague, right? After identifying the bug location, reading the docs, and trying out several fixes, I discovered that in the gatsby google analytics plugin configuration, I left the array meant to avoid sending pageview hits from custom paths empty.
+
+So vague, right? After identifying the bug location, reading the docs, and trying out several fixes, I discovered that in the gatsby google analytics plugin configuration; I left the array meant to avoid sending pageview hits from custom paths empty.
 
 ```
 plugins: [
@@ -57,7 +58,8 @@ plugins: [
       }
 ]
 ```
-After 3 hours of reading the error, identifying the bug, and reading Gatsby docs, I figured that the `exclude[]` option had no values in them, and removing this fixed my issue since I didn't need to exclude any page after all. This shows why you should spend some time debugging. It might take some time; it will be frustrating, the bug might look stupid, the fix might be simple, but it's worth it. The more time you spend debugging, the better you become, and the faster you will fix even more complex bugs next time.
+
+After 3 hours of reading the error, identifying the bug, and reading Gatsby docs, I figured that the `exclude` array had no values in them, and removing this fixed my issue since I didn't need to exclude any page after all. This shows why you should spend some time debugging. It might take some time; it will be frustrating, the bug might look stupid, the fix might be simple, but it's worth it. The more time you spend debugging, the better you become, and the faster you will fix even more complex bugs next time.
 
 ![EWOBv1cXgAEhi7N.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1588248728371/qXwmBU8Fm.jpeg)
 ~ [meme src :)](https://twitter.com/dabit3/status/1252987819368353792)
@@ -71,7 +73,7 @@ Here are some best Google search tips you can try to get answers better efficien
 - Add a specific domain to channel your search to a particular website and save some time. You can append the `site: sitename` to your search, and it'll return only results from that website.
 
 ![Screen Shot 2020-05-12 at 12.49.06 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1589268176790/vwk3EmzK9.png)
-- Search for specific title and text in specific sites. This will allow your results to include resources related to the title or text keyword you specified.
+- Search for specific titles and text in specific sites. This will allow your results to include resources related to the title or text keyword you specified.
 
 > intitle:axe
 
@@ -95,7 +97,7 @@ Here are some best Google search tips you can try to get answers better efficien
 
 Now comes the sought diamond. I would advise, before you ask ANY question, ensure you have completed steps 1 and 2. This might be hard, but the earlier you get used to this, the better you grow. I've had people ask me questions, and when I copy and paste their question on Google, the first result answers the question 100%, and this doesn't feel great. Most often, I'll have to send the link to them; meanwhile, they could have done this themselves and save me some time alongside increasing their problem-solving skill.
 
-Even if your next-door neighbor works at Google, if your Dad is a Software Engineer, if your close friend has two years' experience than you, try not to ask them questions until you have invested time into finding solutions yourself. This would help you:
+Even if your next-door neighbor works at Google, if your Dad is a Software Engineer if your close friend has two years' experience than you, try not to ask them questions until you have invested time into finding solutions yourself. This would help you:
 
 - Build more self-confidence as you won't need to rely so much on others. (What if that close friend is unavailable to respond to you someday, what will you do?!)
 - Save the time of whomever you are planning to ask questions. There are tons of developers worldwide, and you might not be the only one asking that same person questions. By completing steps 1 and 2 first, you are also helping others with lesser experience than you or more complex problems to get answers quickly.
@@ -109,7 +111,7 @@ But let's say that you have completed both steps, and you still need external he
 
 - Complete step 1 and ensure you understand the problem already
 - Complete step 2 so you might at least have gotten some insights into possible causes and solutions of the problem
-- Now, make some of your research, you are either asking the question in dev communities like [Stackoverflow](https://stackoverflow.com/) or [Hashnode](https://hashnode.com/) or requesting help from an individual you feel has more experience than you.
+- Now, make some of your research; you are either asking the question in dev communities like [Stackoverflow](https://stackoverflow.com/) or [Hashnode](https://hashnode.com/) or requesting help from an individual you feel has more experience than you.
 - Developers answering questions on dev communities are sacrificing their time to help you. Help them also by asking "clear and concise questions." It would help if you chose your words deliberately and precisely, constructing your sentences carefully to avoid confusion. From step 1 and step 2, properly draft your questions based on:
   - The "problem" you have encountered 
   - Your thoughts on what you think might be wrong, "based on your research."
