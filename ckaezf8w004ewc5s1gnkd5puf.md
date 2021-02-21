@@ -36,13 +36,13 @@ Let's assume you couldn't fix your issues from the first step (but you could ide
 
 > Documentation is a set of documents provided on paper, or online, or on digital or analogue media, such as audio tape or CDs. Examples are user guides, white papers, on-line help, quick-reference guides. Paper or hard-copy documentation has become less common. ~ [Wikipedia](https://en.wikipedia.org/wiki/Documentation)
 
-Documentation serves as the official guide of a particular programming language, framework, library, or technology. The best place to get first-hand resource on a specific issue is to check the technology's official help guide. You might have misconfigured something, installed some wrong package, forgot to import something and reading the tech's docs responsible for the bug will help you find a fix quickly. Recently I was working on a Gatsby project, and I ran into some console errors and a blank white page in production; meanwhile, this didn't occur in development.
+Documentation serves as the official guide of a particular programming language, framework, library, or technology. The best place to get first-hand resources on a specific issue is to check the technology's official help guide. You might have misconfigured something, installed some wrong package, forgot to import something, and reading the tech's docs responsible for the bug will help you find a fix quickly. Recently I was working on a Gatsby project, and I ran into some console errors and a blank white page in production; meanwhile, this didn't occur in development.
 
 ```
 TypeError: t.test is not a function
 ```
 
-So vague, right? After identifying the bug location, reading the docs, and trying out several fixes, I discovered that in the gatsby google analytics plugin configuration; I left the array meant to avoid sending pageview hits from custom paths empty.
+So vague, right? After identifying the bug location, reading the docs, and trying out several fixes, I discovered that in the gatsby google analytics plugin configuration, I left the array meant to avoid sending pageview hits from custom paths empty.
 
 ```
 plugins: [
@@ -97,7 +97,7 @@ Here are some best Google search tips you can try to get answers better efficien
 
 Now comes the sought diamond. I would advise, before you ask ANY question, ensure you have completed steps 1 and 2. This might be hard, but the earlier you get used to this, the better you grow. I've had people ask me questions, and when I copy and paste their question on Google, the first result answers the question 100%, and this doesn't feel great. Most often, I'll have to send the link to them; meanwhile, they could have done this themselves and save me some time alongside increasing their problem-solving skill.
 
-Even if your next-door neighbor works at Google, if your Dad is a Software Engineer if your close friend has two years' experience than you, try not to ask them questions until you have invested time into finding solutions yourself. This would help you:
+Even if your next-door neighbor works at Google, if your Dad is a Software Engineer, if your close friend has two years' experience than you, try not to ask them questions until you have invested time into finding solutions yourself. This would help you:
 
 - Build more self-confidence as you won't need to rely so much on others. (What if that close friend is unavailable to respond to you someday, what will you do?!)
 - Save the time of whomever you are planning to ask questions. There are tons of developers worldwide, and you might not be the only one asking that same person questions. By completing steps 1 and 2 first, you are also helping others with lesser experience than you or more complex problems to get answers quickly.
@@ -138,7 +138,3 @@ Thank you to all the amazing developers across the globe, creating and sharing c
 > Quick note, I interview awesome women in tech on the [She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15) at [Hashnode](https://hasnode.com) where I understand the current health of the tech industry, get insights from their personal and career growth, and inspire other women to become better. Read all past interviews [here](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15); trust me, it's worth your time. :)
 
 Don't spend your entire life waiting for the best time making that move, write that article, build that side-project, apply for that job, or ask that question today. The best time is always now!
-
----
-
-%%[substack]
