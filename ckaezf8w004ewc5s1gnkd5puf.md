@@ -138,3 +138,7 @@ Thank you to all the amazing developers across the globe, creating and sharing c
 > Quick note, I interview awesome women in tech on the [She Inspires](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15) at [Hashnode](https://hasnode.com) where I understand the current health of the tech industry, get insights from their personal and career growth, and inspire other women to become better. Read all past interviews [here](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15); trust me, it's worth your time. :)
 
 Don't spend your entire life waiting for the best time making that move, write that article, build that side-project, apply for that job, or ask that question today. The best time is always now!
+
+---
+
+%%[substack]
