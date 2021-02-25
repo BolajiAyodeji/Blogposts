@@ -87,3 +87,5 @@ Markdown](https://guides.github.com/features/mastering-markdown/).
 There are no automatic links with GitHub Pages. The GitHub Markdown renderer can automatically detect a simple copy-pasted link and make it a clickable link.
 GitHub Pages doesn't propose a feature to reproduce that behaviour, so you'll
 have to braces your links with the `[]()`syntax.
+
+%%[substack]
