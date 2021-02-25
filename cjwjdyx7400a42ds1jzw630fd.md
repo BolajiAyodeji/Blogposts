@@ -246,3 +246,5 @@ file uploads and spam filtering. [Full guide + practical code]
 - https://zeit.co/guides/deploying-statickit-with-zeit-now
 
 Thanks for reading!
+
+%%[substack]
