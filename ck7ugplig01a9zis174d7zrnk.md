@@ -163,3 +163,5 @@ GDG brings software developers with similar interests together to meet through m
 The bond in developer communities has grown from just "technical groups" to "family groups" where everyone is passionate about sharing knowledge, giving back, and helping everyone reach higher heights.
 
 Isn't this just amazing? Cheers to the new age where sharing knowledge and togetherness become the order of the day. 🙏💙
+
+%%[substack]
