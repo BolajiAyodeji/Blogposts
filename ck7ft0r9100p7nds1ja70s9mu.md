@@ -31,7 +31,7 @@ Optimizing Images will:
 - Improve user experience
 - Improve SEO ranking 
 
-And this can be done in different ways, either by resizing the images, caching, or by compressing the image size.
+And this can be done in different ways, either by resizing the images, caching or compressing the image size.
 
 ## Introducing Cloudinary
 
@@ -76,7 +76,7 @@ Subscribe to my [newsletter here](https://tinyletter.com/bolajiayodeji/) to get 
 
 ### STEP TWO
 
-Head to your media library in your Cloudinary console, where all your uploaded media assets will be listed. If your account is newly created, then you will only find a sample image. Treat this media library like a drive where you can create folders, subfolders, and add images in them.
+Head to your media library in your Cloudinary console, where all your uploaded media assets will be listed. If your account is newly created, then you will only find a sample image. Treat this media library like a drive where you can create folders, subfolders, and add images to them.
 
 ![Selection_066.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583357384464/FF064kjvN.png)
 
@@ -145,7 +145,7 @@ https://res.cloudinary.com/bolaji/image/upload/f_auto/v1583381262/bolaji_headsho
 ![Selection_069.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583425244631/A7KvzLFVx.png)
 
 
-If you add the `f_auto` and `q_auto` parameter, then Cloudinary will deliver WebP and JPEG-XR to the compatible browsers but might deliver selected images as PNG-8 or PNG-24 if the quality algorithm determines that as optimal.
+If you add the `f_auto` and `q_auto` parameters, then Cloudinary will deliver WebP and JPEG-XR to the compatible browsers but might deliver selected images as PNG-8 or PNG-24 if the quality algorithm determines that as optimal.
 
 Using the automatic format and automatic quality is most recommended as it allows Cloudinary's algorithm to decide how to deliver the image based on the user's browsers leading to better visual quality and optimal images.
 
@@ -168,3 +168,5 @@ I consider this article fundamental as there is so much more you can do with Clo
 - [How to make your website load lightning fast with WebP images](https://www.freecodecamp.org/news/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2/)
 - [Automatically Reduce Image Size Without Losing Quality](https://cloudinary.com/blog/adaptive_browser_based_image_format_delivery)
 - [Best Image Optimization Techniques: Expert Roundup](https://cloudinary.com/blog/image_optimization_expert_roundup)
+
+%%[substack]
