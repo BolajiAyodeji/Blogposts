@@ -7,7 +7,7 @@ development of technology and solving real-world problems.
 Over the years, Google has created a healthy ecosystem for the sustainability of
 open source for all via its several communities 
 
-> Beyond the open source software we directly use and release at Google, we also
+> Beyond the open-source software we directly use and release at Google, we also
 > work to support the sustainability of open source organizations and communities.
 Many of these efforts are focused on introducing new people to open source. —
 Google
@@ -18,7 +18,7 @@ Some of these communities include:
 
 ![](https://cdn-images-1.medium.com/max/600/0*NPWT5t6bRTd3cFVS.gif)
 
-Google Summer of Code aims to bring new contributors into the open source
+Google Summer of Code aims to bring new contributors into the open-source
 community by providing an opportunity for university students to spend their
 summer working on open source. Students are paired with a mentor from a
 participating organization to help them along the way. Many become lifetime
@@ -37,7 +37,7 @@ more](https://developers.google.com/open-source/gci/)
 
 * Google Affiliations
 
-Google also participates in and support numerous open source organizations and
+Google also participates in and supports numerous open-source organizations and
 events throughout the community. Ranging from small grassroots efforts to
 established foundations, these organizations play a critical role in the world
 of open source. [View all
@@ -56,14 +56,14 @@ towards sustaining and supporting Open Source across the globe.
 This new program is called [Google Season of
 Docs](https://developers.google.com/season-of-docs/)
 
-Google Season of Docs is a program aimed at fostering the open source
+Google Season of Docs is a program aimed at fostering the open-source
 contributions of technical writers. 
 
 Just like [Google Summer of
 Code](https://developers.google.com/open-source/gsoc/) and [Google
 Code-In](https://developers.google.com/open-source/gci/)*,* Season of Docs
 brings technical writers and open source projects across the globe together to
-work on open source documentation. The most exciting part is, this is the first
+work on open-source documentation. The most exciting part is, this is the first
 time GSoD is happening.
 
 *****
@@ -85,7 +85,7 @@ The program includes three entities:
 During Season of Docs, technical writers will spend a few months working closely
 with [open source
 organizations](https://developers.google.com/season-of-docs/docs/participants/)
-alongside mentors. Each writer works on an open source project chosen from the
+alongside mentors. Each writer works on an open-source project chosen from the
 organization's list of projects or proposed by the writer. The writers bring
 their expertise to the projects’ documentation while at the same time learning
 about open source and new technologies.
@@ -129,7 +129,7 @@ terms](https://developers.google.com/season-of-docs/terms/tech-writer-terms).
 
 #### **How do I apply?**
 
-Applying to GSoD is quite straight forward. All you have to do is to:
+Applying to GSoD is quite straightforward. All you have to do is to:
 
 * Find an Open Source Organization from the [list of
 participants](https://developers.google.com/season-of-docs/docs/participants/)
@@ -143,7 +143,7 @@ or the organization’s Slack)
 #### **What do I stand to gain?**
 
 * Add more skills to your resume
-* Improve your technical writing skills whilst working on large scale
+* Improve your technical writing skills whilst working on a large scale
 documentation
 * Receive
 [Stipends](https://developers.google.com/season-of-docs/docs/tech-writer-stipends)
@@ -189,8 +189,8 @@ the current phase is *Technical Writers Exploration* (See
 more). Ensure you read the guides and follow all instructions and you sure will
 get accepted!
 
-> Let’s bring open source and technical writer communities together, to the
-> benefit of both. Together we raise awareness of open source, of docs, and of
+> Let’s bring open-source and technical writer communities together, to the
+> benefit of both. Together we raise awareness of open source, docs, and of
 technical writing.
 
 ![](https://cdn-images-1.medium.com/max/800/0*Qgj2z83EengytoGg.png)
@@ -201,3 +201,5 @@ technical writing.
 * [Google Season of Docs
 Documentation](https://developers.google.com/season-of-docs/)
 * [Google Search](http://google.com)
+
+%%[substack]
