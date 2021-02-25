@@ -502,3 +502,5 @@ If you’re just getting started with JavaScript, you should check this reposito
 * Operators
 
 Thank you for reading, got any questions or views? Let's discuss in comments.
+
+%%[substack]
