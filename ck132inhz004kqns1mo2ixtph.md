@@ -10,12 +10,12 @@ With features like Heroku Runtime, Heroku Postgres (SQL), Heroku Redis, Add-ons,
 
 ----
 
-One of Heroku's core feature is deploying, managing, and scaling apps with your favorite languages [Node, Ruby, Python, Java, PHP, Go and more].
-In this article, I'll show you how to take an existing Node.js app and deploy it to Heroku. From creating your Heroku account, until adding a Database to your deployed application.
+One of Heroku's core features is deploying, managing, and scaling apps with your favorite languages [Node, Ruby, Python, Java, PHP, Go, and more].
+In this article, I'll show you how to take an existing Node.js app and deploy it to Heroku. From creating your Heroku account to adding a Database to your deployed application.
 
 ## Prerequisites
 
-In my previous article, I wrote about "[Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)" and I promised to write a follow-up article to show how to host the SlackBot on either Heroku, Zeit or Netlify and publish it to the Slack Apps store. Well, this is the follow-up article but without the "Publishing to Slack Apps" part, we'll cover that in another article.
+In my previous article, I wrote about "[Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)" and I promised to write a follow-up article to show how to host the SlackBot on either Heroku, Zeit, or Netlify and publish it to the Slack Apps store. Well, this is the follow-up article but without the "Publishing to Slack Apps" part, we'll cover that in another article.
 
 I assume you have/ know the following already:
 
@@ -27,7 +27,7 @@ I assume you have/ know the following already:
 
 ## Bonus
 
-If you don't have npm, Node and Heroku CLI installed or a Heroku account already here's a quick bonus [ Yes, you're welcome :) ].
+If you don't have npm, Node, and Heroku CLI installed or a Heroku account already here's a quick bonus [ Yes, you're welcome :) ].
 
 ### Installing npm and Node
 
@@ -119,7 +119,7 @@ I presume you've built the SlackBot already, if you haven't, please clone the [f
 ```
 git clone https://github.com/BolajiAyodeji/inspireNuggetsSlackBot.git && cd inspireNuggetsSlackBot
 ```
-Now let's deploy our app to Heroku 🎉🎉.I'll show you two ways to do this:
+Now let's deploy our app to Heroku 🎉🎉. I'll show you two ways to do this:
 
 #### Deploy via the Heroku Git
 
@@ -221,7 +221,7 @@ Now your app is successfully created
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/heroku-github.png)
 
-- Now you have the **Connect to GitHub section**, search for the repository and deploy.
+- Now you have the **Connect to GitHub section**, search for the repository, and deploy.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/heroku-search.png)
 
@@ -257,7 +257,7 @@ After deploying your app, ensure you add a Node.js buildpack to your project.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/heroku-add-build.png)
 
-- Now the new buildpack configuration will be used when this app is next deployed.- Make some changes to your app and push to GitHub, it will automatically deploy.
+- Now the new buildpack configuration will be used when this app is next deployed.- Make some changes to your app and push it to GitHub, it will automatically deploy.
 
 ### Adding a Database to your deployed App'
 
@@ -298,3 +298,5 @@ The Heroku experience provides services, tools, workflows, and polyglot support�
 > If you're a student, Kindly register for the [GitHub Student Developer Pack](https://education.github.com/pack) to get One free [Hobby Dyno](https://www.heroku.com/pricing) for up to two years.
 
 > The pack gives students free access to the best developer tools in one place so you can learn by doing.
+
+%%[substack]
