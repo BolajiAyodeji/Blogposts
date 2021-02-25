@@ -2,19 +2,13 @@
 
 
 
-C++ is a statically-typed, free-form, (usually) compiled, multi-paradigm, intermediate-level general-purpose middle-level programming language.”
+C++ is a statically-typed, free-form, (usually) compiled, multi-paradigm, intermediate-level general-purpose middle-level programming language.” In simple terms, C++ is a sophisticated, efficient, and general-purpose programming language based on C.  It was developed by [Bjarne Stroustrup](http://www.stroustrup.com/) in 1979.
 
-In simple terms, C++ is a sophisticated, efficient and general-purpose programming language based on C. 
-
-It was developed by [Bjarne Stroustrup](http://www.stroustrup.com/) in 1979.
-
-One of C++'s main feature is the compiler. This is used to compile and run C++ code.
+One of C++'s main features is the compiler. This is used to compile and run C++ code.
 
 > A compiler is a special program that processes statements written in a particular programming language like C++ and turns them into machine language or "code" that a computer's processor uses. 
 
-I actually wrote this article because I had a C++ assignment which required using a compiler. As usual, everyone was using the [CodeBlocks IDE](http://www.codeblocks.org/) and [Visual Studio IDE](https://visualstudio.microsoft.com/). But I was already used to Visual Studio Code for all my programming stuff.
-
-I then set out to find a way of compiling C++ directly inside my own VsCode Editor and hence this article :).
+I actually wrote this article because I had a C++ assignment that required using a compiler. As usual, everyone was using the [CodeBlocks IDE](http://www.codeblocks.org/) and [Visual Studio IDE](https://visualstudio.microsoft.com/). But I was already used to Visual Studio Code for all my programming stuff. I then set out to find a way of compiling C++ directly inside my own VsCode Editor and hence this article :).
 
 In this article, I'll show you how to set up your compiler in VsCode and at the end give you some links to some of the best C++ resources.
 
@@ -25,7 +19,7 @@ In this article, I'll show you how to set up your compiler in VsCode and at the 
 # Prerequisite
 
 * Prior knowledge of C++
-  (I assume you're learning C++, about to start learning or just reading this for fun, this article is not a C++ 101 tutorial, some understanding of C++ is needed.)
+  (I assume you're learning C++, about to start learning, or just reading this for fun, this article is not a C++ 101 tutorial, some understanding of C++ is needed.)
 * Visual Studio Code Editor 
 Download [here](https://code.visualstudio.com/#alt-downloads) and read the setup docs for [Windows](https://code.visualstudio.com/docs/?dv=win), [Linux](https://code.visualstudio.com/docs/?dv=linux64_deb) and [Mac](https://code.visualstudio.com/docs/?dv=osx)
 * **Internet connection (!important)**
@@ -55,7 +49,7 @@ Now let's get started!
   
 ![](https://www.freecodecamp.org/news/content/images/2019/10/Capture3.png)
 
-* Wait and allow to install completely. Ensure you have a stable internet during this process.
+* Wait and allow to install completely. Ensure you have stable internet during this process.
 
 # Edit your PATH environment variable to include the directory where the C++ compiler is located
 
@@ -180,3 +174,5 @@ Here are some C++ resources you can use to get started with learning C++
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) by [Jun Han](https://marketplace.visualstudio.com/publishers/formulahendry)
 
 Thank you for reading!
+
+%%[substack]
