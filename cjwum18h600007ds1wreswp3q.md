@@ -2,9 +2,9 @@
 
 As developers, it’s easy to assume that all users can see and use a keyboard, mouse or screen, you feel everyone can interact with your web page the same way you do. This can lead to a user experience that works well for some people but creates issues for others :(
 
-Many developers have only a little or blurred understanding of what accessibility means, of course, accessibility can be a complex and difficult topic but understanding it, its scope and its impact can make you a better and inclusive web developer.
+Many developers have only a little or blurred understanding of what accessibility means, of course, accessibility can be a complex and difficult topic but understanding it, its scope, and its impact can make you a better and inclusive web developer.
 
-In this article, I’ll introduce you to accessibility, what it means, why you should care, a few tips, tools and resources to get you started.
+In this article, I’ll introduce you to accessibility, what it means, why you should care, a few tips, tools, and resources to get you started.
 
 ![](https://cdn-images-1.medium.com/max/1600/0*WXgUQC2V92dkcYgZ)_Gif by_ [_Jona Dinges_](https://dribbble.com/jonadinges)
 
@@ -18,23 +18,23 @@ Let’s start by defining accessibility and inclusion.
 
 * * *
 
-> **Inclusion** is a societal ideology regarding individuals with disabilities and special education. I**nclusion** describes a group that’s particularly welcoming to all kinds of people irrespective of their differences.
+> **Inclusion** is a societal ideology regarding individuals with disabilities and special education. **Inclusion** describes a group that’s particularly welcoming to all kinds of people irrespective of their differences.
 
 * * *
 
-> In computer-human interaction, accessibility simply means making the web accessible and having functionalities that can be operated by literally everyone including those with all forms of disabilities, limitations and conditions.
+> In computer-human interaction, accessibility simply means making the web accessible and having functionalities that can be operated by literally everyone including those with all forms of disabilities, limitations, and conditions.
 
 * * *
 
 #### Those with Disabilities
 
-According to WHO, there are about 285,000,000 people in the world today. Blind and visually impaired make up of the 285,000,000 people according to the [World Health Organization](http://www.who.int/mediacentre/factsheets/fs282/en/) (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. The deaf and hearing impaired make up 275,000,000 (2004) in the moderate-to-profound hearing impairment category.
+According to WHO, there are about 285,000,000 people in the world today. Blind and visually impaired make up of the 285,000,000 people according to the [World Health Organization](http://www.who.int/mediacentre/factsheets/fs282/en/) (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. The deaf and hearing-impaired make up 275,000,000 (2004) in the moderate-to-profound hearing impairment category.
 
 Some forms of disabilities include:
 
 *   **Physical disabilities** (One that affects a person’s mobility or dexterity)
-*   **Intellectual or Learning Disabilities** ( People with an intellectual, learning, or cognitive disability have a reduced capacity to read, learn tasks or process information.)
-*   **Visual impairments** (People with sight challenges, visually impaired individuals and blind people.)
+*   **Intellectual or Learning Disabilities** ( People with an intellectual, learning, or cognitive disability have a reduced capacity to read, learn tasks, or process information.)
+*   **Visual impairments** (People with sight challenges, visually impaired individuals, and blind people.)
 *   **Hearing impairments** ( Deafness and hearing loss)
 *   **Neurological disabilities** ( Disabilities associated with damage to the nervous system that results in the loss of some physical or mental functions.)
 
@@ -54,7 +54,7 @@ All these are examples where someone may benefit from accessible practices.
 
 #### How can we help these people?
 
-Web Accessibility comes to the rescue. It is a practice whereby web applications are designed and developed so that its functionality can be operated by people with disabilities.
+Web Accessibility comes to the rescue. It is a practice whereby web applications are designed and developed so that their functionality can be operated by people with disabilities.
 
 * * *
 
@@ -65,9 +65,9 @@ Web Accessibility comes to the rescue. It is a practice whereby web applications
 WCAG is organized around four principles often called _The POUR Principle_:
 
 *   **Perceivable**: Can users perceive the content? This ensures that our applications are perceivable with _sight, touch, or hearing_ senses via the browser or assistive technologies e.g Screen readers
-*   **Operable**: Can users use UI components easily and navigate the content? For example, something that requires a hover interaction cannot be operated by someone who can’t use a mouse or touch screen. This means users should be able to control your web apps elements using either the mouse, keyboard or an assistive device.
+*   **Operable**: Can users use UI components easily and navigate the content? For example, something that requires a hover interaction cannot be operated by someone who can’t use a mouse or touch screen. This means users should be able to control your web apps elements using either the mouse, keyboard, or an assistive device.
 *   **Understandable**: Can users understand the content? Can users understand the interface and is it clear and concise? This ensures an easy understanding and smooth user experience.
-*   **Robust**: Can the content be consumed by a wide variety of users on several browsers? This ensures compatibility of your app across several devices, browsers or operating systems.
+*   **Robust**: Can the content be consumed by a wide variety of users on several browsers? This ensures the compatibility of your app across several devices, browsers, or operating systems.
 
 * * *
 
@@ -79,9 +79,9 @@ Now that you understand what Web Accessibility means and why you should care, le
 
 This is one thing most developers miss, I used to miss this too when I started out because I didn’t really understand the essence of _alternative texts._
 
-> Alternative texts (also know as `alt`) is a word that can be inserted as an attribute in an HTML document to tell your website users the contents of an image. The alt text appears in a blank box that would normally contain the image. Alt text is useful when an image is not available because of a broken link, changed URL or something else.
+> Alternative texts (also known as `alt`) is a word that can be inserted as an attribute in an HTML document to tell your website users the contents of an image. The alt text appears in a blank box that would normally contain the image. Alt-text is useful when an image is not available because of a broken link, changed URL, or something else.
 
-_Alternative texts as the name imply serve as an alternative for screen readers. They_ are read aloud to blind users on a screen reader and other_screen assistive technologies._
+_Alternative texts as the name imply serve as an alternative for screen readers. They_ are read aloud to blind users on a screen-reader and other_screen assistive technologies._
 
 _You add alternative texts to images with the_ `_alt_` _attribute_
 
@@ -169,7 +169,7 @@ Skipping to main content links are useful for users who use keyboard navigation 
   <a href="#main">Get Started</a>
 ...
   <p>
-   Our story is a story which explains another story. Cut the crap this is too long and I don't want to read it.
+   Our story is a story that explains another story. Cut the crap this is too long and I don't want to read it.
   </p>
 ...
   <main id="main">
@@ -189,7 +189,7 @@ I’d stop here as we have tons of accessibility guidelines, but don’t worry, 
 
 ### The A11y project
 
-This is a community-driven effort to make web accessibility easier with tons of resources, events, patterns, checklists and lots more to help you build more accessible applications. [https://a11yproject.com/](https://a11yproject.com/)
+This is a community-driven effort to make web accessibility easier with tons of resources, events, patterns, checklists, and lots more to help you build more accessible applications. [https://a11yproject.com/](https://a11yproject.com/)
 
 > Accessibility can be a complex and difficult topic. The Accessibility Project understands this and wants to help make it easier to implement on the web.
 
@@ -203,15 +203,15 @@ Get the Ally.css built by [Gaël Poupard](https://github.com/ffoodd) [here](http
 
 *   **Chrome lighthouse**
 
-Lighthouse is an [open-source](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more. Read my previous article: [Introduction to chrome lighthouse](https://bolajiayodeji.com/introduction-to-chrome-lighthouse/) to get started.
+Lighthouse is an [open-source](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of web pages. You can run it against any web page, public, or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more. Read my previous article: [Introduction to chrome lighthouse](https://bolajiayodeji.com/introduction-to-chrome-lighthouse/) to get started.
 
 *   **Contrast Checker**
 
-Check the contrast of your colour design for accessibility based on Web Content Accessibility Guideline (WCAG). Check it [here](https://contrastchecker.com/).
+Check the contrast of your color design for accessibility based on the Web Content Accessibility Guideline (WCAG). Check it [here](https://contrastchecker.com/).
 
 *   **NoCoffee**
 
-A chrome extension which is helpful for understanding the problems faced by people with slight to extreme vision problems. Download [here](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+A chrome extension is helpful for understanding the problems faced by people with slight to extreme vision problems. Download [here](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 
 #### A full list of web accessibility tools can be found [here](https://www.w3.org/WAI/ER/tools/)
 
@@ -238,3 +238,5 @@ A chrome extension which is helpful for understanding the problems faced by peop
 Everyone should be able to access and enjoy the web irrespective of their challenges or limitations. As developers, we’re building solutions for **every user** and not just **some users.** As much as we focus on UI/UX, we should also put extra focus on accessibility. Thanks for reading!
 
 ![](https://cdn-images-1.medium.com/max/1600/0*BQcPB-Ak2H8VA0AT.png)
+
+%%[substack]
