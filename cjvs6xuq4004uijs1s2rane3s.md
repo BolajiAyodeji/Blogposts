@@ -115,3 +115,5 @@ Do share with your friends also, :)
 **Reference**
 - https://git-scm.com/
 - https://www.atlassian.com/git/
+
+%%[substack]
