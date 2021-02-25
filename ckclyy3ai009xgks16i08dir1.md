@@ -8,7 +8,7 @@ This week's challenge is the [#MyFirstInterviewExperience](https://hashnode.com/
 
 My first interview experience was for an internship role at [Upnepa NG](http://upnepa.ng), a company in Lagos, Nigeria. Upnepa is a data-driven platform that gives real-time (On/Off) information and total hours of electricity supply in selected areas, communities, and homes across Nigeria.
 
-I saw the advert for the role of Web Developer Intern in October 2018 posted on Facebook by one of Upnepa co-founders. As at then, Upnepa just got started and just joined an acceleration program in collaboration with  Facebook and CCHUB at NG_HUB from Facebook.
+I saw the advert for the role of Web Developer Intern in October 2018 posted on Facebook by one of Upnepa's co-founders. As of then, Upnepa just got started and just joined an acceleration program in collaboration with  Facebook and CCHUB at NG_HUB from Facebook.
 
 I so much loved their mission to monitor, aggregate, and analyze power supply, power outages, and power distribution in order to improve productivity in young people and students, provide power supply rates insight for SMEs, and foresight for governmental institutions, energy distribution companies, and energy solution projects. 
 
@@ -40,7 +40,7 @@ Yayy, I got the job and was super excited! 🤩
 - Build a killer brand for yourself. Check out Gift's [guide](https://lauragift21.hashnode.dev/building-a-killer-personal-brand-cjww7wzdj000m1ws1o42r58hm) on personal branding for developers.
 - Prepare a good resume before applying. Here's a [great guide](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/) for this.
 - You don't need to "know it all", you just need to "know it and know-how and where to find more knowledge."
-- Ensure you have good people-skills aside technical skills.
+- Ensure you have good people-skills aside from technical skills.
 - Do some research about the company before applying and interviewing.
 - Get a good internet connection before joining the interview.
 - Invest in quality webcams, microphones, or noise cancellation headphones.
@@ -53,4 +53,4 @@ Don't spend your entire life waiting for the best time making that move, write t
 
 Join Hashnode's writing challenges like the [#2Articles1Week](https://hashnode.com/2articles1week) and [#MyFirstInterviewExperience](https://hashnode.com/n/myfirstinterviewexperience) to write, share knowledge, become a better writer, learn in public and win some Hashnode badges.
 
-%[https://hashnode.com/2articles1week]
+%%[substack]
