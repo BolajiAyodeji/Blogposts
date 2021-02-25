@@ -215,3 +215,5 @@ Here are some useful **Tar** flags for your reference:
 | \-C  | Specify the archive extraction destination path |   |   |
 
 Thanks for reading! 💙
+
+%%[substack]
