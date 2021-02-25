@@ -232,3 +232,5 @@ success stories in the comments!
 
 
 You can tweet to me via[ @iambolajiayo](http://twitter.com/iambolajiayo)
+
+%%[substack]
