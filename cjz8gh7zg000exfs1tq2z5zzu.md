@@ -1,13 +1,14 @@
 ## Building a SlackBot with Node.js and SlackBots.js
 
 Slack is an American cloud-based set of proprietary team collaboration software tools and online services, developed by Slack Technologies. Slack is a workspace where teams can communicate and collaborate.
-> Teamwork in Slack happens in channels — a single place for messaging, tools and files — helping everyone save time and collaborate.
+
+> Teamwork in Slack happens in channels — a single place for messaging, tools, and files — helping everyone save time and collaborate.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/organize-conversations-slack-product-desktop.png)
 
 - - -
 
-One of the awesome features of Slack is [Slack Apps](https://slack.com/apps), integrations and [Slack Bots](https://api.slack.com/bot-users).
+One of the awesome features of Slack is [Slack Apps](https://slack.com/apps), integrations, and [Slack Bots](https://api.slack.com/bot-users).
 
 > A Slack bot is a type of Slack App designed to interact with users via conversation. Your bot can send DMs, it can be mentioned by users, it can post messages or upload files, and it can be invited to channels. Cool right?
 If you use Slack already, you should be familiar with some creative Slack bots like [Standupbot](https://standupbot.com/), [Birthdaybot](https://birthdaybot.io/) and more.
@@ -218,11 +219,11 @@ Since we're building a bot, select the **Bots** field.
 
 Click the `Add a Bot User` button
 
-* Your display name will automatically be filled in from your already chosen App name, you can update but I'll advise you use the same name everywhere with the same alphabet case to avoid errors.
+* Your display name will automatically be filled in from your already chosen App name, you can update but I'll advise you to use the same name everywhere with the same alphabet case to avoid errors.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/capture8.png)
 
-Now, toggle the `Always Show My Bot as Online` switch to always show your bot as Online, remember this bot is just like a user in your workspace. Afterwards, click the `Add Bot User` button
+Now, toggle the `Always Show My Bot as Online` switch to always show your bot as Online, remember this bot is just like a user in your workspace. Afterward, click the `Add Bot User` button
 
 * Save all changes now
 
@@ -238,7 +239,7 @@ Click the `Install App to Workspace`
 
 Click allow and wait to be redirected back to the `Basic Information` page.
 
-> Note the `Manage distribution` tab, this section is needed when you want to make your Bot available for installation by others, for now we're just building in development and I won't be covering distribution in this article, in my next article, I'll show you how to deploy your Slack bot and make it available as an App to other workspaces.
+> Note the `Manage distribution` tab, this section is needed when you want to make your Bot available for installation by others, for now, we're just building in development and I won't be covering distribution in this article, in my next article, I'll show you how to deploy your Slack bot and make it available as an App to other workspaces.
 
 * If you check your Slack workspace now, you should see the App installed in the Apps section
 
@@ -566,3 +567,5 @@ This isn't cool, right? We'll want to host it somewhere it can run every time. I
 * [An introduction to Slack apps](https://api.slack.com/start/overview)
 * [inspireNuggets](https://github.com/BolajiAyodeji/inspireNuggets)
 * [inspireNuggetsSlackBot](https://github.com/BolajiAyodeji/inspireNuggetsSlackBot)
+
+%%[substack]
