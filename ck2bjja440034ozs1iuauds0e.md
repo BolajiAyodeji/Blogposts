@@ -1,17 +1,16 @@
 ## HTTP Status Codes and their Meanings
 
-Often time, we come across several errors while surfing through some websites which displays with a status code, as developers we need to be familiar with this status codes.
+Often time, we come across several errors while surfing through some websites which display a status code, as developers we need to be familiar with these status codes.
 
-In this article, I'd be explaining what each HTTP status code stand for.
+In this article, I'd be explaining what each HTTP status code stands for.
 
 ## What is an HTTP status code?
 
-For every request from a web browser, the server responds with a status code. If there was a error, you can get additional information about the error. You can find the most frequent error codes and a brief description in the list below.
+For every request from a web browser, the server responds with a status code. If there was an error, you can get additional information about the error. You can find the most frequent error codes and a brief description in the list below.
 
 - **HTTP Error 401 - Unauthorized**
 
-The 401 status code indicates that the
-HTTP request has not been applied because it lacks valid authentication
+The 401 status code indicates that the HTTP request has not been applied because it lacks valid authentication
 credentials (usually username and password) for the target resource. If the
 request included authentication credentials the 401 response indicates that
 authorization has been refused for those credentials. Please check if your
@@ -20,7 +19,7 @@ username and password are correct.
 - **HTTP status 403 - Forbidden**
 
 This is a permissions issue. You often
-encounter this error when no index file (.htm, .html or .php) is present and the directory listing is off for a folder in the Web space (Line "Options -Indexes" in a .htaccess file). Sometimes user authentication was provided, but the authenticated user is not permitted to view the content of the folder or file. Other times the operation is forbidden to all users. Sometimes this error occurs if there are too many connections at the same time.
+encounter this error when no index file (.htm, .html or .php) is present and the directory listing is off for a folder in the Webspace (Line "Options -Indexes" in a .htaccess file). Sometimes user authentication was provided, but the authenticated user is not permitted to view the content of the folder or file. Other times the operation is forbidden to all users. Sometimes this error occurs if there are too many connections at the same time.
 
 - **HTTP status 404 - Not Found**
 
@@ -28,7 +27,7 @@ This error message is shown when a site or folder on a server are requested but 
 
 - **HTTP status 429 - Too Many Requests**
 
-The HTTP 429 Too Many Requests response status code indicates the user has sent too many requests in a given amount of time. A Retry-After header might be included in this response indicating how long to wait before making a new request. For example if more than 50 requests are received from the same IP address (cumulative hits) within
+The HTTP 429 Too Many Requests response status code indicates the user has sent too many requests in a given amount of time. A Retry-After header might be included in this response indicating how long to wait before making a new request. For example, if more than 50 requests are received from the same IP address (cumulative hits) within
 the same second, our server will block that IP for the next 10 minutes as a
 security measure.
 
@@ -40,5 +39,7 @@ This is a "catch all" status for unexpected errors. It is a server-side error me
 
 - **HTTP status 503 - Service unavailable**
 
-This means, that the server is currently unavailable or the server is over-allocated. You can check the file `php_error.log` as described for the status code 500. Should you not find helpful error messages in the log file, please try changing the session_cache to the option file system, you can do this in the easy name control panel if you navigate to [My Hosting]>>[PHP settings] and click the link "Settings". 
+This means, that the server is currently unavailable or the server is over-allocated. You can check the file `php_error.log` as described for the status code 500. Should you not find helpful error messages in the log file, please try changing the session_cache to the options file system, you can do this in the easy name control panel if you navigate to [My Hosting]>>[PHP settings] and click the link "Settings". 
 Please note that this change will take up to 15 minutes to take effect, so please try waiting 15 minutes before trying to call up your site and refresh it.
+
+%%[substack]
