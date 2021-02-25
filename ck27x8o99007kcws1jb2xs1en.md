@@ -123,3 +123,5 @@ Confirmation Message
 Congratulations! You’ve successfully connected your database with your
 localhost! If you are not able to see this screen, then check if you have done
 everything right in your `db_connection.php` file.
+
+%%[substack]
