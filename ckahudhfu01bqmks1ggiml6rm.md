@@ -5,3 +5,5 @@ Want to get started with or brush up your technical writing game? I've put toget
 Hope it helps 💙
 
 %[https://github.com/BolajiAyodeji/technical-writing-template]
+
+%%[substack]
