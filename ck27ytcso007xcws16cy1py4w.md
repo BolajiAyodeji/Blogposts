@@ -410,3 +410,5 @@ Thank you for reading!
 * [Google Developer Docs](https://developers.google.com/web/progressive-web-apps/)
 * [Workbox](https://developers.google.com/web/tools/workbox/)
 * [PWAFire App Manifest Generator](https://app-manifest.firebaseapp.com/)
+
+%%[substack]
