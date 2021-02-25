@@ -35,7 +35,7 @@ git commit -m "Setup multiple roles for netlify-cms git gateway"
 
 - **-a or --all**
 
-This option automatically commits all (including new) tracked, modified or deleted files.
+This option automatically commits all (including new) tracked, modified, or deleted files.
 
 ```bash
 git commit -a -m "Add a new role for netlify-cms git gateway"
@@ -94,7 +94,7 @@ The first `-m` option is the subject (short description), and the next is the ex
 
 There are several conventions used by several teams and developers to write good commit messages. I'll only outline some general rules and tips for writing commit messages, you would have to decide what convention you want to follow and if you work for a company or contribute to open source, you would have to adapt to their convention :).
 
-For consistency, you can use one convention for work and another for personal projects as you might change your job sometime, and the convention might change.
+For consistency, you can use one convention for work and another for personal projects as you might change your job sometimes, and the convention might change.
 
 > Ensure to check [this thread](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g) for some amazing commit message conventions or add yours to help someone make a decision.
 
@@ -162,3 +162,5 @@ Want to learn more about Git and become a professional "version controller," che
 - https://www.git-tower.com/learn/
 - https://learngitbranching.js.org/
 - https://github.com/commitizen/cz-cli
+
+%%[substack]
