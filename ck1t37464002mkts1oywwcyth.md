@@ -8,14 +8,14 @@ You might have noticed this section at the top of your GitHub repositories that 
 
 ![](https://cdn-images-1.medium.com/max/800/1*FWBD77YB6yedoMIc04BSOA.png)
 
-Well, GitHub uses the open source [Linguist
+Well, GitHub uses the open-source [Linguist
 library](https://github.com/github/linguist) to determine file languages for
 syntax highlighting and repository statistics. Language statistics will update
 after you push changes to your default branch (which is usually `master`).
 
 ## What is GitHub Linguist?
 
-> GitHub Linguist is a library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. - GitHub Linguist Docs
+> GitHub Linguist is a library that is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. - GitHub Linguist Docs
 
 Basically, Linguist is a library that runs on every GitHub repository. It checks
 every file and directory and detects the programming language used in that file.
@@ -29,7 +29,7 @@ files that it determines to be binary data, vendored code, generated code,
 documentation, or are defined as `data` (e.g. SQL) or `prose` (e.g. Markdown) languages, whilst taking into account any overrides.
 
 The result of this analysis is used to produce the language stats bar which
-displays the languages percentages for the files in the repository. The
+displays the language percentages for the files in the repository. The
 percentages are calculated based on the bytes of code for each language as
 reported by the [List Languages](https://developer.github.com/v3/repos/#list-languages) API.
 
@@ -53,10 +53,9 @@ for a few reasons:
 to Linguist by opening a pull request to add support for your language or
 extension.
 
-> You can also to tell Linguist to include your files in the language statistics
-> by overridding it.
+> You can also tell Linguist to include your files in the language statistics by overriding it.
 
-## How to use gitattributes to override Linguist
+## How to use `gitattributes` to override Linguist
 
 Just as you can customize and override the default configurations of a gaming control pad, you can also use custom override strategies for language definitions and file paths in Linguist.
 
@@ -128,3 +127,5 @@ contributing via [Pull Requests](https://github.com/github/linguist/pulls) or su
 ## Reference
 
 [GitHub Linguist docs](https://github.com/github/linguist)
+
+%%[substack]
