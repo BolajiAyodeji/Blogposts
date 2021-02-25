@@ -18,5 +18,6 @@ I have received tons of messages and requests from amazing developers looking fo
 
 It's open to suggestions and contributions, please check it out.
 
-
 %[https://github.com/BolajiAyodeji/awesome-technical-writing]
+
+%%[substack]
