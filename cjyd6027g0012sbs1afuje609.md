@@ -110,3 +110,5 @@ Find more resources to learn Git [here](https://try.github.io/)
 # Conclusion
 
 Version control software is an essential part of the every-day of modern-day software developer practices. Once accustomed to the powerful benefits of version control systems, many developers wouldn’t consider working without it even for non-software projects.
+
+%%[substack]
