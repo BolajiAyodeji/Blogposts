@@ -49,3 +49,5 @@ Here's my own finished profile page from the [special repository](https://github
 The special repository is a great way to showcase and summarize yourself and work for potential opportunities and engagements. Get creative and showcase everything about yourself to your friends and GitHub stalkers.
 
 Got your special repository live now? Drop a link to your GitHub account in the comments and let's see how amazing yours look. ✌🏾🙂
+
+%%[substack]
