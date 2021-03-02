@@ -1,35 +1,30 @@
 ## Image Optimization and Transformation with Cloudinary
 
 The web is now dominated with more visual content than ever hence the need to consider ways of delivering these images with the smallest possible file size while maintaining optimal visual quality.
-> The less file size, the faster the browser can download and render the image, the optimal visual quality, the more satisfied your users will be.
 
-This, therefore, leads to better user experience, increased retention rate, conversion rate, and user satisfaction.
+> The less file size, the faster the browser can download and render the image, the optimal visual quality, the more satisfied your users will be. This, therefore, leads to better user experience, increased retention rate, conversion rate, and user satisfaction.
 
 There are many existing techniques and algorithms used to enhance and optimize images already. In this article, I'll introduce you to an amazing technique (based on my opinion and experience), which would help you better enhance and serve your media assets using a cloud-based image and video management platform.
 
----
-
-## Introduction
+## Introduction to Image Optimization
 
 Original Images are often created with the original extra-high resolution to ensure optimal visual quality, thereby resulting in high file size. This would lead to images delivered slowly when used in web pages. Not cool, right?
 
-So how then do we deliver images on the web with optimal speed and optimal visual quality?
-
-![giphy.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1583339196743/NwT34WNHF.gif)
+So how then do we deliver images on the web with optimal speed and optimal visual quality? At the end of this article, you should be able to answer this :).
 
 ## The Need for Optimization
 
 The web is filled with tons of images; virtually every website on the internet has more than one image. Optimizing images allows you to deliver high-quality images in the right format, dimension, size, and resolution while keeping the smallest possible size.
 
-According to [Kissmetrics](https://blog.kissmetrics.com/loading-time/), 47 % of users expect a page to load in 2 seconds or less, and users will abandon a website that takes more than 3 seconds to load. This will drastically reduce your conversion rate (Amount of visitors turned into users).
+According to [Kissmetrics](https://blog.kissmetrics.com/loading-time/), 47% of users expect a page to load in 2 seconds or less, and users will abandon a website that takes more than 3 seconds to load. This will drastically reduce your conversion rate (The number of visitors turned into users).
 
 > The conversion rate is the number of conversions divided by the total number of visitors. For example, if an e-commerce site receives 200 visitors in a month and has 50 sales, the conversion rate would be 50 divided by 200, or 25%. ~ [Optimizely](https://www.optimizely.com/optimization-glossary/conversion-rate/)
 
 Optimizing Images will:
 
-- Improve page load speed
-- Improve user experience
-- Improve SEO ranking 
+- Improve page load speed.
+- Improve the user experience.
+- Improve SEO ranking.
 
 And this can be done in different ways, either by resizing the images, caching or compressing the image size.
 
@@ -53,14 +48,11 @@ Whenever you apply any transformation to an image, Cloudinary performs the follo
 
 ## Getting Started
 
-The process of getting your images on Cloudinary is pretty quick, but before I show you how-to, let's roll through one fact that this is a PAID SERVICE :).
-
-Chill, there is a FREE plan for developers and businesses but with limitations (limited credits: sort of internet data for using Cloudinary services)
+The process of getting your images on Cloudinary is pretty quick, but before I show you how-to, you should note that Cloudinary is a PAID SERVICE :). Don't panic, there is a FREE plan for developers and businesses but with limitations (limited credits: sort of internet data for using Cloudinary services).
 
 With the FREE plan, you get 25 credits. One credit equals 1000 transformations or 1GB of managed storage or 1GB of monthly viewing bandwidth or 500 SD video processing seconds or 250 HD video processing seconds.
 
-For now, you don't need to worry about PAID plans, but as your images and it's bandwidth increase, your credits get maxed out, and you will need to upgrade to either the Plus ($89/month) or Advanced plan ($224/month).
-See all plans [here](https://cloudinary.com/pricing).
+For now, you don't need to worry about PAID plans, but as your images and their bandwidth increase, your credits get maxed out, and you will need to upgrade to either the Plus ($89/month) or Advanced plan ($224/month). See all plans [here](https://cloudinary.com/pricing).
 
 Let's get started, yeah?
 
@@ -70,9 +62,7 @@ Create a Cloudinary Account [here](https://cloudinary.com/users/register/free). 
 
 ![Selection_061.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583345540262/Py6xGVaKj.png)
 
-Upon successful creation of your account, you will get a Cloud name, API Key, API Secret, and Environment variable, which can be found in your console dashboard. The API keys and Secrets are useful when you're working with [Cloudinary SDKs](https://cloudinary.com/documentation/cloudinary_sdks), but in this article, we'll only use the HTTPS CDN method to fetch images. I'll be publishing another article around how to setup Cloudinary with a React application soon.
-
-Subscribe to my [newsletter here](https://tinyletter.com/bolajiayodeji/) to get updated.
+Upon successful creation of your account, you will get a Cloud name, API Key, API Secret, and Environment variable, which can be found in your console dashboard. The API keys and Secrets are useful when you're working with [Cloudinary SDKs](https://cloudinary.com/documentation/cloudinary_sdks), but in this article, we'll only use the HTTPS CDN method to fetch images.
 
 ### STEP TWO
 
@@ -114,7 +104,7 @@ Pretty cool, right?
 
 Cloudinary allows you to add some transformation parameters and values to your image.  Its algorithm analyzes the image to find the best quality compression level and optimal encoding settings based on the image content and the viewing browser, to produce an image with good visual quality while minimizing the file size. 
 
-- **Automatic Image Quality and Encoding: q_auto (quality)**
+1. **Automatic Image Quality and Encoding: q_auto (quality)**
 
 This transformation allows you to control the visual quality and compression level of JPEG, JPEG 2000, JPEG XR, WebP, and GIF images with the quality parameter (q in URLs).
 
@@ -128,7 +118,7 @@ https://res.cloudinary.com/bolaji/image/upload/q_auto/v1583381262/bolaji_headsho
 
 ![Selection_068.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583407192976/C7G-z-tJm.png)
 
-- **Automatic Image Fetch Format: f_auto (fetch format)**
+2. **Automatic Image Fetch Format: f_auto (fetch format)**
 
 This transformation allows you to analyze the image content and select the best format to deliver with the fetch parameter (f in URLs).
 
@@ -152,6 +142,31 @@ Using the automatic format and automatic quality is most recommended as it allow
 ```
 https://res.cloudinary.com/bolaji/image/upload/q_auto,f_auto/v1583381262/bolaji_headshot.jpg
 ```
+
+## Bonus: Cloudinary Build URL
+
+There is a lighter Cloudinary URL builder for images and videos, written in TypeScript by [Maya Shavin](https://twitter.com/mayashavin). With Build URL, you can generate URLs for images and videos on-the-fly, auto-detect optimized format for images and videos per browser, dynamically fetch and transform images and videos from remote sources, and much more.
+
+Upon a successful [installation and setup](https://cloudinary-build-url.netlify.app/setup), you can then generate delivery URLs with transformations for media assets like so:
+
+```
+import { buildImageUrl } from 'cloudinary-build-url'
+
+const url = buildImageUrl('example', {
+  cloud: {
+    cloudName: 'demo',
+  },
+  transformations: {
+    resize: {
+      type: 'scale',
+      width: 500,
+      height: 500,
+    }
+  }
+})
+```
+
+Learn more about the library and how to get started in the official docs [here](https://cloudinary-build-url.netlify.app). You can also [contribute to the library](https://github.com/mayashavin/cloudinary-api).
 
 ## Conclusion
 
