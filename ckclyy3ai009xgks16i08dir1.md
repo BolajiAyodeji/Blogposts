@@ -52,5 +52,3 @@ Yayy, I got the job and was super excited! 🤩
 Don't spend your entire life waiting for the best time making that move, write that article, build that side-project, apply for that job, or ask that question today. The best time is always now!
 
 Join Hashnode's writing challenges like the [#2Articles1Week](https://hashnode.com/2articles1week) and [#MyFirstInterviewExperience](https://hashnode.com/n/myfirstinterviewexperience) to write, share knowledge, become a better writer, learn in public and win some Hashnode badges.
-
-%%[substack]
