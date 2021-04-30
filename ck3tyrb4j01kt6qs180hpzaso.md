@@ -259,5 +259,3 @@ Check out the following checklists to manually determine how accessible your sit
 Want to build better Accessible JavaScript Applications with React and Gatsby? Check out this amazing course by [Marcy](https://twitter.com/marcysutton) on FrontendMasters.
 
 %[https://frontendmasters.com/courses/javascript-accessibility/]
-
-%%[substack]
