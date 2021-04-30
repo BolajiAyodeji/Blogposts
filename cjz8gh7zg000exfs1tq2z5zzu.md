@@ -75,7 +75,7 @@ touch index.js
 npm init
 ```
 
-Simply answer all questions that come afterwards, if you're having issues, here's my own `package.json`
+Simply answer all questions that come afterward, if you're having issues, here's my own `package.json`
 ```
 {
   "name": "slackbot",
@@ -104,7 +104,7 @@ Simply answer all questions that come afterwards, if you're having issues, here'
 
 ## SlackBots.js
 
-[SlackBots.js](https://github.com/mishk0/slack-bot-api) is Node.js library for easy operation with Slack API.
+[SlackBots.js](https://github.com/mishk0/slack-bot-api) is a Node.js library for easy operation with Slack API.
 
 ```
 npm install slackbots
@@ -116,7 +116,7 @@ const SlackBot = require('slackbots');
 ```
 ## Axios
 
-[Axios](https://github.com/axios/axios) is a promise based HTTP client for the browser and node.js. If you know Fetch or AJAX, this is just a library that does same with far way cooler features. You can see them [here](https://github.com/axios/axios)
+[Axios](https://github.com/axios/axios) is a promise-based HTTP client for the browser and node.js. If you know Fetch or AJAX, this is just a library that does the same with far way cooler features. You can see them [here](https://github.com/axios/axios)
 
 ```
 npm install axios
@@ -128,7 +128,7 @@ const axios = require('axios')
 ```
 ## Nodemon
 
-To run a script in Node.js, you have to run `node index.js`. Whenever you make changes to this file, you have to rerun `node index.js`, this sucks right when you're making so many changes like we'll be doing. That's why we need [nodemon](https://github.com/remy/nodemon), nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+To run a script in Node.js, you have to run `node index.js`. Whenever you make changes to this file, you have to rerun `node index.js`, this sucks right when you're making so many changes like we'll be doing. That's why we need [nodemon](https://github.com/remy/nodemon), nodemon is a tool that helps develop node.js-based applications by automatically restarting the node application when file changes in the directory are detected.
 
 ```
 npm install -g nodemon
@@ -207,7 +207,7 @@ Now that you have a workspace, you should have a Slack URL with your workspace n
 
 > Enter your App name and ensure you're in the workspace you created if you're in multiple workspaces.
 
-* Now you'll see the settings > Basic Information page. Click the first tab `Add features and functionality`
+* Now you'll see the settings > Basic Information page. Click the first tab `Add features and functionality`.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/capture6.png)
 
@@ -567,5 +567,3 @@ This isn't cool, right? We'll want to host it somewhere it can run every time. I
 * [An introduction to Slack apps](https://api.slack.com/start/overview)
 * [inspireNuggets](https://github.com/BolajiAyodeji/inspireNuggets)
 * [inspireNuggetsSlackBot](https://github.com/BolajiAyodeji/inspireNuggetsSlackBot)
-
-%%[substack]
