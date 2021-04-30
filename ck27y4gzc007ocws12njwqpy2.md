@@ -201,5 +201,3 @@ technical writing.
 * [Google Season of Docs
 Documentation](https://developers.google.com/season-of-docs/)
 * [Google Search](http://google.com)
-
-%%[substack]
