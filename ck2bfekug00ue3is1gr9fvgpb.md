@@ -517,5 +517,3 @@ If you still have problems with building your PWA, you can tweet to me
 [@iambolajiayo](http://twitter.com/iambolajiayo), I will respond asap!
 
 Thank you for reading, If you did enjoy this article, share!! :)
-
-%%[substack]
