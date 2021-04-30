@@ -501,6 +501,4 @@ If you’re just getting started with JavaScript, you should check this reposito
 * Objects
 * Operators
 
-Thank you for reading, got any questions or views? Let's discuss in comments.
-
-%%[substack]
+Thank you for reading, got any questions or views? Let's discuss in the comments.
