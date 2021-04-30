@@ -68,5 +68,3 @@ git push origin BRANCHNAME (e.g master or test)
 That's it, you have tested the pull request and made changes!
 
 If this article helped you, please share!
-
-%%[substack]
