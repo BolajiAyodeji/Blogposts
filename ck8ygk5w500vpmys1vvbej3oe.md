@@ -63,5 +63,3 @@ list-style-position: unset;
 
 ![Selection_114.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1586778268632/lHU4mdfKI.png)
 > src="https://caniuse.com/#search=list-style-position"
-
-%%[substack]
