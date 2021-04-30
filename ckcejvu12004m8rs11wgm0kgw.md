@@ -1,8 +1,8 @@
 ## How to Add a README file to your GitHub Profile
 
-GitHub recently introduced a special feature for developers, that allows you to showcase yourself by pinning a `README.md` containing information about you, your work, portfolio and anything else on your GitHub profile.
+GitHub recently introduced a special feature for developers, that allows you to showcase yourself by pinning a `README.md` containing information about you, your work, portfolio, and anything else on your GitHub profile.
 
-Here are some of my favourites:
+Here are some of my favorites:
 
 ![Jason's GitHub.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594275726875/mR2D0-XUr.png)
 
@@ -49,5 +49,3 @@ Here's my own finished profile page from the [special repository](https://github
 The special repository is a great way to showcase and summarize yourself and work for potential opportunities and engagements. Get creative and showcase everything about yourself to your friends and GitHub stalkers.
 
 Got your special repository live now? Drop a link to your GitHub account in the comments and let's see how amazing yours look. ✌🏾🙂
-
-%%[substack]
