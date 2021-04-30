@@ -24,13 +24,13 @@ This pack gives you free access to various tools that world-class developers
 use. The pack currently contains 23 tools ranging from Data Science, Gaming,
 Virtual Reality, Augmented Reality, APIs, Integrated Development Environments,
 Version Control Systems, Cloud Hosting Platforms, Code tutorials, BootCamps,
-Continous Integration platforms, payment platforms and lots more.
+Continuous Integration platforms, payment platforms, and lots more.
 
 ## Contents of the pack
 
 [![](https://cdn-images-1.medium.com/max/800/0*hTCP1sPTcYih-srY.jpg)](https://algolia.com)
 
-* Hosted search API that provides support from front end to back end frameworks
+* Hosted search API that provides support from front-end to back-end frameworks
 and libraries.
 * 100k records and 1 million operations (normally $150/month), valid for 1 year.
 
@@ -252,5 +252,3 @@ Thank you for reading!
 
 All guides used in this post were gotten from [GitHub
 Education](https://education.github.com/pack)
-
-%%[substack]
