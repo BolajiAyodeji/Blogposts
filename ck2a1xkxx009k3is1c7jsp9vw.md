@@ -103,5 +103,3 @@ Also, in case of the folder, replace **/folder** with the actual folder name.
 
 Think it was helpful? Share this article to help others come on HTTPS :).
 
-%%[substack]
-
