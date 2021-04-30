@@ -3,11 +3,11 @@
 Forms are interactive elements used to get input from the user for further
 processing. Most times, forms are just used to receive input that requires no processing but rather just receiving data, this might be a contact form, RSVP, get a quote e.t.c
 
-Traditionally, forms are managed with the help of a server (also known as server side), but this is more efficient when you're processing the data from the form, maybe a user registration form where the form data is validated, authenticated and saved in a database.
+Traditionally, forms are managed with the help of a server (also known as server-side), but this is more efficient when you're processing the data from the form, maybe a user registration form where the form data is validated, authenticated, and saved in a database.
 
 When you're building a simple form where you're only receiving data from the user and not processing (i.e., contact form), the goal is to get the data from the form and send it to your company support email (e.g., info@…, support@…)
 
-Using a server here is not ideal and is only an overkill, and what if you're just building a static site? There should be an easier way of doing this client-side, right?
+Using a server here is not ideal and is only overkill, and what if you're just building a static site? There should be an easier way of doing this client-side, right?
 
 In this article, I'll introduce you to two methods of handling form data client-side in static sites. There are other methods, but I've used these two and
 considered them to be better and easier.
@@ -246,5 +246,3 @@ file uploads and spam filtering. [Full guide + practical code]
 - https://zeit.co/guides/deploying-statickit-with-zeit-now
 
 Thanks for reading!
-
-%%[substack]
