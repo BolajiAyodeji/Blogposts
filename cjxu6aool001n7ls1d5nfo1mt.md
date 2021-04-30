@@ -174,5 +174,3 @@ Here are some C++ resources you can use to get started with learning C++
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) by [Jun Han](https://marketplace.visualstudio.com/publishers/formulahendry)
 
 Thank you for reading!
-
-%%[substack]
