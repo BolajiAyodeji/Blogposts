@@ -327,5 +327,3 @@ This is just a beginners guide, there’s still more to Hugo, head out and read 
 * [Mike Dane Youtube Channel](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 * [Hugo Base16 ](https://github.com/htdvisser/hugo-base16-theme)theme by [Hylke Visser](https://github.com/htdvisser).
-
-%%[substack]
