@@ -41,5 +41,3 @@ This is a "catch all" status for unexpected errors. It is a server-side error me
 
 This means, that the server is currently unavailable or the server is over-allocated. You can check the file `php_error.log` as described for the status code 500. Should you not find helpful error messages in the log file, please try changing the session_cache to the options file system, you can do this in the easy name control panel if you navigate to [My Hosting]>>[PHP settings] and click the link "Settings". 
 Please note that this change will take up to 15 minutes to take effect, so please try waiting 15 minutes before trying to call up your site and refresh it.
-
-%%[substack]
