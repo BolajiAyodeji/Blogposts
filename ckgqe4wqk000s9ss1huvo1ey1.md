@@ -23,5 +23,3 @@ I'm passionate about the JAMstack ecosystem and can't wait to do amazing stuff w
 If you have any questions about Commerce Layer or any of our services, feel free to DM me on [Twitter](https://twitter.com/iambolajiayo) or join our Slack by requesting an invite [here](https://commercelayer.io/developers).
 
 Keep trailblazing, and stay safe! 💙
-
-%%[substack]
