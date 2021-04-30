@@ -298,5 +298,3 @@ The Heroku experience provides services, tools, workflows, and polyglot supportâ
 > If you're a student, Kindly register for the [GitHub Student Developer Pack](https://education.github.com/pack) to get One free [Hobby Dyno](https://www.heroku.com/pricing) for up to two years.
 
 > The pack gives students free access to the best developer tools in one place so you can learn by doing.
-
-%%[substack]
