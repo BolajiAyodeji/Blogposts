@@ -230,5 +230,3 @@ There are so many practical examples of switch cases, you can head
 [here ](https://javascript.info/switch)to learn more about switch cases.
 
 Thanks for reading!
-
-%%[substack]
