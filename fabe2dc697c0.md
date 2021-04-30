@@ -139,5 +139,3 @@ _Complex websites have very large amounts of CSS, often with a lot of repeated v
 CSS variables are cool and have come to stay, if you want your CSS styles and development to become clean, easier and more efficient, you should stick to CSS variables :)
 
 For more knowledge, read [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-
-%%[substack]
