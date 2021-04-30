@@ -13,7 +13,7 @@ React has grown to be the developer's choice as it has topped several polls and 
 
 ---
 
-If you have been considering to get started with learning Reactjs, here are some snippets to show how React code looks like and maybe inspire you to get started as soon as possible.
+If you have been considering getting started with learning Reactjs, here are some snippets to show how React code looks like and maybe inspire you to get started as soon as possible.
 
 React components implement a **render()** method that takes input data and returns what to display. 
 
@@ -84,7 +84,7 @@ npm install -g react-devtools@^4
 
 ### 2. [React Docs](https://reactjs.org/)
 
-This is the official documentation of Reactjs and is the best way to get started with learning Reactjs. It contains Installation, Main Concepts, Advanced Guides, API Reference, Hooks, Testing, Concurrent Mode (Experimental) guides, and more.
+This is the official documentation of Reactjs and is the best way to get started with learning Reactjs. It contains Installation, Main Concepts, Advanced Guides, API References, Hooks, Testing, Concurrent Mode (Experimental) guides, and more.
 
 %[https://reactjs.org/]
 
@@ -172,7 +172,7 @@ It contains the following extensions and is constantly updated:
 
 ### 6. [React Cheat Sheet](https://devhints.io/react)
 
-This cheat sheet is a collection of several React concepts and examples. These guide targets React v15 to v16 from Components, States, Props, Nesting, Lifecycle, Hooks, JSX Patterns, DOM nodes, and more.
+This cheat sheet is a collection of several React concepts and examples. This guide targets React v15 to v16 from Components, States, Props, Nesting, Lifecycle, Hooks, JSX Patterns, DOM nodes, and more.
 
 %[https://devhints.io/react]
 
@@ -228,7 +228,7 @@ I wrote extensively about the Axe Library in my past article; you might want to 
 
 ### 8. [Storybook](https://storybook.js.org/)
 
-While React allows you to build components in a declarative way, visualizing these components become dependant on the app itself and it's dependencies.
+While React allows you to build components in a declarative way, visualizing these components become dependant on the app itself and its dependencies.
 
 Storybook is a user interface development environment and playground for UI components. The tool enables developers to create components independently and showcase components interactively in an isolated development environment. ~ [Docs](https://storybook.js.org/docs/basics/introduction/)
 
@@ -251,7 +251,7 @@ An exciting part of Story is the Addons, which enable advanced functionality and
 
 - [Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs): Interact with component inputs dynamically in the Storybook UI
 - [Actions](https://github.com/storybookjs/storybook/tree/master/addons/knobs): Get UI feedback when an action is performed on an interactive element.
-- [Source](https://github.com/storybookjs/storybook/tree/master/addons/knobs): View a story’s source code to see how it works and paste into your app.
+- [Source](https://github.com/storybookjs/storybook/tree/master/addons/knobs): View a story’s source code to see how it works and paste it into your app.
 - [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs): Document component usage and properties in Markdown
 - [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport): Build responsive components by adjusting Storybook’s viewport size and orientation
 - [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots): Take a code snapshot of every story automatically with Jest
@@ -378,7 +378,7 @@ Codesandbox enables you to start new React projects quickly and prototype rapidl
 
 ### 13. [React Testing Library](https://testing-library.com/react)
 
-The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices. ~ [Docs](https://testing-library.com/docs/dom-testing-library/intro)
+The React Testing Library is a very lightweight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices. ~ [Docs](https://testing-library.com/docs/dom-testing-library/intro)
 
 ```
 npm install --save-dev @testing-library/react
@@ -388,7 +388,7 @@ npm install --save-dev @testing-library/react
 
 ### 14. [React Interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
-This contains a list of top 500 ReactJS Interview Questions & Answers.
+This contains a list of the top 500 ReactJS Interview Questions & Answers.
 
 %[https://github.com/sudheerj/reactjs-interview-questions#table-of-contents]
 
@@ -407,5 +407,3 @@ The [Hashnode React Community](https://hashnode.com/n/reactjs) is an online foru
 Feel free to drop by and ask questions when you need help :).
 
 %[https://hashnode.com/n/reactjs]
-
-%%[substack]
