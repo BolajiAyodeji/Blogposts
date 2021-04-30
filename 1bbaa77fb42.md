@@ -120,5 +120,3 @@ Begin your journey of growth today!!
 
 Thank you for reading, If this helped you in any way, drop some comments and let's hear your views.
 
-%%[substack]
-
