@@ -26,7 +26,7 @@ Join now to get exclusive access to their community, events, scholarships, free 
 
 Hashnode is an online community where developers share knowledge and grow their careers. Developers from around the world participate in consequential discussions on Hashnode. You can write stories, ask open-ended questions as well as technical questions, ask questions anonymously, and start polls. You can also [ask popular tech teams and developer influencers questions](https://hashnode.com/amas) or learn from [stories of awesome women in tech](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
 
-[Hashnode's Devblog](https://hashnode.com/devblog) platform enables you to create your personal blog on your custom domain in a few simple steps with everything you need to grow as a blogger. (No Paywall, Free domain, SSL, Automatic backup of posts, Markdown, AMP Support and more). [Own your canonical](https://hashnode.com/post/hey-developers-own-your-canonical-ck1ggpmgs000cd9s1323ltbo7), make your contents independent and build your domain authority.
+[Hashnode's Devblog](https://hashnode.com/devblog) platform enables you to create your personal blog on your custom domain in a few simple steps with everything you need to grow as a blogger. (No Paywall, Free domain, SSL, Automatic backup of posts, Markdown, AMP Support, and more). [Own your canonical](https://hashnode.com/post/hey-developers-own-your-canonical-ck1ggpmgs000cd9s1323ltbo7), make your contents independent, and build your domain authority.
 
 
 ## 3. [Freecodecamp](https://www.freecodecamp.org/)
@@ -163,5 +163,3 @@ GDG brings software developers with similar interests together to meet through m
 The bond in developer communities has grown from just "technical groups" to "family groups" where everyone is passionate about sharing knowledge, giving back, and helping everyone reach higher heights.
 
 Isn't this just amazing? Cheers to the new age where sharing knowledge and togetherness become the order of the day. 🙏💙
-
-%%[substack]
