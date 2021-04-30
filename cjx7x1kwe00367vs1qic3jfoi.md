@@ -215,10 +215,10 @@ That’s pretty much it, Lighthouse is a great tool, especially for beginners.
 
 It is a very useful tool when it comes to auditing Progressive web apps.
 I actually learned so much about optimization and performance standards when I
-started using Lighthouse. In no time you would become an expert in building full
-optimized web apps with great performance, accessibility and user experience. :)
+started using Lighthouse. In no time you would become an expert in building fully
+optimized web apps with great performance, accessibility, and user experience. :)
 
-> Lighthouse is not magic, it was created by humans. It is open source and
+> Lighthouse is not magic, it was created by humans. It is open-source and
 > [contributions are
 welcome](https://github.com/GoogleChrome/lighthouse/blob/master/CONTRIBUTING.md).
 Check out the repository’s [issue
@@ -231,6 +231,4 @@ Thank you for reading this, after installing and using Lighthouse, share your
 success stories in the comments!
 
 
-You can tweet to me via[ @iambolajiayo](http://twitter.com/iambolajiayo)
-
-%%[substack]
+You can tweet to me via[ @iambolajiayo](http://twitter.com/iambolajiayo).
