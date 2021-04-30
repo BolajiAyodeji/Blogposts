@@ -118,9 +118,9 @@ Now your app should look like this:
 
 ## ADD JAVASCRIPT FUNCTIONALITY
 
-> Basically, we want to get the input value from the input field and process thencreturn results to each of the following id’s: `gOutput` for Grams, `kgOutput`
-for Kilogram, `ozOutput` for Ounces. In `index.html` , we wrapped all this id’s
-in `output` . We also want to hide the results and display after a user enters a
+> Basically, we want to get the input value from the input field and process the returned results to each of the following id’s: `gOutput` for Grams, `kgOutput`
+for Kilogram, `ozOutput` for Ounces. In `index.html` , we wrapped all these id’s
+in `output` . We also want to hide the results and display them after a user enters a
 value in the input field.
 
 Here is how we convert weight from Pounds to its equivalent in Gram, Kilogram
@@ -135,7 +135,7 @@ and Ounce
 %[https://gist.github.com/BolajiAyodeji/f9d728fc405f63a881ee5eaa90e3b3e1]
 
 > This is just basic JavaScript, if you have no idea what all this means, you
-> should get [JavaScript Teacher](https://medium.com/u/6727c1eb71f8)’s `Grammar JavaScript` book. This will teach you all the basics and contents of Modern
+> should get [JavaScript Teacher](https://medium.com/u/6727c1eb71f8)’s `Grammar JavaScript` book. This will teach you all the basics and contexts of Modern
 JavaScript. Get a free copy [here](http://javascriptgrammar.com).
 
 Now you should have a functioning app
@@ -220,7 +220,7 @@ Images, e.t.c) so we can access them offline after the page loads.
 
 The important thing to understand about the **Service Worker** is that you are
 in control of the network. You get to decide what is cached, how it is cached
-and how it should be returned to the user.
+, and how it should be returned to the user.
 
 — In `sw.js`, add this:
 
@@ -410,5 +410,3 @@ Thank you for reading!
 * [Google Developer Docs](https://developers.google.com/web/progressive-web-apps/)
 * [Workbox](https://developers.google.com/web/tools/workbox/)
 * [PWAFire App Manifest Generator](https://app-manifest.firebaseapp.com/)
-
-%%[substack]
