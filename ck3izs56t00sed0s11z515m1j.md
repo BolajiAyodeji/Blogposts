@@ -162,5 +162,3 @@ Want to learn more about Git and become a professional "version controller," che
 - https://www.git-tower.com/learn/
 - https://learngitbranching.js.org/
 - https://github.com/commitizen/cz-cli
-
-%%[substack]
