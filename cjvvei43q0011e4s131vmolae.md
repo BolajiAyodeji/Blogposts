@@ -153,5 +153,3 @@ To completely freeze objects and their nested properties, you can write your own
 `const` and `Object.freeze()` are not the same, `const` prevents reassignment and `Object.freeze()` prevents immutability
 
 Thanks for reading, Cheers!
-
-%%[substack]
