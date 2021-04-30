@@ -183,5 +183,3 @@ I consider this article fundamental as there is so much more you can do with Clo
 - [How to make your website load lightning fast with WebP images](https://www.freecodecamp.org/news/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2/)
 - [Automatically Reduce Image Size Without Losing Quality](https://cloudinary.com/blog/adaptive_browser_based_image_format_delivery)
 - [Best Image Optimization Techniques: Expert Roundup](https://cloudinary.com/blog/image_optimization_expert_roundup)
-
-%%[substack]
