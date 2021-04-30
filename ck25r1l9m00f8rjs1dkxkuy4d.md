@@ -49,6 +49,4 @@ Bingo, you just fixed it, Git will never ask for your credentials again.
 ## Conclusion
 However, due to security reasons, it is advisable that you use SSH to interact with GitHub, especially if you work for a company or you're using a computer that isn't yours.
 
-Using the SSH protocol, you can connect to GitHub without supplying your username or password every time. Learn how to connect to GitHub with SSH [here](https://help.github.com/en/articles/connecting-to-github-with-ssh)
-
-%%[substack]
+Using the SSH protocol, you can connect to GitHub without supplying your username or password every time. Learn how to connect to GitHub with SSH [here](https://help.github.com/en/articles/connecting-to-github-with-ssh).
