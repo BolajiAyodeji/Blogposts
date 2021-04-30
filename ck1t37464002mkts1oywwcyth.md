@@ -127,5 +127,3 @@ contributing via [Pull Requests](https://github.com/github/linguist/pulls) or su
 ## Reference
 
 [GitHub Linguist docs](https://github.com/github/linguist)
-
-%%[substack]
