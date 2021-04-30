@@ -104,5 +104,3 @@ I hope this helps you save more time and worry less about the numerous GitHub se
 Dependabot is also open-sourced, feel free to contribute:
 
 %[https://github.com/dependabot]
-
-%%[substack]
