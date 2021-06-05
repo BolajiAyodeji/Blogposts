@@ -2,20 +2,18 @@
 
 ES6 has brought several new features and methods into JavaScript since its release. These features have better improved our workflow and productivity as JavaScript developers. Amongst these new features are `Object.freeze()` method and `const`.
 
-It is argued among a few developers especially newbies that these two feature works the same way, but NO they don’t. `Object.freeze()` and `const` work differently. Let me show you how!
+It is argued among a few developers especially newbies that these two feature works the same way, but they actually don’t. `Object.freeze()` and `const` work differently, and I'll show you how in this article.
 
-#### Overview
+## Overview
 
 `const` and `Object.freeze()` are totally different.
 
-*   **const** behaves like `let`. The only difference is, it defines a variable that cannot be reassigned. Variables declared by `const` are block-scoped and not function scoped like variables declared with `var`
-*   **Object.freeze()** takes an object as an argument and returns the same object as an immutable object. This implies that **no properties of the object can be added, removed, or changed.**
+-   **const** behaves like `let`. The only difference is, it defines a variable that cannot be reassigned. Variables declared by `const` are block-scoped and not function scoped like variables declared with `var`
+-   **Object.freeze()** takes an object as an argument and returns the same object as an immutable object. This implies that **no properties of the object can be added, removed, or changed.**
 
 > **Mutable objects** have properties that can be changed. Immutable **objects** have no properties that can be changed after the **object** is created.
 
-### Examples:
-
-#### Const
+## Demystifying Const
 
 
 ```
@@ -26,15 +24,15 @@ const user = 'Bolaji Ayodeji'
 user = 'Joe Nash'
 ```
 
-This would throw an `Uncaught TypeError` because we are trying to reassign the variable **user** which was declared with the `const` keyword. THIS IS NOT VALID.
+This would throw an `Uncaught TypeError` because we are trying to reassign the variable **user**, which was declared with the `const` keyword. THIS IS NOT VALID.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fkm8tv7a1jdhQSWa1Hl5tg.png)
 
 Originally, this would work with `var` or `let` but will not with `const`
 
-#### The problem with const
+### The problem with const
 
-When working with Objects, using const only prevents reassignment and not immutability. (Ability to prevent changes to its properties)
+When working with Objects, using const only prevents reassignment and not immutability (Ability to prevent changes to its properties).
 
 Consider the code below. We have declared a variable using the `const` keyword and assigned an object named `user` to it.
 
@@ -74,11 +72,11 @@ user_name: 'bolajiayodeji'
 
 ![](https://cdn-images-1.medium.com/max/1600/1*hxSHWKuB8nopFHif_ETW9g.png)
 
-We definitely would want to have Objects with properties that cannot be modified or deleted. `const` cannot do this and this is where `Object.freeze()` saves the day :).
+We definitely would want to have Objects with properties that cannot be modified or deleted. `const` cannot do this, and this is where `Object.freeze()` saves the day :).
 
-#### Behold Object.freeze()
+## Demystifying Object.freeze()
 
-To disable any changes to the object we need `Object.freeze()`.
+To disable any changes to the object, we need `Object.freeze()`.
 
 ```
 const user = {  
@@ -111,7 +109,7 @@ console.log(user);
 
 #### Objects with nested properties are not actually frozen
 
-Well, `Object.freeze()` is a bit shallow, you will need to apply it on nested objects to protect them recursively.
+Well, `Object.freeze()` is a bit shallow; you will need to apply it on nested objects to protect them recursively.
 
 ```
 const user = {  
@@ -148,8 +146,8 @@ So `Object.freeze()` doesn't fully **freeze** an object when it has properties t
 
 To completely freeze objects and their nested properties, you can write your own library or use already created libraries like [Deepfreeze](https://github.com/substack/deep-freeze) or [immutable-js](https://github.com/immutable-js/immutable-js)
 
-### Conclusion
+## Conclusion
 
 `const` and `Object.freeze()` are not the same, `const` prevents reassignment and `Object.freeze()` prevents immutability
 
-Thanks for reading, Cheers!
+Thanks for reading; cheers!
