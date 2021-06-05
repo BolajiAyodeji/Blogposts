@@ -24,7 +24,7 @@ const user = 'Bolaji Ayodeji'
 user = 'Joe Nash'
 ```
 
-This would throw an `Uncaught TypeError` because we are trying to reassign the variable **user**, which was declared with the `const` keyword. THIS IS NOT VALID.
+This would throw an `Uncaught TypeError` because we are trying to reassign the variable **user**, which was declared with the `const` keyword. This is not valid!
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fkm8tv7a1jdhQSWa1Hl5tg.png)
 
@@ -109,7 +109,7 @@ console.log(user);
 
 ![](https://cdn-images-1.medium.com/max/1600/1*uiv64RdHsencUe9ZKptrbw.png)
 
-#### The problem with Object.freeze()
+### The problem with Object.freeze()
 
 Objects with nested properties are not actually frozen. `Object.freeze()` is a bit shallow; you will need to apply it on nested objects to protect them recursively.
 
