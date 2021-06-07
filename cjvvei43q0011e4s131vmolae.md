@@ -16,11 +16,11 @@ It is argued among a few developers especially newbies that these two feature wo
 ## Demystifying Const
 
 
-```
+```js
 const user = 'Bolaji Ayodeji'
 ```
 
-```
+```js
 user = 'Joe Nash'
 ```
 
@@ -32,11 +32,11 @@ Originally, this would work with `var` or `let` but will not with `const`.
 
 ### The problem with const
 
-When working with Objects, using const only prevents reassignment and not immutability (Ability to prevent changes to its properties).
+When working with Objects, using const only prevents reassignment and not immutability (the ability to prevent changes to the state and properties of an object after it's created).
 
 Consider the code below. We have declared a variable using the `const` keyword and assigned an object named `user` to it.
 
-```
+```js
 const user = {
   first_name: "bolaji",
   last_name: "ayodeji",
@@ -45,17 +45,17 @@ const user = {
 };
 ```
 
-```
+```js
 user.last_name = 'Samson';
-// this would work, user is still mutable!
+// this would work, user is mutable!
 ```
 
-```
+```js
 user.net_worth = 983265975975950;
-// this would work too, user is still mutable and getting rich :)!
+// this would work too, user is mutable and getting rich :)!
 ```
 
-```
+```js
 console.log(user);  
 // user is mutated
 ```
@@ -64,7 +64,7 @@ console.log(user);
 
 Although we can’t reassign this variable called object, we can still mutate the object itself.
 
-```
+```js
 const user = {  
 user_name: 'bolajiayodeji'
 }
@@ -73,13 +73,13 @@ user_name: 'bolajiayodeji'
 
 ![](https://cdn-images-1.medium.com/max/1600/1*hxSHWKuB8nopFHif_ETW9g.png)
 
-We definitely would want to have Objects with properties that cannot be modified or deleted. `const` cannot do this, and this is where `Object.freeze()` saves the day :).
+We definitely would want to have objects with properties that cannot be modified or deleted after creation. `const` cannot do this, and this is where `Object.freeze()` saves the day :).
 
 ## Demystifying Object.freeze()
 
 To disable any changes to the object, we need `Object.freeze()`.
 
-```
+```js
 const user = {
   first_name: "bolaji",
   last_name: "ayodeji",
@@ -88,32 +88,32 @@ const user = {
 };
 ```
 
-```
+```js
 Object.freeze(user);
 ```
 
-```
+```js
 user.last_name = 'Samson';
-// this won't work, user is still immutable!
+// this won't work, user is immutable!
 ```
 
-```
+```js
 user.net_worth = 983265975975950;
-// this won't work too, user is still immutable and still broke :(!
+// this won't work too, user is still immutable and broke :(!
 ```
 
-```
+```js
 console.log(user);  
-// user is immutated
+// user is immutable
 ```
 
 ![](https://cdn-images-1.medium.com/max/1600/1*uiv64RdHsencUe9ZKptrbw.png)
 
 ### The problem with Object.freeze()
 
-Objects with nested properties are not actually frozen. `Object.freeze()` is a bit shallow; you will need to apply it on nested objects to protect them recursively.
+`Object.freeze()` is a bit shallow. An object with nested properties is not actually frozen when `Object.freeze()` is applied.  You will need to apply `Object.freeze()` on nested objects to protect them recursively.
 
-```
+```js
 const user = {  
 first_name: 'bolaji',  
 last_name: 'ayodeji',  
@@ -128,17 +128,17 @@ last_name: 'ayodeji',
 Object.freeze(user);
 ```
 
-```
+```js
 user.last_name = 'Samson';
 // this won't work, user is still immutable!
 ```
 
-```
+```js
 user.contact.telephone = 07054394926;
 // this will work because the nested object is not frozen
 ```
 
-```
+```js
 console.log(user);
 ```
 
