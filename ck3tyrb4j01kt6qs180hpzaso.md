@@ -12,13 +12,13 @@ New to Web Accessibility? It will help if you read my previous article :).
 
 ---
 
-A critical aspect of accessibility is **Auditing**. The best way to know if your application is inaccessible is to test and measure it; this way, you ascertain if there is a need for any modification(s) before it is released to production.
+A critical aspect of accessibility is **Auditing**. The best way to know if your application is inaccessible is to test and measure it; this way, you ascertain a need for any modification(s) before it is released to production.
 
 Most developers [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/) excludes accessibility tasks, and I ran into this amazing tweet, which says it all.
 
 %[https://twitter.com/marcysutton/status/1202307488650891264]
 
-Your application is not "Done" until you have tested to be sure it complies with all the accessibility standards and guidelines.
+Your application is not "Done" until you have tested it to ensure it complies with all the accessibility standards and guidelines.
 
 ## Prerequisites
 
@@ -37,11 +37,11 @@ Technical Audit (TA) is an audit performed by an auditor, engineer or subject-ma
 
 Accessibility Audit (AA) is an audit performed by a developer, engineer, or accessibility expert, which evaluates deficiencies or areas of improvement in building websites that comply with the [web accessibility guidelines](https://www.w3.org/WAI/intro/wcag).
 
-As an enthusiastic developer with a great focus for accessibility, it would take a while for you to master all the guidelines and be capable of building an accessible application from scratch without any errors. Just like learning any other skill, you need to practice, and eventually, you get used to these A11y standards. One way to practice here is to Audit your application during development and fix all flagged errors as they surface.
+As an enthusiastic developer with a great focus on accessibility, it would take a while for you to master all the guidelines and build an accessible application from scratch without any errors. But, just like learning any other skill, you need to practice, and eventually, you get used to these A11y standards. One way to practice here is to Audit your application during development and fix all flagged errors as they surface.
 
 > Checking for accessibility issues during Development is a great way to fix errors before production.
 
-Some auditing libraries, such as `react-axe` and `eslint-plugin-jsx-a11y` are great tools you can use during the development of your React application to automatically check for accessibility issues and get notified as they surface.
+Some auditing libraries, such as `axe` and `eslint-plugin-jsx-a11y` are great tools you can use during the development of your React application to automatically check for accessibility issues and get notified as they surface.
 
 ## Why Audit?
 
@@ -57,7 +57,7 @@ Most accessibility tools are meant to be run on applications that have been depl
 Axe is an accessibility testing engine for websites and other HTML-based user interfaces. It's fast, secure, lightweight, and was built to seamlessly integrate with any existing test environment so you can automate accessibility testing alongside your regular functional testing.
 ~ [Axe Docs](https://github.com/dequelabs/axe-core)
 
-One important feature of Axe is that it works with all modern browsers, tools, CLI, and testing environments, allowing you to check for accessibility issues during development in your terminal and after deploy.
+One important feature of Axe is that it works with all modern browsers, tools, CLI, and testing environments, allowing you to check for accessibility issues during development in your terminal and after deployment.
 
 Other automated auditing tools like [Lighthouse](https://github.com/GoogleChrome/lighthouse) and [storybook-addon-a11y](https://github.com/storybooks/storybook/tree/master/addons/a11y) uses the Axe core engine which is [open sourced](https://github.com/dequelabs/axe-core).
 
@@ -85,10 +85,10 @@ Axe also has a command-line interface for the aXe accessibility testing engine.
 
 ```sh
 #npm
-npm install axe-cli -g
+npm install @axe-core/cli -g
 
 #yarn
-yarn install axe-cli -g
+yarn install @axe-core/cli -g
 ```
 ### Test a website with its URL
 
@@ -101,16 +101,16 @@ axe https://bolajiayodeji.com
 axe https://bolajiayodeji.com --rules color-contrast
 ```
 
-## Getting Started with [Axe for React.js](https://github.com/dequelabs/react-axe)
+## Getting Started with [Axe for React.js](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/react/README.md)
 
 ### Install the package
 
 ```sh
 #npm
-npm install --save-dev react-axe
+npm install --save-dev @axe-core/react
 
 #yarn
-yarn install --save-dev react-axe
+yarn install --save-dev @axe-core/react
 ```
 ### Initialize the module
 
@@ -119,7 +119,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 if (process.env.NODE_ENV !== 'production') {
-  let axe = require('react-axe');
+  let axe = require('@axe-core/react');
   axe(React, ReactDOM, 1000);
 } else {
   ReactDOM.render(<App />, document.getElementById('root'));
@@ -148,7 +148,7 @@ The errors are logged with priority levels
   - Serious
   - Critical
 
-> **react-axe** uses advanced console logging features and works best in the Chrome browser, with limited functionality in Safari and Firefox.
+> **@axe-core/react** uses advanced console logging features and works best in the Chrome browser, with limited functionality in Safari and Firefox.
 
 ## Getting Started with [Axe for Vue.js](https://github.com/vue-a11y/vue-axe)
 
