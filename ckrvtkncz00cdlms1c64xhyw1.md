@@ -36,8 +36,8 @@ There are so many benefits of contributing to OSS. But here are some of the core
 
 ## You should take note of these dates!
 
-1. 9th August 2021 - The challenge begins.
-2. 31st August 2021 - The challenge ends.
+1. 16th August 2021 - The challenge begins.
+2. 6th September 2021 - The challenge ends.
 3. Early September 2021 - The 20 successful participants will be rewarded.
 
 ## Conclusion
