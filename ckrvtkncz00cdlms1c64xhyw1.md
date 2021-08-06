@@ -10,7 +10,7 @@ We want you to become better at contributing to open-source and enjoy its many b
 
 The Open Source Challenge 2021 aims to support the tech ecosystem in Africa to contribute to open source projects. Each participant records open source contributions made by submitting links to merged pull requests. At the end of the challenge, the top 20 contributors get rewarded with internet data to support their learning/work and a digital certificate that they can add to their collection or resume.
 
-We'll be hosting a webinar about the challenge on August 7th, 2021, to kick-start the challenge. Kindly register to attend the webinar [here](https://opencollective.com/osca/events/open-source-challenge-2021-webinar-9dc4b5b0). Come learn more about the challenge and ask us any questions. 
+We'll be hosting a webinar about the challenge on August 14th, 2021, to kick-start the challenge. Kindly register to attend the webinar [here](https://opencollective.com/osca/events/open-source-challenge-2021-webinar-9dc4b5b0). Come learn more about the challenge and ask us any questions. 
 
 ## Why you should participate in this challenge
 
@@ -26,7 +26,7 @@ There are so many benefits of contributing to OSS. But here are some of the core
 ## How to participate?
 
 - Register to participate in the challenge by filling out [this form](https://bit.ly/osca-oss-ch-2021).
-- Join the introductory webinar on August 7th, 2021, by registering [here](https://opencollective.com/osca/events/open-source-challenge-2021-webinar-9dc4b5b0).
+- Join the introductory webinar on August 14th, 2021, by registering [here](https://opencollective.com/osca/events/open-source-challenge-2021-webinar-9dc4b5b0).
 - Join the OSCA [Discord server](https://discord.gg/pRJgjH9SwR) and interact with other community members in the *#open-source-challenge-2021* channel.
 - Check out the [open-source-challenge-2021 GitHub repository](https://github.com/oscafrica/open-source-challenge-2021) to find helpful guides and resources to help you get started.
 - Contribute to any open-source project of your choice.
