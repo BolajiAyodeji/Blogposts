@@ -60,7 +60,19 @@ Please come with the name/email address you used to purchase your ticket. This w
 
 ## Free Transportation
 
-There will be free buses to convey attendees to the festival on Friday 24th and Saturday 25th March 2022. Time and bus stop locations will be communicated in our [Discord server](https://discord.gg/8STPZzN) and via [Twitter](https://twitter.com/oscafrica).
+There will be free buses to convey attendees to the festival on Friday 24th and Saturday 25th March 2022 at the following locations:
+
+1. AJAH - Ajah Bus Stop (under bridge).
+
+2. LEKKI - Freedom Way Lekki.
+
+3. IKORODU - Ikorodu Garage.
+
+4. IKEJA - Ikeja City Mall (ICM).
+
+5. YABA - Ozone Cinema, Yaba.
+
+The buses will leave each location by 08:00 AM prompt, so please be there by 7:45 AM and be well seated before 8. If you come later than 08:00 AM, then you will have missed the bus. Please be early!
 
 ## Community Discord Server
 
