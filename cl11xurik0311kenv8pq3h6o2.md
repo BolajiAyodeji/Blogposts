@@ -60,7 +60,7 @@ Please come with the name/email address you used to purchase your ticket. This w
 
 ## Free Transportation
 
-There will be free buses to convey attendees to the festival on Friday 24th and Saturday 25th March 2022 at the following locations:
+There will be free buses to convey attendees to the festival on Friday 25th and Saturday 26th March 2022 at the following locations:
 
 1. AJAH - Ajah Bus Stop (under bridge).
 
