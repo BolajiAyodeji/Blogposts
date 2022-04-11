@@ -180,7 +180,7 @@ tar -xf production.tar.gz
 
 The extracted folder name should look like `production-export-2021-02-26t14-15-56-557z`.
 
-1. Run the command below in `/studio` to import the `data.ndjson` file in the extracted folder.
+2. Run the command below in `/studio` to import the `data.ndjson` file in the extracted folder.
 
 ```bash
 sanity dataset import ../.sanity-template/data/<name of extracted folder>/data.ndjson <your_dataset>
@@ -295,7 +295,7 @@ npm install -g @commercelayer/cli
 yarn global add @commercelayer/cli
 ```
 
-1. Log into your application via the CLI using the previously created [integration](https://docs.commercelayer.io/developers/roles-and-permissions#integration) application credentials like so:
+2. Log into your application via the CLI using the previously created [integration](https://docs.commercelayer.io/developers/roles-and-permissions#integration) application credentials like so:
 
 ```bash
 commercelayer applications:login -o <organizationSlug> -i <clientId> -s <clientSecret> -a <applicationAlias>
@@ -309,7 +309,7 @@ Now, with the steps below, you can use the CLI to import three demo [markets](h
 commercelayer plugins:install seeder
 ```
 
-1. Seed your organization using the command below:
+2. Seed your organization using the command below:
 
 ```bash
 commercelayer seed -b multi_market
@@ -399,13 +399,13 @@ The metadata information is primarily displayed on [sanity.io/create](https://w
 sanity-template check
 ```
 
-1. Build your project with the configuration in `sanity-template.json` using the command**:**
+2. Build your project with the configuration in `sanity-template.json` using the command**:**
 
 ```bash
 sanity-template build
 ```
 
-1. You need to refactor your project's `name`,  `projectId` and `dataset` in `studio/sanity.json` to a dynamic variable so when a user installs your starter via [sanity.io/starters](https://www.sanity.io/starters), Sanity can populate it with new values. To this, you pass the string value in `<#< ... >#>` as seen in the snippet below:
+3. You need to refactor your project's `name`,  `projectId` and `dataset` in `studio/sanity.json` to a dynamic variable so when a user installs your starter via [sanity.io/starters](https://www.sanity.io/starters), Sanity can populate it with new values. To this, you pass the string value in `<#< ... >#>` as seen in the snippet below:
 
 ```json
  {
@@ -421,7 +421,7 @@ sanity-template build
 }
 ```
 
-1. You can also set up [Renovatebot](https://github.com/renovatebot/renovate) to automatically make and merge pull requests that bump the Sanity dependencies upgrades in `studio/package.json`. All you need to do is add a `renovate.json` to the root directory, with the following configuration:
+4. You can also set up [Renovatebot](https://github.com/renovatebot/renovate) to automatically make and merge pull requests that bump the Sanity dependencies upgrades in `studio/package.json`. All you need to do is add a `renovate.json` to the root directory, with the following configuration:
 
 ```json
 {
@@ -431,7 +431,7 @@ sanity-template build
 }
 ```
 
-1. Run the command below to build the studio to a static bundle and deploy it to Sanity cloud on a `<your-project>.sanity.studio` URL. You can also deploy anytime you make any change to your studio.
+5. Run the command below to build the studio to a static bundle and deploy it to Sanity cloud on a `<your-project>.sanity.studio` URL. You can also deploy anytime you make any change to your studio.
 
 ```bash
 sanity deploy
@@ -439,7 +439,7 @@ sanity deploy
 
 PS: You can still host a studio on any cloud platform you choose too (here’s [how to deploy to Netlify](https://github.com/BolajiAyodeji/cl-jamstack-ecommerce-workshop#continous-deployment-on-netlify)) so you don't have to manually deploy after every change.
 
-1. Lastly, push your finished code to GitHub and test it live by ****deploying the starter on Sanity following the starter specification:
+6. Lastly, push your finished code to GitHub and test it live by ****deploying the starter on Sanity following the starter specification:
 
 ```
 https://www.sanity.io/create?template=[githubhandle]/sanity-template-[starter-name]
