@@ -172,7 +172,7 @@ If you are working on a new project like we did when we began developing the sta
 
 If you are starting a new project using a starter or a previously saved project, then you can easily import a dataset with saved data following the steps below:
 
-1. Extract the `production.tar.gz` file in `/.sanity-template/data` directory using the command below:
+- Extract the `production.tar.gz` file in `/.sanity-template/data` directory using the command below:
 
 ```bash
 tar -xf production.tar.gz
@@ -180,7 +180,7 @@ tar -xf production.tar.gz
 
 The extracted folder name should look like `production-export-2021-02-26t14-15-56-557z`.
 
-2. Run the command below in `/studio` to import the `data.ndjson` file in the extracted folder.
+- Run the command below in `/studio` to import the `data.ndjson` file in the extracted folder.
 
 ```bash
 sanity dataset import ../.sanity-template/data/<name of extracted folder>/data.ndjson <your_dataset>
@@ -285,7 +285,7 @@ In the starter we built, transactional functionalities of your ecommerce platfor
 
 The official [Commerce Layer CLI](https://github.com/commercelayer/commercelayer-cli) helps you to manage your Commerce Layer applications right from the terminal. Installing the CLI provides access to the `commercelayer` command. You can set it up using the following steps:
 
-1. Install the CLI using your favorite package manager:
+- Install the CLI using your favorite package manager:
 
 ```bash
 //npm
@@ -295,7 +295,7 @@ npm install -g @commercelayer/cli
 yarn global add @commercelayer/cli
 ```
 
-2. Log into your application via the CLI using the previously created [integration](https://docs.commercelayer.io/developers/roles-and-permissions#integration) application credentials like so:
+- Log into your application via the CLI using the previously created [integration](https://docs.commercelayer.io/developers/roles-and-permissions#integration) application credentials like so:
 
 ```bash
 commercelayer applications:login -o <organizationSlug> -i <clientId> -s <clientSecret> -a <applicationAlias>
@@ -303,13 +303,13 @@ commercelayer applications:login -o <organizationSlug> -i <clientId> -s <clientS
 
 Now, with the steps below, you can use the CLI to import three demo [markets](https://data.commercelayer.app/seed/markets.json) (UK, USA, and Europe), a set of [product SKUs](https://data.commercelayer.app/seed/skus.json), related [price lists](https://data.commercelayer.app/seed/price_lists.json), related [prices](https://data.commercelayer.app/seed/prices.json), [stock locations](https://data.commercelayer.app/seed/stock_locations.json), and [inventory](https://data.commercelayer.app/seed/stock_items.json) into your organization using the multi_market [business model](https://commercelayer.io/docs/data-model/markets-and-business-models).
 
-1. Install the [seeder plugin](https://github.com/commercelayer/commercelayer-cli-plugin-seeder) using the command below:
+- Install the [seeder plugin](https://github.com/commercelayer/commercelayer-cli-plugin-seeder) using the command below:
 
 ```bash
 commercelayer plugins:install seeder
 ```
 
-2. Seed your organization using the command below:
+- Seed your organization using the command below:
 
 ```bash
 commercelayer seed -b multi_market
@@ -317,8 +317,8 @@ commercelayer seed -b multi_market
 
 ### 7️⃣  Final checklist and Netlify deployment configuration
 
-1. In order for a starter to be validated and used through [sanity.io/starters](https://www.sanity.io/starters), it needs to follow the project name must start with `sanity-template-`.
-2. Configure your Sanity metadata in `sanity-template.json` and add deployment configuration for the frontend web application and Sanity studio like so:
+- In order for a starter to be validated and used through [sanity.io/starters](https://www.sanity.io/starters), it needs to follow the project name must start with `sanity-template-`.
+- Configure your Sanity metadata in `sanity-template.json` and add deployment configuration for the frontend web application and Sanity studio like so:
 
 ```json
 {
@@ -393,19 +393,19 @@ The metadata information is primarily displayed on [sanity.io/create](https://w
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1649682937904/QVBgRYBAv.png)
 
-1. Test your `sanity-template.json` file for errors using the sanity-template command:
+- Test your `sanity-template.json` file for errors using the sanity-template command:
 
 ```bash
 sanity-template check
 ```
 
-2. Build your project with the configuration in `sanity-template.json` using the command**:**
+- Build your project with the configuration in `sanity-template.json` using the command**:**
 
 ```bash
 sanity-template build
 ```
 
-3. You need to refactor your project's `name`,  `projectId` and `dataset` in `studio/sanity.json` to a dynamic variable so when a user installs your starter via [sanity.io/starters](https://www.sanity.io/starters), Sanity can populate it with new values. To this, you pass the string value in `<#< ... >#>` as seen in the snippet below:
+- You need to refactor your project's `name`,  `projectId` and `dataset` in `studio/sanity.json` to a dynamic variable so when a user installs your starter via [sanity.io/starters](https://www.sanity.io/starters), Sanity can populate it with new values. To this, you pass the string value in `<#< ... >#>` as seen in the snippet below:
 
 ```json
  {
@@ -421,7 +421,7 @@ sanity-template build
 }
 ```
 
-4. You can also set up [Renovatebot](https://github.com/renovatebot/renovate) to automatically make and merge pull requests that bump the Sanity dependencies upgrades in `studio/package.json`. All you need to do is add a `renovate.json` to the root directory, with the following configuration:
+- You can also set up [Renovatebot](https://github.com/renovatebot/renovate) to automatically make and merge pull requests that bump the Sanity dependencies upgrades in `studio/package.json`. All you need to do is add a `renovate.json` to the root directory, with the following configuration:
 
 ```json
 {
@@ -431,7 +431,7 @@ sanity-template build
 }
 ```
 
-5. Run the command below to build the studio to a static bundle and deploy it to Sanity cloud on a `<your-project>.sanity.studio` URL. You can also deploy anytime you make any change to your studio.
+- Run the command below to build the studio to a static bundle and deploy it to Sanity cloud on a `<your-project>.sanity.studio` URL. You can also deploy anytime you make any change to your studio.
 
 ```bash
 sanity deploy
@@ -439,7 +439,7 @@ sanity deploy
 
 PS: You can still host a studio on any cloud platform you choose too (here’s [how to deploy to Netlify](https://github.com/BolajiAyodeji/cl-jamstack-ecommerce-workshop#continous-deployment-on-netlify)) so you don't have to manually deploy after every change.
 
-6. Lastly, push your finished code to GitHub and test it live by ****deploying the starter on Sanity following the starter specification:
+- Lastly, push your finished code to GitHub and test it live by ****deploying the starter on Sanity following the starter specification:
 
 ```
 https://www.sanity.io/create?template=[githubhandle]/sanity-template-[starter-name]
