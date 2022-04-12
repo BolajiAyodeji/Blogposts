@@ -18,8 +18,7 @@ In this tutorial, you will learn how we built the [Commerce Layer Starter](https
 
 Unlike traditional solutions, [Commerce Layer was built for the new era](https://commercelayer.io/why). It natively supports the most modern development workflows, such as the Jamstack. Ecommerce businesses can integrate Commerce Layer with a single backend and serve on multiple presentation layers enabling them to build outstanding shopping experiences, go headless, and scale their business globally. You can check out our [developer resources](https://commercelayer.io/developers/) to learn more and get started.
 
-
-![A screenshot of Commerce Layer's website homepage](https://cdn.hashnode.com/res/hashnode/image/upload/v1649682449914/Isf0Kza3Z.png)
+![A screenshot of Commerce Layer's website homepage](https://cdn.hashnode.com/res/hashnode/image/upload/v1649777499795/KZf1D0APC.png)
 
 ## Introducing Sanity Studio
 
