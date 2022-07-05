@@ -6,7 +6,7 @@ By far, Git is the most widely used modern version control system in the world t
 
 Unlike older centralized version control systems such as SVN and CVS, Git is distributed: every developer has the full history of their code repository locally. Git also works well on a wide range of operating systems and IDEs (Integrated Development Environments).
 
-In this article, I'll show you how to install Git, set it up for the first time, useful tips and resources to learn more/ learn advanced git concepts. Let's roll!
+In this article, I'll show you how to install Git, set it up for the first time, and useful tips and resources to learn more/ learn advanced git concepts. Let's roll!
 
 - - -
 
@@ -23,7 +23,7 @@ If a mistake is made, developers can restore and compare earlier versions of the
 
 Now that you know what Version Control and Git mean, let's install it.
 
-### For Mac OS:
+## For Mac OS:
 
 [Download Git for macOS](http://git-scm.com/download/mac)
 or install using [Homebrew](https://brew.sh)
@@ -32,7 +32,7 @@ or install using [Homebrew](https://brew.sh)
 brew install git
 ```
 
-### For Linux OS:
+## For Linux OS:
 
 [Download Git for Linux](https://git-scm.com/download/linux) or 
 Install for Debian-based Linux systems 
@@ -50,7 +50,7 @@ sudo yum upgrade
 sudo yum install git
 ```
 
-### For Windows OS:
+## For Windows OS:
 
 [Download Git for Windows](https://git-scm.com/download/win)
 
@@ -101,12 +101,11 @@ color.ui=true
 
 ---
 
-Want to learn some super Git commands?  
-I wrote an article: [Git Cheat Sheet](https://www.bolajiayodeji.com/git-cheat-sheet/) that covers some important Git commands you'll need. 
+Want to learn some super Git commands? I wrote an article: [Git Cheat Sheet](https://blog.bolajiayodeji.com/git-cheat-sheet) that covers some important Git commands you'll need. 
 
-Find more resources to learn Git [here](https://try.github.io/)
+You can also find more resources to learn Git [here](https://try.github.io).
 
 
-# Conclusion
+## Conclusion
 
-Version control software is an essential part of the every-day of modern-day software developer practices. Once accustomed to the powerful benefits of version control systems, many developers wouldn’t consider working without it even for non-software projects.
+Version control software is an essential part of every day of modern-day software developers' practice. Once accustomed to the powerful benefits of version control systems, many developers wouldn’t consider working without it even for non-software projects.
