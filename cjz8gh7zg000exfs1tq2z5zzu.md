@@ -1,6 +1,6 @@
 ## Building a SlackBot with Node.js and SlackBots.js
 
-Slack is an American cloud-based set of proprietary team collaboration software tools and online services, developed by Slack Technologies. Slack is a workspace where teams can communicate and collaborate.
+Slack is an American cloud-based set of proprietary team collaboration software tools and online services developed by Slack Technologies. Slack is a workspace where teams can communicate and collaborate.
 
 > Teamwork in Slack happens in channels — a single place for messaging, tools, and files — helping everyone save time and collaborate.
 
@@ -14,7 +14,7 @@ One of the awesome features of Slack is [Slack Apps](https://slack.com/apps), in
 If you use Slack already, you should be familiar with some creative Slack bots like [Standupbot](https://standupbot.com/), [Birthdaybot](https://birthdaybot.io/) and more.
 In this article, I'll walk you through building your first Slack bot from start to finish with [Node.js](http://nodejs.org/) and [SlackBots.js](https://github.com/mishk0/slack-bot-api)
 
-# SlackBot Description
+## SlackBot Description
 
 We're going to build a simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers.
 I built a [chrome extension](https://github.com/BolajiAyodeji/inspireNuggets) before now that displays random inspiring techie quotes for developers/designers on your new tab (you can download it [here](https://chrome.google.com/webstore/detail/inspirenuggets-for-chrome/acnfgdioohhajabdofaadfdhmlkphmlb)), we'll be using the quotes JSON from this extension as our quotes API and [Chuck Norris Jokes API](https://api.chucknorris.io/) for the jokes.
@@ -34,7 +34,7 @@ When a user mentions our bot and adds **inspire me**, the bot returns a random q
 > You can clone or fork the final project [here](https://github.com/BolajiAyodeji/inspireNuggetsSlackBot)
 Pretty interesting right? Let's  get started
 
-# Prerequisite
+## Prerequisites
 
 This bot will be built with Node.js and SlackBots.js. You don't need to know how to write Node.js, I'll walk you through it, but knowing it is an advantage.
 * Basic JavaScript knowledge
@@ -43,7 +43,7 @@ This bot will be built with Node.js and SlackBots.js. You don't need to know how
 * Some experience with Slack
 * Some version control skills
 
-# Setup environment
+## Setup environment
 
 Let's set up and install Node.js and Npm first.
 * Download node [here](https://nodejs.org/en/), If you have it installed already, skip this step. If you prefer to use a package manager to install, read [this](https://nodejs.org/en/download/package-manager/#windows) for all operating systems.* Check if you have Node installed
@@ -98,11 +98,11 @@ Simply answer all questions that come afterward, if you're having issues, here's
 }
 ```
 
-# Install Dependencies
+## Install Dependencies
 
 **Now let's install and setup all libraries we need.**
 
-## SlackBots.js
+### SlackBots.js
 
 [SlackBots.js](https://github.com/mishk0/slack-bot-api) is a Node.js library for easy operation with Slack API.
 
@@ -114,7 +114,7 @@ In `index.js`
 ```
 const SlackBot = require('slackbots');
 ```
-## Axios
+### Axios
 
 [Axios](https://github.com/axios/axios) is a promise-based HTTP client for the browser and node.js. If you know Fetch or AJAX, this is just a library that does the same with far way cooler features. You can see them [here](https://github.com/axios/axios)
 
@@ -126,7 +126,8 @@ In `index.js`
 ```
 const axios = require('axios')
 ```
-## Nodemon
+
+### Nodemon
 
 To run a script in Node.js, you have to run `node index.js`. Whenever you make changes to this file, you have to rerun `node index.js`, this sucks right when you're making so many changes like we'll be doing. That's why we need [nodemon](https://github.com/remy/nodemon), nodemon is a tool that helps develop node.js-based applications by automatically restarting the node application when file changes in the directory are detected.
 
@@ -149,7 +150,7 @@ If you run `npm start`, the file will run but won't restart on change. To fix th
   }
 ```
 
-# Dotenv
+### Dotenv
 
 I won't explain this in-depth, in a few days, I'll publish an article around environmental variables, for now just know that we use this to hide secret keys and tokens like the Slack Access Token we would be using. This way you don't have to push your secret keys to GitHub. There are several ways to do this, but I prefer using dotenv, [Dotenv](https://github.com/motdotla/dotenv) is a zero-dependency module that loads environment variables from a .env file into process.env.
 
@@ -193,7 +194,7 @@ After all installation, your `package.json` should look like this:
 }
 ```
 
-# Create your Slack workspace
+## Create your Slack workspace
 
 Now that we have all set up, we need a Slack workspace to run our bot in development. Creating a workspace is pretty easy, read [this](https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-workspace).
 
@@ -247,7 +248,7 @@ Click allow and wait to be redirected back to the `Basic Information` page.
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/capture15.png)
 
-# Customize your Slack bot
+## Customize your Slack bot
 
 Now we've created our bot, let's do some customization
 
@@ -263,7 +264,7 @@ Here's what mine looks like after customization:
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/capture13.png)
 
-# Slack bot OAuth Tokens
+## Slack bot OAuth Tokens
 
 Now we have our Slack bot setup, let's grab out token keys.
 
@@ -282,7 +283,7 @@ Copy the **Bot User OAuth Access Token**
 
 This is why we have installed Dotenv and we'll set that up in the next section.
 
-# Building the bot
+## Building the bot
 
 Now let's build our bot :).
 ### First, let's keep our Access Token somewhere.
@@ -538,15 +539,14 @@ Automation is one thing we should learn as developers, we have a lot to do, we s
 
 - - -
 
-# Final Code
+## Final Code
 
 Here's our final `index.js` code
 
 
 %[https://gist.github.com/BolajiAyodeji/a1fe5fe40f9c8d5abbc08f84edef5b74]
 
-
-# What Next?
+## What Next?
 
 Our bot only runs in development now, to use it we always have to `npm start`.
 This isn't cool, right? We'll want to host it somewhere it can run every time. In my next article, I'll show you how to host this on either [Heroku](https://herokuapp.com/), [Zeit](https://zeit.co/) or [Netlify](https://netlify.com) and publish it to the Slack Apps store so anyone around the world can use it. Also, don't forget to add this in your `.gitignore` before pushing to GitHub
@@ -557,7 +557,7 @@ This isn't cool, right? We'll want to host it somewhere it can run every time. I
 ```
 > Subscribe to my [newsletter](https://tinyletter.com/bolajiayodeji/) to get updated.
 
-# Useful Resources
+## Useful Resources
 
 * [Slack API](https://api.slack.com/)
 * [Slack API Docs](https://api.slack.com/#read_the_docs)
