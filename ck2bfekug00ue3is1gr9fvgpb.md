@@ -1,4 +1,4 @@
-## How to Build a Simple Progressive Web App with PWAFire and Deploy to GitHub Pages and Firebase
+## How to Build and Deploy a Progressive Web App with PWAFire, GitHub Pages, and Firebase
 
 Recently I discovered a new trend, a powerful web technology, one that every Web Developer should know, yeah I said every!
 
