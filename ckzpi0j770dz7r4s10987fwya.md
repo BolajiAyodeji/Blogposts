@@ -1,4 +1,4 @@
-## How to Make any Website Shoppable
+# How to Make any Website Shoppable
 
 Digital commerce has changed, and there is an increasing demand for faster and highly efficient solutions across multiple interaction channels. The rise of [headless commerce](https://commercelayer.io/docs/core-concepts/headless-commerce) allows for more creative flexibility, better performance, and efficient software development. Developers can now make any website shoppable, serve customers on several platforms using the same code and content with no interruption to the customer journey using tools like [Commerce Layer](https://commercelayer.io). As an API-first and stack agnostic platform, Commerce Layer provides commerce APIs for inventory, orders, shopping carts, prices, promotions, shipments, customers, and more. Ecommerce businesses can integrate Commerce Layer to manage the transactional part of their sales channel alongside any architecture or tool of their choice (be it WordPress, Drupal, Headless... anything!) and serve their storefront on multiple presentation layers (desktop, mobile, wearable devices, IoT, etc.).
 
