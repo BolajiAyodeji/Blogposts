@@ -1,4 +1,4 @@
-## How to Build an International Ecommerce Website with Sanity and Commerce Layer
+# How to Build an International Ecommerce Website with Sanity and Commerce Layer
 
 One of the greatest benefits of composable, headless commerce is the flexibility it introduces to the developer experience of building shopping experiences. Decoupling website content and commerce data makes it easier for content and commerce teams of experts to work independently and more efficiently. With Commerce Layer, content managers can work with a best-of-breed headless CMS like Sanity, merchants can build their inventory in Commerce Layer, and developers can build with any stack in their most preferred programming language while utilizing Commerce Layer’s APIs.
 
