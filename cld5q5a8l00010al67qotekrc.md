@@ -10,9 +10,8 @@ Have you ever wanted to learn how to build an ecommerce website as a developer? 
 2. A working programming IDE (I use vscode; you can also try it).
 3. A stable internet connection.
 4. Optionally, you can study these [data models](https://commercelayer.io/docs/data-model) to understand the key Commerce Layer API entities, their mutual relationships, and common usage.
-    
 
-## A Premise to Composable Commerce
+## Introduction to Composable Commerce
 
 Before we proceed, let’s understand what the concept “composable” means. Before now, ecommerce websites were built with a monolithic architecture where all components (frontend, backend, content, and commerce data) were coupled into one system. Over time, this approach posed different weaknesses related to speed, flexibility, scalability, security, modularity, etc. Most importantly, it became difficult for different sub-teams in an engineering team to effectively build in development and collaborate on the product—leading to a poor developer experience. All these weaknesses directly affect the sales and customer retention part of an ecommerce business, which shouldn’t be the case. Hence, there was the rise of a better approach that allows for an independent and agnostic setup for all teams (frontend, backend, content, etc.) and effective product development flow. This approach, called “composable commerce,” allowed for a better developer experience, more room for creativity and innovation from each team, more room for adapting to new market opportunities, and eventually, customer satisfaction, increased revenue, and customer retention.
 
@@ -32,7 +31,7 @@ The beauty of the composable commerce architecture is that you can distribute yo
 
 ![Illustration showing components of a modern ecommerce store](https://cdn.hashnode.com/res/hashnode/image/upload/v1674289099875/2e9e1ebb-4676-4e9d-b10c-c01aae221090.jpeg align="center")
 
-## How it works
+## Getting Started
 
 The Demo Store project is a static ecommerce solution with no third-party services required, so you can easily tailor your own with different levels of customization. As such, even content is stored as JSON files. The Demo Store comes with:
 
@@ -146,7 +145,7 @@ npm run dev
 
 ![A screenshot of the demo store's search page](https://cdn.hashnode.com/res/hashnode/image/upload/v1674279015561/6807997e-256e-4798-a2c9-a41d037cc1a7.png align="center")
 
-You must first select a country when you visit the homepage. When you select the United States, for example, you will be redirected to the [`http://localhost:3000/en-US/`](http://localhost:3000/it-US/) path, which will return a shopping experience from the United States market in Commerce Layer with English content translations. Changing the language to French, for example, will redirect to a [`http://localhost:3000/fr-US`](http://localhost:3000/it-US/) page. Changing the country to Italy will return a shopping experience from the Europe market in Commerce Layer and redirect to a [`http://localhost:3000/fr-IT`](http://localhost:3000/it-US/) page. You can play around with it for other countries and languages.
+You must first select a country when you visit the homepage. When you select the United States, for example, you will be redirected to the [`http://localhost:3000/en-US/`](http://localhost:3000/it-US/) path, which will return a shopping experience from the United States market in Commerce Layer with English content translations. Changing the language to French, for example, will redirect to a `http://localhost:3000/fr-US` page. Changing the country to Italy will return a shopping experience from the Europe market in Commerce Layer and redirect to a `http://localhost:3000/fr-IT` page. You can play around with it for other countries and languages.
 
 This is a fully-functional international ecommerce website with a multi-market setup, facet search, cart, and checkout in just a few minutes and fewer development efforts. Also, if you already have an existing CMS with content, you can still use that to generate the required content JSON file (we will show you how in a follow-up tutorial 😉). Now, you can go ahead and make transactional changes for each market in Commerce Layer, and your demo store will return the right experience to your users. Isn’t this cool?
 
