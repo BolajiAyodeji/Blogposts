@@ -11,8 +11,9 @@ Slack is an American cloud-based set of proprietary team collaboration software 
 One of the awesome features of Slack is [Slack Apps](https://slack.com/apps), integrations, and [Slack Bots](https://api.slack.com/bot-users).
 
 > A Slack bot is a type of Slack App designed to interact with users via conversation. Your bot can send DMs, it can be mentioned by users, it can post messages or upload files, and it can be invited to channels. Cool right?
-If you use Slack already, you should be familiar with some creative Slack bots like [Standupbot](https://standupbot.com/), [Birthdaybot](https://birthdaybot.io/) and more.
-In this article, I'll walk you through building your first Slack bot from start to finish with [Node.js](http://nodejs.org/) and [SlackBots.js](https://github.com/mishk0/slack-bot-api)
+If you use Slack already, you should be familiar with some creative Slack bots like [Standupbot](https://standupbot.com/), [Birthdaybot](https://birthdaybot.io/), and more.
+
+In this article, I'll walk you through building your first Slack bot from start to finish with [Node.js](http://nodejs.org/) and [SlackBots.js](https://github.com/mishk0/slack-bot-api).
 
 ## SlackBot Description
 
