@@ -1,4 +1,6 @@
-## Building a SlackBot with Node.js and SlackBots.js
+# Building a SlackBot with Node.js and SlackBots.js
+
+> PS: the demo built in this tutorial is outdated already. I would soon write an updated tutorial/demo and link here when it is ready. Thank you!
 
 Slack is an American cloud-based set of proprietary team collaboration software tools and online services developed by Slack Technologies. Slack is a workspace where teams can communicate and collaborate.
 
