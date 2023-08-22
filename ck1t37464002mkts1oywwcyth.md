@@ -1,4 +1,13 @@
-## GitHub repository language overview - How?
+---
+title: "GitHub repository language overview - How?"
+datePublished: Wed Oct 16 2019 09:42:34 GMT+0000 (Coordinated Universal Time)
+cuid: ck1t37464002mkts1oywwcyth
+slug: github-repository-language-overview-how
+canonical: https://www.bolajiayodeji.com/introducing-github-linguistic/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1571219466349/Gmrp08Kx-.png
+tags: github, programming, til
+
+---
 
 The files and directories within a repository determine the languages that make up the repository. With GitHub, you can view a repository’s languages to get a quick overview of the repository. But how does this happen? What powers this repository language overview?
 
