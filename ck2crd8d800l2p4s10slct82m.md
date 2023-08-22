@@ -1,4 +1,12 @@
-## How to Convert GitHub Markdown Files to a Simple Website
+---
+title: "How to Convert GitHub Markdown Files to a Simple Website"
+datePublished: Sun Nov 04 2018 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck2crd8d800l2p4s10slct82m
+slug: how-to-convert-github-markdown-files-to-a-simple-website
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1572408355194/-wCj15ak_.png
+tags: github, programming, markdown
+
+---
 
 This little guide demonstrates how to turn any [Github](https://github.com/)
 repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
