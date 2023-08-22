@@ -1,4 +1,12 @@
-## The differences between Object.freeze() vs Const in JavaScript
+---
+title: "The Differences Between Object.freeze() vs Const in JavaScript"
+datePublished: Fri Apr 26 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjvvei43q0011e4s131vmolae
+slug: the-differences-between-objectfreeze-vs-const-in-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1558298320519/PuO47ZWcA.png
+tags: programming, javascript, es6, tech
+
+---
 
 ES6 has brought several new features and methods into JavaScript since its release. These features have better improved our workflow and productivity as JavaScript developers. Amongst these new features are `Object.freeze()` method and `const`.
 
