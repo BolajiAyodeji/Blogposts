@@ -1,8 +1,8 @@
 ---
-title: "GitHub repository language overview - How?"
+title: "GitHub Repository Language Overview"
 datePublished: Wed Oct 16 2019 09:42:34 GMT+0000 (Coordinated Universal Time)
 cuid: ck1t37464002mkts1oywwcyth
-slug: github-repository-language-overview-how
+slug: github-repository-language-overview
 canonical: https://www.bolajiayodeji.com/introducing-github-linguistic/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1571219466349/Gmrp08Kx-.png
 tags: github, programming, til
@@ -13,16 +13,13 @@ The files and directories within a repository determine the languages that make 
 
 ----
 
-You might have noticed this section at the top of your GitHub repositories that give you an overview of languages contained in the repository
+You might have noticed this section at the top of your GitHub repositories that give you an overview of languages contained in the repository.
 
 ![](https://cdn-images-1.medium.com/max/800/1*FWBD77YB6yedoMIc04BSOA.png)
 
-Well, GitHub uses the open-source [Linguist
-library](https://github.com/github/linguist) to determine file languages for
+Well, GitHub uses the open-source [Linguist library](https://github.com/github/linguist) to determine file languages for
 syntax highlighting and repository statistics. Language statistics will update
-after you push changes to your default branch (which is usually `master`).
-
-## What is GitHub Linguist?
+after you push changes to your default branch (which is usually `main`).
 
 > GitHub Linguist is a library that is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. - GitHub Linguist Docs
 
@@ -84,9 +81,9 @@ your GitHub repository.
 - Using  **linguist-language** attribute to override language extensions
 
 ```
-    # .gitattributes file which reclassifies `.js` files as Java:
+# .gitattributes file which reclassifies `.js` files as Java:
 
-     *.js linguist-language=Java
+*.js linguist-language=Java
 ```
 
 - Using the **linguist-vendored** attribute to vendor or un-vendor paths
@@ -94,15 +91,15 @@ your GitHub repository.
 > By default, Linguist treats all of the paths defined in `vendor.yml` as vendored and therefore doesn't include them in the language statistics for a repository.
 
 ```
-    special-vendored-path/* linguist-vendored
-     jquery.js linguist-vendored=false
+special-vendored-path/* linguist-vendored
+jquery.js linguist-vendored=false
 ```
 
 - Using the **linguist-documentation** attribute to mark or unmark paths as documentation
 
 ```
-    project-docs/* linguist-documentation
-     docs/formatter.rb linguist-documentation=false
+project-docs/* linguist-documentation
+docs/formatter.rb linguist-documentation=false
 ```
 
 - Using the **linguist-generated** attribute to mark or unmark paths as generated.
@@ -110,7 +107,7 @@ your GitHub repository.
 > Not all plain text files are true source files. Generated files like minified JavaScript and compiled CoffeeScript can be detected and excluded from language stats.
 
 ```
-    Api.elm linguist-generated=true
+Api.elm linguist-generated=true
 ```
 
 - Using the **linguist-detectable** attribute to mark or unmark paths as
@@ -119,9 +116,9 @@ detectable
 > Only programming languages are included in the language statistics. Languages of a different type (as defined in `languages.yml`) are not "detectable" causing them not to be included in the language statistics.
 
 ```
-    *.kicad_pcb linguist-detectable=true
-     *.sch linguist-detectable=true
-     tools/export_bom.py linguist-detectable=false
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+tools/export_bom.py linguist-detectable=false
 ```
 
 ## Conclusion
