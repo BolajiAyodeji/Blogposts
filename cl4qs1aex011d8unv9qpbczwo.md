@@ -1,4 +1,12 @@
-## How to Setup Google Analytics 4 in a Next.js Project
+---
+title: "How to Setup Google Analytics 4 in a Next.js Project"
+datePublished: Thu Jun 23 2022 08:43:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl4qs1aex011d8unv9qpbczwo
+slug: how-to-setup-google-analytics-4-in-a-nextjs-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655907318075/AU1-JAk9Z.png
+tags: web-development, reactjs, google, nextjs
+
+---
 
 [Google Analytics](https://analytics.google.com) is a web analytics service that tracks and reports several types of website traffic. GA4 (Google Analytics 4) was recently released, which Google claims is a new property designed for the future of website traffic measurement. Technically the upgrade comes with better features and offerings that you can learn more about [here](https://support.google.com/analytics/answer/10089681?hl=en), and on 1st July 2023, the standard Universal Analytics (UA) properties [will be deprecated](https://support.google.com/analytics/answer/11583528). I recently had to set up GA4 on a Nextjs project and thought to document the steps here for myself and YOU. This will be a concise tutorial and I'd highlight the steps you need to set up the `gtag.js` script.
 
