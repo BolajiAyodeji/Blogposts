@@ -1,4 +1,12 @@
-## Getting Started with Hugo and Deploying to Netlify
+---
+title: "Getting Started with Hugo and Deploying to Netlify"
+datePublished: Sun Mar 17 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjyaj1be3000hvjs1z2ipvmuw
+slug: getting-started-with-hugo-and-deploying-to-netlify
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1588059789018/OYKQnpk6K.png
+tags: blog, web-development, cli, hugo, jamstack
+
+---
 
 Hugo is a fast and modern static site generator written in [Go](https://golang.org/) and designed to make website creation fun again. It builds pages when you create or update your content. Websites built with Hugo are extremely fast and secure. Hugo takes a source directory of files and templates and uses these as input to create a complete website.
 
