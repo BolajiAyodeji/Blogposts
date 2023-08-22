@@ -1,4 +1,12 @@
-## How to redirect HTTP to HTTPS Using .htaccess
+---
+title: "How to redirect HTTP to HTTPS Using .htaccess"
+datePublished: Sun Nov 25 2018 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck2a1xkxx009k3is1c7jsp9vw
+slug: how-to-redirect-http-to-https-using-htaccess
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1586921949665/7Twi5MAFE.png
+tags: ssl, programming, security
+
+---
 
 Chrome and Firefox have started showing insecure warnings on sites without [SSL certificates](https://www.instantssl.com/ssl.html). Without SSL, your website
 will show insecure to the visitors. Therefore, using an SSL-encrypted connection
