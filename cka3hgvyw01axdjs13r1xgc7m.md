@@ -1,4 +1,12 @@
-## The Security Vulnerabilities of The Target="_Blank" Attribute
+---
+title: "The Security Vulnerabilities of The Target="_Blank" Attribute"
+datePublished: Tue May 12 2020 05:37:25 GMT+0000 (Coordinated Universal Time)
+cuid: cka3hgvyw01axdjs13r1xgc7m
+slug: the-security-vulnerabilities-of-the-target-blank-attribute
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1589261077785/MRNVT6TcS.png
+tags: web-development, security, accessibility, html5, a11y
+
+---
 
 The HTML hyperlink tag allows you to create an element that can be clicked on to reference another document or section on a web page. Hyperlinks are defined with the HTML `<a>` tag like so:
 
@@ -21,11 +29,11 @@ Most often, you'll find yourself only using the **_blank** target attribute than
 
 ## The Vulnerabilities
 
-Every new window has the [opener API](https://developer.mozilla.org/en-US/docs/Web/API/Window/opener), and when you click on an external link with `target="blank`, the new tab has a window.opener which points to the parent window and can run on the same process as the parent (unless [site isolation](https://www.chromium.org/developers/design-documents/site-isolation) is enabled). So when a user clicks the external link, the new page opened has control over the parent document's window object.
+Every new window has the [opener API](https://developer.mozilla.org/en-US/docs/Web/API/Window/opener), and when you click on an external link with `target="blank`, the new tab has a `window.opener` which points to the parent window and can run on the same process as the parent (unless [site isolation](https://www.chromium.org/developers/design-documents/site-isolation) is enabled). So when a user clicks the external link, the new page opened has control over the parent document's window object.
 
 Since the new page can access the parent window object with the `window.opener` property, it can redirect the external page to a malicious URL, which makes your site or users vulnerable and exposed to data theft or other phishing attacks (and since users trust your website already, they can easily be a victim).
 
-```js
+```javascript
 window.opener.location = newURL
 ```
 
@@ -37,7 +45,7 @@ When using the target blank attribute, please ensure to add `rel="noopener noref
 
 Adding the `rel="noopener noreferrer"` attribute on the parent `<a>` element will allow the new window run in a separate process and prevent the window.opener reference from being set, which means the property will equal null.
 
-```js
+```javascript
 var newWindow = window.open();
 newWindow.opener = null;
 newWindow.location = url;
