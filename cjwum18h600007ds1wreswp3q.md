@@ -1,4 +1,12 @@
-## Introduction to Web Accessibility
+---
+title: "Introduction to Web Accessibility"
+datePublished: Thu Apr 04 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjwum18h600007ds1wreswp3q
+slug: introduction-to-web-accessibility
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1575503436149/bU3Hxrfpk.png
+tags: design, web, accessibility, a11y
+
+---
 
 As developers, it’s easy to assume that all users can see and use a keyboard, mouse or screen, you feel everyone can interact with your web page the same way you do. This can lead to a user experience that works well for some people but creates issues for others :(
 
