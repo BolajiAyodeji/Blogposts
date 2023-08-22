@@ -1,4 +1,12 @@
-## Git first time setup
+---
+title: "Git First Time Setup"
+datePublished: Sun Jul 21 2019 16:17:37 GMT+0000 (Coordinated Universal Time)
+cuid: cjyd6027g0012sbs1afuje609
+slug: git-first-time-setup
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1588425047471/gUa6sLzQ9.png
+tags: terminal, version-control, bash, git, hashnode
+
+---
 
 Git is a Free and Open Source Distributed Version Control System.
 
