@@ -1,4 +1,12 @@
-## How to deploy a Node Application and Database to Heroku
+---
+title: "How to Deploy a Node Application and Database to Heroku"
+datePublished: Sat Sep 28 2019 04:41:32 GMT+0000 (Coordinated Universal Time)
+cuid: ck132inhz004kqns1mo2ixtph
+slug: how-to-deploy-a-node-application-and-database-to-heroku
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1569644754652/jGfs3pWwd.png
+tags: programming, javascript, deployment, nodejs, heroku
+
+---
 
 Heroku is a cloud-based, fully-managed platform as a service (Paas) for building, running, and managing apps. The platform is flexible and designed with DX support for you and your team’s preferred development style and to help you stay focused and productive.
 
