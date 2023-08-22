@@ -1,4 +1,12 @@
-## How to Add a README file to your GitHub Profile
+---
+title: "How to Add a README file to your GitHub Profile"
+datePublished: Thu Jul 09 2020 08:49:54 GMT+0000 (Coordinated Universal Time)
+cuid: ckcejvu12004m8rs11wgm0kgw
+slug: how-to-add-a-readme-file-to-your-github-profile
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1594284915289/MyHJcZTlC.png
+tags: github, developer, portfolio, 2articles1week
+
+---
 
 GitHub recently introduced a special feature for developers, that allows you to showcase yourself by pinning a `README.md` containing information about you, your work, portfolio, and anything else on your GitHub profile.
 
