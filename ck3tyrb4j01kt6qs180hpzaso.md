@@ -1,4 +1,12 @@
-## Accessibility Auditing with Axe for automated Web UI testing
+---
+title: "Accessibility Auditing with Axe for automated Web UI testing"
+datePublished: Fri Dec 06 2019 09:45:29 GMT+0000 (Coordinated Universal Time)
+cuid: ck3tyrb4j01kt6qs180hpzaso
+slug: accessibility-auditing-with-axe-for-automated-web-ui-testing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1575622560815/a_SFWB661.png
+tags: javascript, web-development, vuejs, accessibility, reactjs
+
+---
 
 Accessibility has become a widely known and sort-for topic, with many developers and organizations advocating for the need to focus more on it towards building for the Next Billion Users.
 
