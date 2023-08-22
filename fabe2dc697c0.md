@@ -1,4 +1,12 @@
-## Introducing CSS Custom Properties (Variables)
+---
+title: "Introducing CSS Custom Properties (Variables)"
+datePublished: Mon Mar 25 2019 04:31:15 GMT+0000 (Coordinated Universal Time)
+cuid: fabe2dc697c0
+slug: introducing-css-custom-properties-variables
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1560101696129/Tm_aBkKwB.png
+tags: variables, css, developer, tech
+
+---
 
 In the past years, maintaining CSS was a very big problem for bigger projects or complex apps as a result, building reusable components and cleaner styles were hard to achieve.
 
