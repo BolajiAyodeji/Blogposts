@@ -1,4 +1,12 @@
-## TIL: CSS list-style-position property
+---
+title: "TIL: CSS list-style-position property"
+datePublished: Mon Apr 13 2020 12:33:25 GMT+0000 (Coordinated Universal Time)
+cuid: ck8ygk5w500vpmys1vvbej3oe
+slug: til-css-list-style-position-property
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1586779097573/4Bqfhn9jA.png
+tags: css, ui, til
+
+---
 
 The [HTML list tag](https://www.w3schools.com/html/html_lists.asp) allows you to list ordered and unordered items. One major UI problem I had with list items is the position of the `::marker` (bullet) pseudo-element in a list item.
 
