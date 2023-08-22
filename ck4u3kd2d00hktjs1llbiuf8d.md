@@ -1,4 +1,12 @@
-## Automate GitHub Dependency Updates with Dependabot
+---
+title: "Automate GitHub Dependency Updates with Dependabot"
+datePublished: Tue Dec 31 2019 16:39:45 GMT+0000 (Coordinated Universal Time)
+cuid: ck4u3kd2d00hktjs1llbiuf8d
+slug: automate-github-dependency-updates-with-dependabot
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1577810225258/NZvNCt-SW.png
+tags: bot, github, programming, automation
+
+---
 
 You should be familiar with this tiring email notification from GitHub.
 
