@@ -1,10 +1,18 @@
-## Writing Good Commit Messages: A Practical Guide
+---
+title: "Writing Good Commit Messages: A Practical Guide"
+datePublished: Thu Nov 28 2019 17:28:39 GMT+0000 (Coordinated Universal Time)
+cuid: ck3izs56t00sed0s11z515m1j
+slug: writing-good-commit-messages-a-practical-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1574778278318/jDIPa1qbu.png
+tags: github, programming, version-control, git, til
+
+---
 
 To create a useful revision history, teams should first agree on a commit message convention to use, and this also applies to personal projects.
 
-Recently I asked a question on [Hashnode](https://hashnode.com) asking users **"Which commit message convention they use at work?"** and I got quite some amazing responses with users explaining the conventions they use at work and for their personal projects.
+Recently I asked a question on [Hashnode](https://hashnode.com): **"Which commit message convention do you use at work?"** and I got quite some amazing responses with users explaining the conventions they use at work and for their personal projects.
 
-%[https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g]
+%[https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g] 
 
 In this article, I'll go over why you should write good commit messages and how you can write good commit messages.
 
@@ -12,11 +20,9 @@ In this article, I'll go over why you should write good commit messages and how 
 
 ## Introduction to version control with Git
 
-Version control software is an essential part of the every-day modern-day software developer practices.
+Version control software is an essential part of the every-day modern-day software developer practices. By far, [Git](https://git-scm.com/) is the most widely used modern version control system in the world today is. It is a distributed and actively maintained open source project originally developed in 2005 by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), the famous creator of the Linux operating system kernel.
 
-By far, [Git](https://git-scm.com/) is the most widely used modern version control system in the world today is. It is a distributed and actively maintained open source project originally developed in 2005 by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), the famous creator of the Linux operating system kernel.
-
-New to Git? Check out the official [getting started guide](https://git-scm.com/book/en/v1/Getting-Started) or [this slide](https://slides.com/bolajiayodeji/introduction-to-version-control-with-git-and-github) from my past talk.
+> New to Git? Check out the official [getting started guide](https://git-scm.com/book/en/v1/Getting-Started) or [this slide](https://slides.com/bolajiayodeji/introduction-to-version-control-with-git-and-github) from my past talk.
 
 ## What is a commit message?
 
@@ -24,7 +30,8 @@ The **commit** command is used to save changes to a local repository after stagi
 
 ### Commit Options
 
-- **-m <message>**
+* **\-m**
+    
 
 This option sets the commit's message.
 
@@ -33,7 +40,8 @@ git add static/admin/config.yml
 git commit -m "Setup multiple roles for netlify-cms git gateway"
 ```
 
-- **-a or --all**
+* **\-a or --all**
+    
 
 This option automatically commits all (including new) tracked, modified, or deleted files.
 
@@ -41,7 +49,8 @@ This option automatically commits all (including new) tracked, modified, or dele
 git commit -a -m "Add a new role for netlify-cms git gateway"
 ```
 
-- **--amend**
+* **\--amend**
+    
 
 This option rewrites the very last commit with any currently staged changes or a new commit message and should only be performed on commits that have not been pushed to a remote repository, yet.
 
@@ -68,10 +77,11 @@ Run `git commit` without a message or option and it'll open up your default text
 
 > To configure your "default" editor:
 
-```
+```plaintext
 git config --global core.editor nano
 ```
-This would configure git to use nano as your default editor. Replace "nano" with "emacs," "vim," or whichever your preference is. 
+
+This would configure git to use nano as your default editor. Replace "nano" with "emacs," "vim," or whichever your preference is.
 
 In the opened editor, the first line is the subject (short description), leave a blank line after it, and everything else is the extended description (body).
 
@@ -82,9 +92,9 @@ In the opened editor, the first line is the subject (short description), leave a
 characters>
 ```
 
-### Command Line method 
+### Command Line method
 
-```
+```plaintext
 git commit -m "Subject" -m "Description..."
 ```
 
@@ -131,25 +141,44 @@ Resolves: #123
 
 Looks great, right? Here's how you can make yours great too:
 
-1. Specify the type of commit:
- - **feat**:  The new feature you're adding to a particular application
- - **fix**: A bug fix
- - **style**: Feature and updates related to styling
- - **refactor**: Refactoring a specific section of the codebase
- - **test**: Everything related to testing
- - **docs**: Everything related to documentation
- - **chore**: Regular code maintenance.  
-[ You can also use emojis to represent commit types]
-2. Separate the subject from the body with a blank line
-3. Your commit message should not contain any whitespace errors
-4. Remove unnecessary punctuation marks
-5. Do not end the subject line with a period
-6. Capitalize the subject line and each paragraph
-7. Use the imperative mood in the subject line
-8. Use the body to explain what changes you have made and why you made them.
-9. Do not assume the reviewer understands what the original problem was, ensure you add it.
-10. Do not think your code is self-explanatory
-11. Follow the commit convention defined by your team
+1. Specify the type of commit with a starting short phrase and/or emoji:
+    
+
+* **feat**: The new feature you're adding to a particular application.
+    
+* **fix**: A bug fix.
+    
+* **style**: Additions and updates related to styling.
+    
+* **refactor**: Refactoring a specific section of the codebase.
+    
+* **test**: Everything related to testing.
+    
+* **docs**: Everything related to documentation.
+    
+* **chore**: Regular code maintenance.
+    
+
+1. Separate the subject from the body with a blank line.
+    
+2. Your commit message should not contain any whitespace error.
+    
+3. Remove unnecessary punctuation marks.
+    
+4. Do not end the subject line with a period.
+    
+5. Capitalize the subject line and each paragraph.
+    
+6. Use the imperative mood in the subject line (e.g., Fix issue…).
+    
+7. Use the body to explain what changes you have made and why you made them.
+    
+8. Do not assume the reviewer understands what the original problem was, ensure you add it.
+    
+9. Do not think your code is self-explanatory.
+    
+10. Follow the commit convention defined by your team.
+    
 
 ## Conclusion
 
@@ -157,8 +186,12 @@ The most important part of a commit message is that it should be clear and meani
 
 Want to learn more about Git and become a professional "version controller," check out these excellent resources:
 
-- https://try.github.io/
-- https://git-scm.com/book/en/v2
-- https://www.git-tower.com/learn/
-- https://learngitbranching.js.org/
-- https://github.com/commitizen/cz-cli
+* https://try.github.io/
+    
+* https://git-scm.com/book/en/v2
+    
+* https://www.git-tower.com/learn/
+    
+* https://learngitbranching.js.org/
+    
+* https://github.com/commitizen/cz-cli
