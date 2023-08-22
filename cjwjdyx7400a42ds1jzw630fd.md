@@ -1,4 +1,12 @@
-## Handling Static Forms, The Client-side Way
+---
+title: "Handling Static Forms, The Client-side Way"
+datePublished: Wed Jun 05 2019 15:27:54 GMT+0000 (Coordinated Universal Time)
+cuid: cjwjdyx7400a42ds1jzw630fd
+slug: handling-static-forms-the-client-side-way
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1559748447490/UhS9v_wJc.png
+tags: forms, frontend, developer, html5, netlify
+
+---
 
 Forms are interactive elements used to get input from the user for further
 processing. Most times, forms are just used to receive input that requires no processing but rather just receiving data, this might be a contact form, RSVP, get a quote e.t.c
