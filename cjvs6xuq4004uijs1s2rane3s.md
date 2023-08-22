@@ -1,4 +1,12 @@
-## Git Cheat Sheet for Beginners and Intermediates
+---
+title: "Git Cheat Sheet for Beginners and Intermediates"
+datePublished: Sun Feb 17 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjvs6xuq4004uijs1s2rane3s
+slug: git-cheat-sheet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1648108038820/6n-Po2XK6.png
+tags: github, git, command-line, cli, cheatsheet
+
+---
 
 
 Git cheat sheet saves you time when you just can't remember a specific command. It is hard to memorize all the important Git commands as a newbie, most times Senior Developers forget too. This is why you need a reference you can come back to when you get stuck.
