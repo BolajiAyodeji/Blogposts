@@ -1,4 +1,12 @@
-## How to Build and Deploy a Progressive Web App with PWAFire, GitHub Pages, and Firebase
+---
+title: "How to Build and Deploy a Progressive Web App with PWAFire, GitHub Pages, and Firebase"
+datePublished: Sun Nov 25 2018 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck2bfekug00ue3is1gr9fvgpb
+slug: how-to-build-and-deploy-a-progressive-web-app-with-pwafire-github-pages-and-firebase
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1572327519582/L95zs6Tko.png
+tags: app, programming, javascript, service-workers, pwa
+
+---
 
 Recently I discovered a new trend, a powerful web technology, one that every Web Developer should know, yeah I said every!
 
