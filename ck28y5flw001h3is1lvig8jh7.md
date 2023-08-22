@@ -1,32 +1,30 @@
-## Introduction to JavaScript Switch Cases
+---
+title: "Introduction to JavaScript Switch Cases"
+datePublished: Thu Jan 03 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck28y5flw001h3is1lvig8jh7
+slug: introduction-to-javascript-switch-cases
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1572178084279/cowOORdvb.jpeg
+tags: programming, javascript, es6
+
+---
 
 In this short article, I will introduce you to JavaScript switch cases and how
-to use them with practical examples.
+to use them with practical examples. PS: This article is not for those without any JavaScript knowledge; it is expected that you're taking some tutorial or course and you just got to the switch cases section. This article will explain better with more practical examples to help you understand switch cases in depth.
 
-*PS: This article is not for those without any JavaScript knowledge, it is
-expected that you're taking some tutorial or course and you just got to the
-switch cases section.*
-
-This article will explain better with more practical examples to help you
-understand switch cases in depth.
-
-
-### Prerequisites.
+## Prerequisites.
 
 * Basic JavaScript knowledge
 * Code editor
 * Web Browser
 * Your brain :)
 
-
-A `switch` statement can basically replace multiple `if` checks in JavaScript.
-
-It gives a more descriptive way to compare a value with multiple variants.
-
 ### **The Switch Syntax**
 
+A `switch` statement can basically replace multiple `if` checks in JavaScript. It gives a more descriptive way to compare a value with multiple variants.
+
 The `switch` has one or more `case` blocks and an optional default case.
-```
+
+```javascript
 switch(x) {
   case 'value1':  // if (x === 'value1')
     //code here
@@ -48,13 +46,14 @@ switch(x) {
 corresponding `case`, until the nearest `break`(or until the end of `switch`).
 * If no case is matched then the `default` code is executed (if it exists).
 
-### **Some few real examples**
+## Some few real examples
 
 * **Simple Play & Pause Switch**
 
 The `switch` statement can be used for multiple branches based on a number or
 string:
-```
+
+```javascript
 switch (movie) {
   case 'play':
     playMovie();
@@ -70,7 +69,8 @@ switch (movie) {
 If you don’t add a `break` statement, the execution will "fall through" to the
 next level. It's essential that you deliberately label the fall through with a
 comment if you really meant it to aid debugging:
-```
+
+```javascript
 switch (movie) {
   case 'play': // fallthrough
   case 'pause':
@@ -84,7 +84,8 @@ switch (movie) {
 The default clause is optional. You can have expressions in both the switch part
 and the cases if you like; comparisons take place between the two using the
 `===` operator:
-```
+
+```javascript
 switch (3 + 7) {
   case 5 + 5:
     correct();
@@ -96,7 +97,7 @@ switch (3 + 7) {
 
 * **Simple Maths Calc Switch**
 
-```
+```javascript
 let average = 2 + 6;
 
 switch (average) {
@@ -114,18 +115,17 @@ switch (average) {
 }
 ```
 
-Here the `switch` starts to compare `average `from the first `case` variant that
+Here the `switch` starts to compare `average` from the first `case` variant, that
 is `4`. The match fails.
 
-Then `8`. That’s a match, so the execution starts from `case 8`until the nearest
+Then `8`. That’s a match, so the execution starts from `case 8` until the nearest
 `break`.
 
-If there is no **`break`** then the execution continues with the next
-**`case`** without any checks.
+If there is no **`break`**, then the execution continues with the next **`case`** without any checks.
 
 Here is an example without `break`:
 
-```
+```javascript
 let average = 2 + 6;
 
 switch (average) {
@@ -141,9 +141,9 @@ switch (average) {
 ```
 
 
-In the example above we’ll see sequential execution of three `alerts`:
+In the example above, we’ll see the sequential execution of three `alerts`:
 
-```
+```javascript
 alert( 'Exactly!' );
 alert( 'Too big' );
 alert( "Incorrect values!" );
@@ -157,6 +157,7 @@ The getDay() method returns the weekday as a number between 0 and 6.
 
 This example uses the weekday number to calculate the weekday name:
 
+```javascript
     switch (new Date().getDay()) {
       case 0:
         day = "Sunday";
@@ -179,12 +180,13 @@ This example uses the weekday number to calculate the weekday name:
       case 6:
         day = "Saturday";
     }
+```
 
-The result of day will be the current weekday in day format
+The result of the `day` will be the current weekday in day format.
 
-PS: This would change according to when you’re reading this article
+PS: This would change according to when you’re reading this article.
 
-I wrote this artcle on 01/04/2019 which is a Friday, so the result would be:
+I wrote this article on 01/04/2019, which is a Friday, so the result would be:
 
     Friday
 
@@ -201,15 +203,16 @@ more like an else statement:
         text = "Today is Sunday";
         break; 
       default: 
-        text = "Its not weekend yet!";
+        text = "It's not the weekend yet!";
     }
 
-The result of text will be:
+The result of the text will be:
 
-    Its not weekend yet!
+    It's not the weekend yet!
 
 The **default** case does not have to be the last case in a switch block:
 
+```javascript
     switch (new Date().getDay()) {
       default: 
         text = "Its not weekend yet!";
@@ -220,13 +223,13 @@ The **default** case does not have to be the last case in a switch block:
       case 0:
         text = "Today is Sunday";
     }
+```
 
-> **If default is not the last case in the switch block, remember to end the
-> default case with a break.**
+> If the `default` is not the last case in the switch block, remember to end the default case with a break.
 
-### **Conclusion**
+## Conclusion
 
-There are so many practical examples of switch cases, you can head
+There are so many practical examples of switch cases. You can head
 [here ](https://javascript.info/switch)to learn more about switch cases.
 
 Thanks for reading!
