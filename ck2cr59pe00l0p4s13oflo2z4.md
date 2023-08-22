@@ -1,4 +1,12 @@
-## How to Test a Pull Request Locally Before Merging.
+---
+title: "How to Test a Pull Request Locally Before Merging."
+datePublished: Sat Nov 10 2018 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck2cr59pe00l0p4s13oflo2z4
+slug: how-to-test-a-pull-request-locally-before-merging
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1572408028546/Idyeva4a5.png
+tags: github, programming, git
+
+---
 
 So your repository got a new Pull Request?, You don't want to merge it before
 testing it out yourself locally on your machine. How do you go about it?
