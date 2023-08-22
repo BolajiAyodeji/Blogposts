@@ -1,4 +1,12 @@
-## Image Optimization and Transformation with Cloudinary
+---
+title: "Image Optimization and Transformation with Cloudinary"
+datePublished: Fri Mar 06 2020 06:34:55 GMT+0000 (Coordinated Universal Time)
+cuid: ck7ft0r9100p7nds1ja70s9mu
+slug: image-optimization-and-transformation-with-cloudinary
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1583408343397/F3l527TTd.png
+tags: optimization, programming, performance, images, cloudinary
+
+---
 
 The web is now dominated with more visual content than ever hence the need to consider ways of delivering these images with the smallest possible file size while maintaining optimal visual quality.
 
