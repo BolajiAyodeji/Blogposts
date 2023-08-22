@@ -8,9 +8,7 @@ tags: github, programming, version-control, git, til
 
 ---
 
-To create a useful revision history, teams should first agree on a commit message convention to use, and this also applies to personal projects.
-
-Recently I asked a question on [Hashnode](https://hashnode.com): **"Which commit message convention do you use at work?"** and I got quite some amazing responses with users explaining the conventions they use at work and for their personal projects.
+To create a useful revision history, teams should first agree on a commit message convention to use, and this also applies to personal projects. Recently I asked a question on [Hashnode](https://hashnode.com): **"Which commit message convention do you use at work?"** and I got quite some amazing responses with users explaining the conventions they use at work and for their personal projects.
 
 %[https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g] 
 
@@ -142,25 +140,41 @@ Resolves: #123
 Looks great, right? Here's how you can make yours great too:
 
 1. Specify the type of commit with a starting short phrase and/or emoji:
-
-    * **feat**: The new feature you're adding to a particular application.
-    * **fix**: A bug fix.
-    * **style**: Additions and updates related to styling.
-    * **refactor**: Refactoring a specific section of the codebase.
-    * **test**: Everything related to testing.
-    * **docs**: Everything related to documentation.
-    * **chore**: Regular code maintenance.
     
+    * **feat**: The new feature you're adding to a particular application.
+        
+    * **fix**: A bug fix.
+        
+    * **style**: Additions and updates related to styling.
+        
+    * **refactor**: Refactoring a specific section of the codebase.
+        
+    * **test**: Everything related to testing.
+        
+    * **docs**: Everything related to documentation.
+        
+    * **chore**: Regular code maintenance.
+        
 2. Separate the subject from the body with a blank line.
+    
 3. Your commit message should not contain any whitespace error.
+    
 4. Remove unnecessary punctuation marks.
+    
 5. Do not end the subject line with a period.
+    
 6. Capitalize the subject line and each paragraph.
+    
 7. Use the imperative mood in the subject line (e.g., Fix issue…).
+    
 8. Use the body to explain what changes you have made and why you made them.
+    
 9. Do not assume the reviewer understands what the original problem was, ensure you add it.
+    
 10. Do not think your code is self-explanatory.
+    
 11. Follow the commit convention defined by your team.
+    
 
 ## Conclusion
 
