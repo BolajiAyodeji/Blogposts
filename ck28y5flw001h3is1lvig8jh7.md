@@ -140,7 +140,6 @@ switch (average) {
 }
 ```
 
-
 In the example above, we’ll see the sequential execution of three `alerts`:
 
 ```javascript
@@ -195,6 +194,7 @@ I wrote this article on 01/04/2019, which is a Friday, so the result would be:
 The **default** keyword specifies the code to run if there is no case match,
 more like an else statement:
 
+```javascript
     switch (new Date().getDay()) {
       case 6:
         text = "Today is Saturday";
@@ -205,10 +205,9 @@ more like an else statement:
       default: 
         text = "It's not the weekend yet!";
     }
+```
 
-The result of the text will be:
-
-    It's not the weekend yet!
+The result of the text will be: **It's not the weekend yet!**.
 
 The **default** case does not have to be the last case in a switch block:
 
