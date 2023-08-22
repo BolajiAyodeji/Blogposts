@@ -1,4 +1,12 @@
-## Building & Deploying your First Progressive Web App
+---
+title: "Building & Deploying your First Progressive Web App"
+datePublished: Sun Mar 31 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ck27ytcso007xcws16cy1py4w
+slug: building-and-deploying-your-first-progressive-web-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1572117512619/3Qi593SFZ.png
+tags: programming, javascript, web-development, pwa
+
+---
 
 Progressive Web Apps are very much in use by some of the biggest companies like
 Twitter, Forbes, Alibaba, Instagram, Flipkart e.t.c and have gained popularity.
