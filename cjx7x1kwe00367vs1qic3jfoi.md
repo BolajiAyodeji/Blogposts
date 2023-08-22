@@ -1,4 +1,12 @@
-## Introduction to Chrome Lighthouse
+---
+title: "Introduction to Chrome Lighthouse"
+datePublished: Sun Jan 27 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjx7x1kwe00367vs1qic3jfoi
+slug: introduction-to-chrome-lighthouse
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1575504347681/6SUDjICav.png
+tags: optimization, web, devtools, extension, chrome-cje9acbzs06imiqwu8stwnf8l
+
+---
 
 Chrome Lighthouse has been around for a while now, but what if I ask you to
 explain what it does can you explain vividly?
