@@ -1,4 +1,12 @@
-## Manipulating Arrays in JavaScript
+---
+title: "Manipulating Arrays in JavaScript"
+datePublished: Sun Feb 03 2019 23:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cjvuuty3500354js1sba6z6yr
+slug: manipulating-arrays-in-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1558265131586/yM4trblkD.png
+tags: ecmascript6, dev, javascript, es6, array
+
+---
 
 Arrays have become an important part of any programming language. 
 In this article, I would show you various methods of manipulating arrays in
