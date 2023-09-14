@@ -139,7 +139,7 @@ Code samples for DevRel:
 
 Content and documentation samples for DevRel:
 
-* [She Inspires Series on Hashnode](https://hashnode.com/n/she-inspires).
+* [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
     
 * [A step-by-step manual configuration CLI reference guide](https://docs.commercelayer.io/core/readme/manual-configuration).
     
@@ -179,6 +179,7 @@ Teaching/Workshops/Podcast/Public speaking:
 * 🎙️ Sustain OSS Episode 131: Bolaji Ayodeji on Open Source Community Africa ([podcast](https://podcast.sustainoss.org/131)).
     
 * 🎙️ Web Standards and Future Trends: Staying Ahead in the Evolving Web Landscape ([podcast](https://podcasters.spotify.com/pod/show/favfront-end-dev/episodes/Web-Standards-and-Future-Trends-Staying-Ahead-in-the-Evolving-Web-Landscape-with-Bolaji-Ayodeji-e276atn/a-a5g0o6)).
+    
 
 ---
 
