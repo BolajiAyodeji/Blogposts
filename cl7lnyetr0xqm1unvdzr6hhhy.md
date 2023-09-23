@@ -1,4 +1,12 @@
-## How to Deploy a Machine Learning Model to the Web
+---
+title: "How to Deploy a Machine Learning Model to the Web"
+datePublished: Sat Sep 03 2022 08:49:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl7lnyetr0xqm1unvdzr6hhhy
+slug: how-to-deploy-a-machine-learning-model-to-the-web
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1662149984922/RmOWyTeB_.png
+tags: python, web-development, machine-learning, cloud-computing, flask
+
+---
 
 One essential and last phase of the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) data framework is **deployment**. The key focus in this phase is the usability of the developed model by intended users or customers. Depending on the type of solution and use case, this can involve deploying and integrating the model on any medium like the web, a mobile application, a hardware embedded system, etc. While this "sounds easy", many junior ML engineers find it daunting to deploy their projects on the web for their intended users to test and for their solutions to solve their users' problems.
 
@@ -15,7 +23,7 @@ Sounds like something you want to learn? Then read on :)
 
 ## What's a Machine Learning Model?
 
-A machine learning model is a file that has been trained using specific data to recognize certain types of similar patterns and make informed predictions. You provide a model with a set of data and train it with some algorithms. When you introduce a new set of data, the model will use learned knowledge to recognize the new data set. This is typically what happens with Face recognition security systems where the device recognizes your face as a human face, not an object. Another example is a recommendation system, like in the demo I built for this tutorial. You will provide the model with multiple words associated with an output class (either positive or negative). The model will then learn from them so that when you provide a new sentence, the model can determine if it is positive or negative.
+A machine learning model is a file that has been trained using specific data to recognize certain types of similar patterns and make informed predictions. You provide a model with a set of data and train it with some algorithms. When you introduce a new set of data, the model will use learned knowledge to recognize the new data set. This is typically what happens with Face recognition security systems, where the device recognizes your face as a human face, not an object. Another example is a recommendation system, like in the demo I built for this tutorial. You will provide the model with multiple words associated with an output class (either positive or negative). The model will then learn from them so that when you provide a new sentence, the model can determine if it is positive or negative.
 
 ![Screenshot 2022-09-01 at 8.22.44 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662060176395/usnmOCI3S.png)
 
@@ -310,8 +318,8 @@ And that's pretty much it! You can explore the demo using [this link](https://mo
 
 ## Conclusion
 
-You can build a web application for your machine learning model using any web framework of your choosing, depending on the technology your model is built with. For Python, you can also consider other frameworks like Django, or if you're building with [Tensorflow](https://www.tensorflow.org/js)—a library that lets you create, train, and use trained machine learning models in Javascript, you can use frameworks like Reactjs (web) or React Native (mobile) to deploy your stuff to your end users.
+You can build a web application for your machine learning model using any web framework of your choosing, depending on the technology your model is built with. For Python, you can also consider other frameworks like Django, or if you're building with [Tensorflow](https://tensorflow.org/js)—a library that lets you create, train, and use trained machine learning models in Javascript, you can use frameworks like Reactjs (web) or React Native (mobile) to deploy your stuff to your end users.
 
-If you want to stick with Python completely, you can consider building a REST API using a framework like [Fast API](https://fastapi.tiangolo.com/tutorial) and consume that in your JavaScript, Reactjs, Vuejs, etc. application. @Youngestdev wrote the perfect book for you on [how to build Python Web APIs with FastAPI](https://www.amazon.com/Building-Python-APIs-FastAPI-high-performance/dp/1801076634); you should get a copy and read it :winks:. Another exciting alternative is [Gradio](https://gradio.app)—the fastest way to demo your machine learning model with a friendly web interface so anyone can use it anywhere. @abdulsamodazeez wrote an insightful piece around [how to deploy to Gradio](https://abdulsamodazeez.com/how-to-build-a-machine-learning-web-app-in-python-using-gradio); you should read it.
+If you want to stick with Python completely, you can also build a REST API using [Fast API](https://fastapi.tiangolo.com/tutorial) and consume that in your JavaScript, Reactjs, Vuejs, etc. application (like we just did). @Youngestdev wrote the perfect book for you on [how to build Python Web APIs with FastAPI](https://www.amazon.com/Building-Python-APIs-FastAPI-high-performance/dp/1801076634); you should get a copy and read it :winks:. Another exciting alternative is [Gradio](https://gradio.app)—the fastest way to demo your machine learning model with a friendly web interface so anyone can use it anywhere. @abdulsamodazeez wrote an insightful piece around [how to deploy to Gradio](https://abdulsamodazeez.com/how-to-build-a-machine-learning-web-app-in-python-using-gradio); you should read it.
 
-And that should be all! I hope you've learned something new or found a link to another resource that can help you become a better Machine Learning Engineer. You should use this tutorial as a guide to building a web app for your use case; so ensure to [explore the code](https://github.com/BolajiAyodeji/movie_reviews_sentiment_analysis) anytime and rewrite it to suit your needs using your HTML, CSS, JavaScript, and Python knowledge. If you have any further questions, feel free to leave them in the comments, and I'll respond as soon as possible. Cheers! 💙
+And that should be all! I hope you've learned something new or found a link to another resource that can help you become a better Machine Learning Engineer. You should use this tutorial as a guide to building a web app for your use case, so be sure to [explore the code](https://github.com/BolajiAyodeji/movie_reviews_sentiment_analysis) anytime and rewrite it to suit your needs using your HTML, CSS, JavaScript, and Python knowledge. If you have any further questions, feel free to leave them in the comments, and I'll respond as soon as possible. Cheers! 💙
