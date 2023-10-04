@@ -160,7 +160,9 @@ Content and documentation samples for DevRel:
 
 Teaching/Workshops/Podcast/Public speaking:
 
-* 👨🏾‍🏫 Building an Ecommerce Solution with Commerce Layer Demo Stores ([workshop slides](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop)).
+* 👨🏾‍🏫 Deploying Machine Learning Models to the Web ([workshop material](https://github.com/BolajiAyodeji/deploy-ml-web-workshop)).
+
+* 👨🏾‍🏫 Building an Ecommerce Solution with Commerce Layer Demo Stores ([workshop material](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop)).
     
 * 👨🏾‍🏫 Anatomy of the Web and Version Control ([workshop slides](https://slides.com/bolajiayodeji/anatomy-of-the-web-and-version-control)).
     
