@@ -154,6 +154,8 @@ Content and documentation samples for DevRel:
 * [A comprehensive guide to Commerce Layer webhooks](https://commercelayer.io/blog/a-comprehensive-guide-to-commerce-layer-webhooks).
     
 * [How to send templated emails with Commerce Layer and SendGrid](https://commercelayer.io/blog/how-to-send-templated-emails-with-commerce-layer-and-sendgrid).
+
+* Product overview video: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
     
 
 ---
