@@ -8,7 +8,7 @@ tags: developer-relations, portfolio, software-engineering
 
 ---
 
-I'm officially back in the job market and hunting for my next gig! I'm keeping an open mind about the type of company and technology industry I'd like to work with next; however, I'm looking for full-time **Developer Advocate**, **Developer Relations Engineer**, or **Developer Experience Engineer** roles with a strong focus on technical integrations (JavaScript/Python), developer education, open-source, documentation, content production/marketing, developer programs management, workshops/public speaking, and developer community management.
+I'm officially back in the job market and hunting for my next gig! I'm keeping an open mind about the type of company and technology industry I'd like to work with next; however, I'm looking for full-time remote **Developer Advocate**, **Developer Relations Engineer**, **Developer Experience Engineer**, or **Solutions Engineer** roles with a strong focus on technical integrations (JavaScript/Python), developer education, open-source, documentation, content production/marketing, developer programs management, workshops/public speaking, and developer community management.
 
 I will spend the next weeks hunting for new opportunities, interviewing, exploring new stuff, doing some open-source work, and shipping new content. I've had quite some projects on my backlog that I didn't get to yet, and I'd use the extra free time I have now to get to some of them. This includes revamping a couple of old OSS projects, open-sourcing some private repos, sharing my knowledge through new content on my blog, continuing to run my [newsletter](https://bawd.bolajiayodeji.com), finally starting to create/edit technical educational videos for my [YouTube channel](https://youtube.com/c/bolajiayodeji), upskilling in different capacities, and maybe live streaming Chess with a couple of acquaintances/strangers. The next couple of weeks will be an exciting roller coaster for me, and I look forward to seeing how it turns out.
 
@@ -154,7 +154,7 @@ Content and documentation samples for DevRel:
 * [A comprehensive guide to Commerce Layer webhooks](https://commercelayer.io/blog/a-comprehensive-guide-to-commerce-layer-webhooks).
     
 * [How to send templated emails with Commerce Layer and SendGrid](https://commercelayer.io/blog/how-to-send-templated-emails-with-commerce-layer-and-sendgrid).
-
+    
 * Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
     
 
@@ -163,7 +163,7 @@ Content and documentation samples for DevRel:
 Teaching/Workshops/Podcast/Public speaking:
 
 * 👨🏾‍🏫 Deploying Machine Learning Models to the Web ([workshop material](https://github.com/BolajiAyodeji/deploy-ml-web-workshop)).
-
+    
 * 👨🏾‍🏫 Building an Ecommerce Solution with Commerce Layer Demo Stores ([workshop material](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop)).
     
 * 👨🏾‍🏫 Anatomy of the Web and Version Control ([workshop slides](https://slides.com/bolajiayodeji/anatomy-of-the-web-and-version-control)).
