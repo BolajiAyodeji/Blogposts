@@ -176,9 +176,9 @@ Teaching/Workshops/Podcast/Public speaking:
     
 * 🎤 This Dot Media State of Web Performance 2/22/22 ([video](https://www.youtube.com/watch?v=yMbUJtA5BVU)).
     
-* 🎤 Building Composable Commerce on the Cloud for Emerging Markets ([slides](https://slides.com/bolajiayodeji/building-composable-commerce-on-the-cloud-for-emerging-markets))
+* 🎤 Building Composable Commerce on the Cloud for Emerging Markets ([slides](https://slides.com/bolajiayodeji/building-composable-commerce-on-the-cloud-for-emerging-markets)).
     
-* 🎤 Headless Commerce done right, with Commerce Layer ([slides](https://slides.com/bolajiayodeji/headless-commerce-done-right-with-commerce-layer) | [video](https://youtu.be/lOsprXNBrRc))
+* 🎤 Headless Commerce done right, with Commerce Layer ([slides](https://slides.com/bolajiayodeji/headless-commerce-done-right-with-commerce-layer) | [video](https://youtu.be/lOsprXNBrRc)).
     
 * 🎙️ Sustain OSS Episode 131: Bolaji Ayodeji on Open Source Community Africa ([podcast](https://podcast.sustainoss.org/131)).
     
