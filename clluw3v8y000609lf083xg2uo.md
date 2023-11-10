@@ -152,10 +152,10 @@ Here are some notable and publicly available samples of my DevRel, content creat
 * [A comprehensive guide to Commerce Layer webhooks](https://commercelayer.io/blog/a-comprehensive-guide-to-commerce-layer-webhooks).
     
 * [How to send templated emails with Commerce Layer and SendGrid](https://commercelayer.io/blog/how-to-send-templated-emails-with-commerce-layer-and-sendgrid).
-    
-* Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
 
 * [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
+    
+* Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
 
 ---
 
