@@ -138,8 +138,6 @@ Here are some notable and publicly available samples of my DevRel, content creat
 ---
 
 ### Content and documentation samples:
-
-* [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
     
 * [A step-by-step manual configuration CLI reference guide](https://docs.commercelayer.io/core/readme/manual-configuration).
     
@@ -156,7 +154,8 @@ Here are some notable and publicly available samples of my DevRel, content creat
 * [How to send templated emails with Commerce Layer and SendGrid](https://commercelayer.io/blog/how-to-send-templated-emails-with-commerce-layer-and-sendgrid).
     
 * Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
-    
+
+* [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
 
 ---
 
