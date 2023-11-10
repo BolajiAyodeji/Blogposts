@@ -114,7 +114,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
 
 ---
 
-Code samples for DevRel:
+### Code samples:
 
 * You can find all my code, documentation, and other contributions to personal and external OSS projects on [GitHub](https://github.com/BolajiAyodeji).
     
@@ -137,7 +137,7 @@ Code samples for DevRel:
 
 ---
 
-Content and documentation samples for DevRel:
+### Content and documentation samples:
 
 * [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
     
@@ -160,7 +160,7 @@ Content and documentation samples for DevRel:
 
 ---
 
-Teaching/Workshops/Podcast/Public speaking:
+### Teaching/Workshops/Podcast/Public speaking:
 
 * 👨🏾‍🏫 Deploying Machine Learning Models to the Web ([workshop material](https://github.com/BolajiAyodeji/deploy-ml-web-workshop)).
     
@@ -187,7 +187,7 @@ Teaching/Workshops/Podcast/Public speaking:
 
 ---
 
-Courses:
+### Courses:
 
 I organized a [Software Engineering BootCamp](https://tau.edu.ng/news-page.php?i=75&a=tau-taico-to-host-maiden-software-engineering-bootcamp) at [Thomas Adewumi University](https://tau.edu.ng) in 2022 for their university and high school students that introduced them to key areas of Software Engineering, such as Data Science, Machine Learning, and Full-stack Web Development. Aside from organizing and managing the entire BootCamp/Curriculum, I taught the Anatomy of the Web and Version Control class.
 
@@ -199,7 +199,7 @@ Although not publicly visible (only visible to registered students), I partnered
 
 ---
 
-Extra community and open-source contributions:
+### Extra community and open-source contributions:
 
 I'm currently a core team member and the community manager for [Open Source Community Africa](https://oscafrica.org), a community for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally. I manage the digital community on Discord of 4000+ members, co-organizing and facilitating virtual community events, managing communications via newsletters and blog posts, preparing fiscal year budgets, preparing community/event data visualization/reports, facilitating community partnerships with companies like GitHub, SustainOSS, Propel, TalentQL, etc., supporting community members to participate in OSS programs like Hacktoberfest, GSOC, GSOD, Outreachy, etc., and running the [Chapters program](https://oscafrica.org/community) that spans 30+ chapters in three continents of Africa. Over the years, we have had commendable community growth and results of members contributing to OSS, creating OSS, and advancing their careers.
 
