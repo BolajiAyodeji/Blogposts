@@ -452,7 +452,7 @@ This is a basic use case of CI/CD. For more extensive software, you would have a
 
 The scheduling would be handled with something called a Cron Job. This is the standard method of scheduling specific tasks on a server at fixed times. At the right time or interval, certain tasks (jobs) will be executed. If you're new to this concept, you might be able to visualize how this will work based on our Profile README use case. It doesn't make sense to update the README file every second since I'm not publishing new content every second. To avoid wasting resources, setting up a Cron Job to execute the logic daily or even weekly is ideal. With this, a user will still get the most recent content. You can adjust the schedule to fit your needs if you're doing this for another use case.
 
-Cron jobs are composed of expressions. An expression includes a string of five fields (`* * * * *`) which will contain numbers and some special characters. The character asterisk (***) represents any value, comma (,****) represents* ***a list of values****, hyphen (-) represents* ***a range of values****, and slash (/*\*) represents **a step of values**. Each field represents the following:
+Cron jobs are composed of expressions. An expression includes a string of five fields (`* * * * *`) which will contain numbers and some special characters. The character asterisk (*****) represents **any value**, comma (**,**) represents **a list of values**, hyphen (**-**) represents **a range of values**, and slash (**\**) represents **a step of values**. Each field represents the following:
 
 1. Minute (0 - 59).
     
