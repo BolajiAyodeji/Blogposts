@@ -10,7 +10,7 @@ tags: rss, github, javascript, nodejs, markdown, typescript, github-api, github-
 
 Some years ago, GitHub introduced the new README Profile feature that allowed GitHub users to pin a markdown file on their profile using a special repository named after their GitHub username. Since then, developers have used this file as a quick portfolio and for highlighting their achievements. I wrote [an article](https://blog.bolajiayodeji.com/how-to-add-a-readme-file-to-your-github-profile) shortly after the release to share how to set it up and highlight some cool profiles I had seen. This tutorial is a sequel to that article, and I will share how I took my GitHub README Profile to the next level with the power of scripting and CI/CD automation.
 
-![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701643614721/eb0Mwocec.png)
+![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701643614721/eb0Mwocec.png align="left")
 
 In this article, you'll learn how to automate your GitHub README Profile so that it can update itself anytime you want. We will make this possible using a custom script built with Nodejs/TypeScript, markdown-it library, GitHub API, RSS feeds, and GitHub Actions. If you want to see the code, you can [head to this repository](https://github.com/BolajiAyodeji/BolajiAyodeji), but you should read along to learn one or two things you can apply in other use cases (especially if you're new to writing automated scripts).
 
@@ -18,10 +18,14 @@ In this article, you'll learn how to automate your GitHub README Profile so that
 
 To get the best out of this tutorial, you need to know/do the following:
 
-- Have an existing GitHub account.
-- Read the [first article](https://blog.bolajiayodeji.com/how-to-add-a-readme-file-to-your-github-profile) and create your README profile.
-- Have Nodejs and NPM installed on your computer.
-- Some prior knowledge of the JavaScript programming language.
+* Have an existing GitHub account.
+    
+* Read the [first article](https://blog.bolajiayodeji.com/how-to-add-a-readme-file-to-your-github-profile) and create your README profile.
+    
+* Have Nodejs and NPM installed on your computer.
+    
+* Some prior knowledge of the JavaScript programming language.
+    
 
 ## The Problem
 
@@ -31,9 +35,12 @@ GitHub allows you to pin only six (6) repositories on your profile. I wanted to 
 
 Generally, the README file is written in [markdown](https://markdownguide.org/getting-started?utm_source=https://blog.bolajiayodeji.com), a markup language for creating formatted text. The goal is to simultaneously generate the entire markdown file, including the static and dynamic sections. This includes the badges, open-source statistics, and text descriptions. The new dynamic sections are the following:
 
-- List of selected GitHub repositories.
-- List of my recent blog posts.
-- List of my recent newsletters.
+* List of selected GitHub repositories.
+    
+* List of my recent blog posts.
+    
+* List of my recent newsletters.
+    
 
 ## Getting Started
 
@@ -61,7 +68,7 @@ npm install fs markdown-it rss-parser tsc-watch
 npm install --save-dev @types/node
 ```
 
-I'm using TypeScript and will use `ts` to compile to JavaScript during the build. My `tsconfig.json` and  `package.json` scripts file looks looks like this:
+I'm using TypeScript and will use `ts` to compile to JavaScript during the build. My `tsconfig.json` and `package.json` scripts file looks looks like this:
 
 ```json
 // tsconfig.json
@@ -197,15 +204,20 @@ export async function fetchGitHubData(repos: Array<string>): Promise<string> {
 
 In the function above, we loop through the array, fetch data for all the repositories, and extract the following fields:
 
-- `html_url`: link to the repository.
-- `full_name`: name of the repository (including my username attached)
-- `stargazers_count`: number of stars.
-- `forks_count`: number of forks.
-- `description`: description of the repository.
+* `html_url`: link to the repository.
+    
+* `full_name`: name of the repository (including my username attached)
+    
+* `stargazers_count`: number of stars.
+    
+* `forks_count`: number of forks.
+    
+* `description`: description of the repository.
+    
 
 We then use the data to render an HTML list element (`<li>`) for each repository in the array, join all the lists together, add an additional static list element with custom text, and return an unordered HTML list element (`<ul>`). The final result should look like this:
 
-![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701722479958/LwGreLLVS.png)
+![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701722479958/LwGreLLVS.png align="left")
 
 This function is useless for now, but we will use it later in `src/app.ts` to render the markdown. Let's proceed!
 
@@ -219,7 +231,7 @@ Since both RSS feeds are similar in structure, I can create a `fetchRssData()` f
 
 The XML looks like this ([view the image below live for a better experience](https://blog.bolajiayodeji.com/rss.xml)):
 
-![Screenshot of the RSS feed of my blog](https://cdn.hashnode.com/res/hashnode/image/upload/v1701638268459/nWfEscD3g.png)
+![Screenshot of the RSS feed of my blog](https://cdn.hashnode.com/res/hashnode/image/upload/v1701638268459/nWfEscD3g.png align="left")
 
 The parsed version looks like this:
 
@@ -282,13 +294,16 @@ export async function fetchRssData(url: string): Promise<string> {
 
 In the function above, we use the RSS link to fetch the data, extract just the first five items (posts), and extract the following fields:
 
-- `pubDate`: timestamp for when the content was published.
-- `link`: link to the post.
-- `title`: title of the post.
+* `pubDate`: timestamp for when the content was published.
+    
+* `link`: link to the post.
+    
+* `title`: title of the post.
+    
 
 We then use the data to render an HTML list element (`<li>`) for each published post, do some date formatting, join all the lists together, add an additional static list element with custom text, and return an unordered HTML list element (`<ul>`). The final result should look like this:
 
-![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701723020483/KzTrsaasQ.png)
+![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701723020483/KzTrsaasQ.png align="left")
 
 ## Generating the Final Markdown File
 
@@ -421,7 +436,7 @@ Here, I manually add all the static markdown content that existed before (text, 
 
 Now, to the cool part! So far, the major work has been done, and if I run `npm run build` and `npm run start` locally, a new `README.md` file will be generated, including any changes that come from the API and RSS feeds. But I shouldn't have to do this manually every time I want to change something, right? So what can we do?
 
-![A Meme from Money Heist showing the casts in a classroom](https://cdn.hashnode.com/res/hashnode/image/upload/v1701642047536/ARFND1eby.jpg)
+![A Meme from Money Heist showing the casts in a classroom](https://cdn.hashnode.com/res/hashnode/image/upload/v1701642047536/ARFND1eby.jpg align="left")
 
 That's where CI/CD and cron jobs come in.
 
@@ -437,13 +452,18 @@ This is a basic use case of CI/CD. For more extensive software, you would have a
 
 The scheduling would be handled with something called a Cron Job. This is the standard method of scheduling specific tasks on a server at fixed times. At the right time or interval, certain tasks (jobs) will be executed. If you're new to this concept, you might be able to visualize how this will work based on our Profile README use case. It doesn't make sense to update the README file every second since I'm not publishing new content every second. To avoid wasting resources, setting up a Cron Job to execute the logic daily or even weekly is ideal. With this, a user will still get the most recent content. You can adjust the schedule to fit your needs if you're doing this for another use case.
 
-Cron jobs are composed of expressions. An expression includes a string of five fields (`* * * * *`) which will contain numbers and some special characters. The character asterisk (*****) represents **any value**, comma (**,**) represents **a list of values**, hyphen (**-**) represents **a range of values**, and slash (**/**) represents **a step of values**. Each field represents the following:
+Cron jobs are composed of expressions. An expression includes a string of five fields (`* * * * *`) which will contain numbers and some special characters. The character asterisk (***) represents any value, comma (,****) represents* ***a list of values****, hyphen (-) represents* ***a range of values****, and slash (/*\*) represents **a step of values**. Each field represents the following:
 
 1. Minute (0 - 59).
+    
 2. Hour (0 - 23).
+    
 3. Day of the month (1 - 31).
+    
 4. Month (1 - 12).
+    
 5. Day of the week (0 - 6 with 0 being Sunday).
+    
 
 A cron expression `* * * * *` will mean run every minute, `*/30 * * * *` will mean run every 30 minutes, `*/30 7 * * *` will mean run every 30 minutes between 07:00 and 07:59, `*/30 7-10 * * *` will mean run every 30 minutes between 07:00 and 10:59, `* 12-18 * * *` will mean run every minute between 12:00 and 18:00, `0 12-18 * * *` will mean run hourly between 12:00 and 18:00, `0 12-18 5 5 *` will mean run hourly between 12:00 and 18:00 on the 5th day of March only, `0 12 * * *` will mean run daily at 12:00, etc. There are so many permutations, and if you're interested, you can create, test, and practice different cron expressions using services like [Cron Expression To Go](https://cronexpressiontogo.com?utm_source=https://blog.bolajiayodeji.com) or [Crontab Guru](https://crontab.guru?utm_source=https://blog.bolajiayodeji.com).
 
@@ -486,13 +506,13 @@ jobs:
           git push
 ```
 
-Here, I configure GitHub Actions to set the name of the build, set the determinant of the pipeline (a cron schedule), set the cron schedule to run 06:00 AM daily, add some steps, install all the required dependencies, run the `npm start` command, generate the new `README.md` file, and push the changes using Git (if there are any changes in the file). If no changes exist, the process terminates, and no commit is pushed.
+Here, I configure GitHub Actions to set the name of the build, set the determinant of the pipeline (a cron schedule), set the cron schedule to run 06:00 AM daily (GitHub’s cron schedule runs with the UTC timezone), add some steps, install all the required dependencies, run the `npm start` command, generate the new `README.md` file, and push the changes using Git (if there are any changes in the file). If no changes exist, the process terminates, and no commit is pushed.
 
-If you push the entire code to GitHub, the build will run automatically in GitHub Actions upon each push. But also, it will run on its own every day as scheduled. You can see the log of all builds in the "Actions" tab of the repository. 
+If you push the entire code to GitHub, the build will run automatically in GitHub Actions upon each push. But also, it will run on its own every day as scheduled. You can see the log of all builds in the "Actions" tab of the repository.
 
-![A screenshot of a GitHub Actions log](https://cdn.hashnode.com/res/hashnode/image/upload/v1701706236607/3gwLaWAZa.png)
+![A screenshot of a GitHub Actions log](https://cdn.hashnode.com/res/hashnode/image/upload/v1701706236607/3gwLaWAZa.png align="left")
 
-![A screenshot of a GitHub Actions log](https://cdn.hashnode.com/res/hashnode/image/upload/v1701706325157/RsUVQ3VaB.png)
+![A screenshot of a GitHub Actions log](https://cdn.hashnode.com/res/hashnode/image/upload/v1701706325157/RsUVQ3VaB.png align="left")
 
 Also, kindly note that you might experience some delays with GitHub Actions for the first time. Initially, I chose 00:00 as my cron schedule, but it wasn't working. [Research](https://github.com/orgs/community/discussions/52477) showed that sometimes it fails during peak hours, like the first hour of the day when usage is high. I switched to 06:00, which still failed, but started working fine the next day or so. In summary, GitHub Actions can be unpredictable for cron jobs, and you can use a dedicated infrastructure if you need a reliable execution at an exact time. But for this use case, it works just fine once it gets stable (nothing critical is going on here).
 
@@ -500,19 +520,19 @@ Also, kindly note that you might experience some delays with GitHub Actions for 
 
 If you observed, I used a custom `user.email` and `user.name` when setting up the GitHub actions push step. If you use a random email, it will push to GitHub with a non-existent account (no profile picture will be shown). My first thought was to use my actual GitHub account email that will push the changes as myself. But to make things much more neat, I created a [new GitHub account](https://github.com/ba-actions-bot) that acts as a bot. This way, I can tell all the commits that were auto-generated from the script from mine.
 
-![Screenshot of a GitHub commits page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710367914/xv95vopOV.png)
+![Screenshot of a GitHub commits page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710367914/xv95vopOV.png align="left")
 
-To create the account, you can use your existing Gmail (if you don't have Gmail, use any email). Google allows you to create email aliases and receive emails from all in your inbox. All you must do is add a plus (+) sign after your email address and some custom text. Generally, I use this hack to create multiple email aliases for my Gmail so I can easily track specific emails based on context (e.g. if the email is bolaji@gmail.com, an alias can be bolaji+actionsbot@gmail.com). You're good to go once you create the account and set a nice name/profile picture. If you use this email to configure Git in the GitHub Actions, it will reflect accordingly. 
+To create the account, you can use your existing Gmail (if you don't have Gmail, use any email). Google allows you to create email aliases and receive emails from all in your inbox. All you must do is add a plus (+) sign after your email address and some custom text. Generally, I use this hack to create multiple email aliases for my Gmail so I can easily track specific emails based on context (e.g. if the email is bolaji@gmail.com, an alias can be bolaji+actionsbot@gmail.com). You're good to go once you create the account and set a nice name/profile picture. If you use this email to configure Git in the GitHub Actions, it will reflect accordingly.
 
-![Screenshot of a GitHub commits page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710606078/SqDsscFWC.png)
+![Screenshot of a GitHub commits page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710606078/SqDsscFWC.png align="left")
 
 PS: if you choose to do this with a Gmail alias, ensure to save the password somewhere because if you forget the password and need to log in (maybe to change the profile picture), you won't be able to use the "Forget password" feature with a Gmail alias email address. GitHub's form validation filters it out.
 
-![GitHub's forgot password page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710836502/7SARlHKJI.png)
+![GitHub's forgot password page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701710836502/7SARlHKJI.png align="left")
 
-However, to solve this, manually change the "Backup email address" option to "Only allow primary email" in GitHub's dashboard (Settings > Emails).
+However, to solve this, manually change the "Backup email address" option to "Only allow primary email" in GitHub's dashboard (Settings &gt; Emails).
 
-![GitHub's email seetings page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701712234763/7HILljuwI.png)
+![GitHub's email seetings page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701712234763/7HILljuwI.png align="left")
 
 ## Conclusion
 
@@ -520,6 +540,6 @@ That's about it! Now, you've learned how to automate scripts with CI/CD. If you'
 
 I'm keen to see what you build with this, so please leave a comment with a link to your GitHub README Profile if you do something like this. Remember that this goes beyond markdown files; you can use the automated script idea to do anything else!
 
-![Screenshot of my GitHub profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701721829132/O76tPm8r9.png)
+![Screenshot of my GitHub profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701721829132/O76tPm8r9.png align="left")
 
 I'm happy with the results and I look forward to making more changes in the future as the need arises :). Thanks for reading this far; cheers!
