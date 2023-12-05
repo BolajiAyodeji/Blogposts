@@ -8,7 +8,7 @@ tags: rss, github, javascript, nodejs, markdown, typescript, github-api, github-
 
 ---
 
-Some years ago, GitHub introduced the new README Profile feature that allowed GitHub users to pin a markdown file on their profile using a special repository named after their GitHub username. Since then, developers have used this file as a quick portfolio and for highlighting their achievements. I wrote [an article](https://blog.bolajiayodeji.com/how-to-add-a-readme-file-to-your-github-profile) shortly after the release to share how to set it up and highlight some cool profiles I had seen. This tutorial is a sequel to that article, and I will share how I took my GitHub README Profile to the next level with the power of scripting and CI/CD automation.
+Some years ago, GitHub introduced the new Profile README feature that allowed GitHub users to pin a markdown file on their profile using a special repository named after their GitHub username. Since then, developers have used this file as a quick portfolio and for highlighting their achievements. I wrote [an article](https://blog.bolajiayodeji.com/how-to-add-a-readme-file-to-your-github-profile) shortly after the release to share how to set it up and highlight some cool profiles I had seen. This tutorial is a sequel to that article, and I will share how I took my GitHub profile to the next level with the power of scripting and CI/CD automation.
 
 ![Screenshot of my GitHub README Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1701643614721/eb0Mwocec.png align="left")
 
