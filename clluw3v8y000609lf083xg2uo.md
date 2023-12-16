@@ -171,7 +171,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * 🎤 Effective Documentation: The Key to Open Source Growth ([slides](https://slides.com/bolajiayodeji/effective-oss-docs) | [video](https://www.youtube.com/live/eHJZFB7IYWU?feature=share&t=1262)).
     
-* 🎤 What is Headless eCommerce? feat. Bolaji Ayodeji - Effective Product Development #0005 ([video](https://youtu.be/bRlysrKAtek)).
+* 🎤 What is Headless eCommerce? feat. Bolaji Ayodeji - Effective Product Development #0005 ([video](https://youtu.be/bRlysrKAtek&t=25)).
     
 * 🎤 This Dot Media State of Web Performance 2/22/22 ([video](https://www.youtube.com/watch?v=yMbUJtA5BVU)).
     
