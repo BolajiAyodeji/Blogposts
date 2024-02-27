@@ -12,7 +12,7 @@ I'm back in the job market and hunting for my next gig! I'm keeping an open mind
 
 I will spend the next months hunting for new opportunities, interviewing, exploring new stuff, doing some open-source work, and shipping new content. I've had quite some projects on my backlog that I didn't get to yet, and I'd use the extra free time I have now to get to some of them. This includes revamping a couple of old OSS projects, open-sourcing some private repos, sharing my knowledge through new content on my blog, continuing to run my [newsletter](https://bawd.bolajiayodeji.com), finally starting to create/edit technical educational videos for my [YouTube channel](https://youtube.com/c/bolajiayodeji), upskilling in different capacities, and maybe live streaming Chess with a couple of acquaintances/strangers. The next couple of weeks will be an exciting roller coaster for me, and I look forward to seeing how it turns out.
 
-![An image of Bolaji giving a talk at a conference.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692715622837/714ebaec-881b-4d0e-a1ec-25c8d77f3767.jpeg align="center")
+![A collage with some images of Bolaji and some friends/colleagues at different developer conferences.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692802932861/e8402000-2f25-4217-be36-357a9993657d.jpeg align="center")
 
 ## A Little About Me
 
@@ -234,9 +234,7 @@ Here's what a couple of my previous colleagues and industry leaders have to say 
 <div data-node-type="callout-text">I rarely come across energetic talents who stand out like Bolaji. I had the pleasure of supervising Bolaji during his internship at Energy Detectors. His ability get things done fast while maintaining industry standard is unlike any I've seen before. I totally recommend working with him. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/salaudeenabdulrahman" style="pointer-events: none">Abdul Rahman</a>.</div>
 </div>
 
-![A collage with some images of Bolaji and some friends/colleagues at different developer conferences.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692802932861/e8402000-2f25-4217-be36-357a9993657d.jpeg align="center")
-
-Some images of myself with some amazing persons/friends/colleagues at different developer conferences.
+![An image of Bolaji giving a talk at a conference.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692715622837/714ebaec-881b-4d0e-a1ec-25c8d77f3767.jpeg align="center")
 
 ## Contact Me
 
