@@ -108,7 +108,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 ---
 
-### Code Samples
+### Code and Integration Samples
 
 * You can find all my code, documentation, and other contributions to personal and external OSS projects on [GitHub](https://github.com/BolajiAyodeji).
     
