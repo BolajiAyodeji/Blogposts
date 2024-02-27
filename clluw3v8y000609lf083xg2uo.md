@@ -45,7 +45,7 @@ Here are a few reasons that make me a great addition to your team:
 
 My key strengths are:
 
-* Writing code for things that work on the web using JavaScript, TypeScript, and Python programming languages.
+* Writing code for things that work on the web using JavaScript, TypeScript, and Python programming languages and other frameworks.
     
 * Writing code for things that work on embedded systems using Python programming language, OpenCV, and other related libraries.
     
