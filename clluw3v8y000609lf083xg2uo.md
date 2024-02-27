@@ -180,7 +180,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 ---
 
-### Courses
+### Courses and BootCamps
 
 I organized a [Software Engineering BootCamp](https://tau.edu.ng/news-page.php?i=75&a=tau-taico-to-host-maiden-software-engineering-bootcamp) at [Thomas Adewumi University](https://tau.edu.ng) in 2022 for their university and high school students that introduced them to key areas of Software Engineering, such as Data Science, Machine Learning, and Full-stack Web Development. Aside from organizing and managing the entire BootCamp/Curriculum, I taught the Anatomy of the Web and Version Control class.
 
