@@ -117,6 +117,8 @@ Here are some notable and publicly available samples of my DevRel, content creat
 ### Code samples:
 
 * You can find all my code, documentation, and other contributions to personal and external OSS projects on [GitHub](https://github.com/BolajiAyodeji).
+
+* [chat-with-siri](https://github.com/BolajiAyodeji/chat-with-siri) — A text-to-speech audio chatbot built using Nextjs, OpenAI, and ElevenLabs. I worked on the code, documentation, and supporting tutorial to show how developers can leverage generative AI models to provide LLMs audio chat solutions to consumers.
     
 * [commercelayer-sanity-template](https://github.com/commercelayer/commercelayer-sanity-template) — A multi-country ecommerce template built using Commerce Layer API, JavaScript, TypeScript, Nextjs, and Sanity Studio. In my previous role, I worked on the code and documentation to show the strengths of Commerce Layer's API when composed with a headless CMS for managing both commerce and content data in an ecommerce store. I worked on the first version of the project alongside a colleague (Ale!) and began maintaining the project afterwards to ensure it was up-to-date. My recent contributions were:
     
