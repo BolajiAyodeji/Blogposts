@@ -14,13 +14,13 @@ I will spend the next months hunting for new opportunities, interviewing, explor
 
 ![An image of Bolaji giving a talk at a conference.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692715622837/714ebaec-881b-4d0e-a1ec-25c8d77f3767.jpeg align="center")
 
-## A little about me
+## A Little About Me
 
 I’m a Software Engineer (focusing on JavaScript/Python web engineering, data, and embedded systems—Raspberry Pi mainly), Content Creator, Teacher, and Developer Advocate with five (5) years of professional working experience. I’m very passionate about sharing knowledge, educating people about technology and helping them become better at what they do. I do this by writing technical articles on my blog, running a weekly newsletter, building open-source projects, organizing/speaking at meetups/conferences, and building technical communities. Being able to solve problems systematically and efficiently is my greatest strength. Using a hands-on technical approach paired with strong communication and management skills, I collaborate with people, establish and lead teams, professionally develop support, enhance operations, and manage information systems, communities, and solutions.
 
 As a developer advocate, I've spent the last years working with outstanding teams, building great developer and API products. This developer relations career portfolio will show you why I would be a valuable addition to your company.
 
-## Why you should hire me
+## Why You Should Hire Me
 
 Here are a few reasons that make me a great addition to your team:
 
@@ -40,7 +40,6 @@ Here are a few reasons that make me a great addition to your team:
     
 * I'm mostly humorous, and people enjoy working with me :).
     
-
 ---
 
 My key strengths are:
@@ -65,7 +64,6 @@ My key strengths are:
     
 * Memes collection and efficient distribution :).
     
-
 ---
 
 As your next Developer Advocate or Developer Experience Engineer, I will bring my software engineering and developer relations experience to:
@@ -92,10 +90,9 @@ As your next Developer Advocate or Developer Experience Engineer, I will bring m
     
 * Track and measure the success and failure of the activities and responsibilities you assign to me, showing the business value of Developer Relations at your company.
     
-
 ---
 
-## DevRel career achievements
+## DevRel Career Achievements
 
 Here are some notable and publicly available samples of my DevRel, content creation, open-source work at my previous companies, non-profit educational commitments, and community engagements.
 
@@ -109,10 +106,9 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * All writings on opensource․com: https://opensource.com/users/bolajiayodeji.
     
-
 ---
 
-### Code samples:
+### Code Samples
 
 * You can find all my code, documentation, and other contributions to personal and external OSS projects on [GitHub](https://github.com/BolajiAyodeji).
     
@@ -134,10 +130,9 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * [twilio-sms-notification](https://github.com/commercelayer/examples/blob/main/webhooks/twilio-sms-notification) — A Nodejs script for sending an SMS notification to customers when an SKU that had finished is back in stock using Commerce Layer Webhooks and Twilio SMS API. I worked on the code, documentation, and supporting tutorial.
     
-
 ---
 
-### Content and documentation samples:
+### Content and Documentation Samples
 
 * [A step-by-step manual configuration CLI reference guide](https://docs.commercelayer.io/core/readme/manual-configuration).
     
@@ -157,10 +152,9 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
     
-
 ---
 
-### Teaching/Workshops/Podcast/Public speaking:
+### Teaching/Workshops/Podcast/Public Speaking
 
 * 👨🏾‍🏫 Deploying Machine Learning Models to the Web ([workshop material](https://github.com/BolajiAyodeji/deploy-ml-web-workshop)).
     
@@ -184,10 +178,9 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * 🎙️ Web Standards and Future Trends: Staying Ahead in the Evolving Web Landscape ([podcast](https://podcasters.spotify.com/pod/show/favfront-end-dev/episodes/Web-Standards-and-Future-Trends-Staying-Ahead-in-the-Evolving-Web-Landscape-with-Bolaji-Ayodeji-e276atn/a-a5g0o6)).
     
-
 ---
 
-### Courses:
+### Courses
 
 I organized a [Software Engineering BootCamp](https://tau.edu.ng/news-page.php?i=75&a=tau-taico-to-host-maiden-software-engineering-bootcamp) at [Thomas Adewumi University](https://tau.edu.ng) in 2022 for their university and high school students that introduced them to key areas of Software Engineering, such as Data Science, Machine Learning, and Full-stack Web Development. Aside from organizing and managing the entire BootCamp/Curriculum, I taught the Anatomy of the Web and Version Control class.
 
@@ -199,7 +192,7 @@ Although not publicly visible (only visible to registered students), I partnered
 
 ---
 
-### Extra community and open-source contributions:
+### Extra Community and Open Source Contributions
 
 I'm currently a core team member and the community manager for [Open Source Community Africa](https://oscafrica.org), a community for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally. I manage the digital community on Discord of 4000+ members, co-organizing and facilitating virtual community events, managing communications via newsletters and blog posts, preparing fiscal year budgets, preparing community/event data visualization/reports, facilitating community partnerships with companies like GitHub, Google OSPO, SustainOSS, Propel, TalentQL, etc., supporting community members to participate in OSS programs like Hacktoberfest, GSOC, GSOD, Outreachy, etc., and running the [Chapters program](https://oscafrica.org/community) that spans 30+ chapters in three continents of Africa. Over the years, we have had commendable community growth and results of members contributing to OSS, creating OSS projects, and advancing their careers.
 
@@ -245,7 +238,7 @@ Here's what a couple of my previous colleagues and industry leaders have to say 
 
 Some images of myself with some amazing persons/friends/colleagues at different developer conferences.
 
-## Contact me
+## Contact Me
 
 Please feel free to share any opportunity you find or referrals; I'd be happy to share my resume on demand. While I look forward to settling somewhere full-time, I'm open to doing short-term contract or consultation work for you or your company/project if your needs fit into any of my strengths. So, if you have anything for me, you can email me at mailtobolaji@gmail.com or DM me on [LinkedIn](https://linkedin.com/in/iambolajiayo) or [X (Twitter)](https://twitter.com/iambolajiayo). Thank you 💙!
 
