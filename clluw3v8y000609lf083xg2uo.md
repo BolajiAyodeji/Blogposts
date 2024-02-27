@@ -117,7 +117,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
 ### Code samples:
 
 * You can find all my code, documentation, and other contributions to personal and external OSS projects on [GitHub](https://github.com/BolajiAyodeji).
-
+    
 * [chat-with-siri](https://github.com/BolajiAyodeji/chat-with-siri) — A text-to-speech audio chatbot built using Nextjs, OpenAI, and ElevenLabs. I worked on the code, documentation, and supporting tutorial to show how developers can leverage generative AI models to provide LLMs audio chat solutions to consumers.
     
 * [commercelayer-sanity-template](https://github.com/commercelayer/commercelayer-sanity-template) — A multi-country ecommerce template built using Commerce Layer API, JavaScript, TypeScript, Nextjs, and Sanity Studio. In my previous role, I worked on the code and documentation to show the strengths of Commerce Layer's API when composed with a headless CMS for managing both commerce and content data in an ecommerce store. I worked on the first version of the project alongside a colleague (Ale!) and began maintaining the project afterwards to ensure it was up-to-date. My recent contributions were:
@@ -140,7 +140,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
 ---
 
 ### Content and documentation samples:
-    
+
 * [A step-by-step manual configuration CLI reference guide](https://docs.commercelayer.io/core/readme/manual-configuration).
     
 * [Commerce Layer Core Concepts](https://commercelayer.io/docs/core-concepts).
@@ -154,10 +154,11 @@ Here are some notable and publicly available samples of my DevRel, content creat
 * [A comprehensive guide to Commerce Layer webhooks](https://commercelayer.io/blog/a-comprehensive-guide-to-commerce-layer-webhooks).
     
 * [How to send templated emails with Commerce Layer and SendGrid](https://commercelayer.io/blog/how-to-send-templated-emails-with-commerce-layer-and-sendgrid).
-
+    
 * [She Inspires Series on Hashnode](https://hashnode.com/series/she-inspires-cjt0d02lq001e7ps2wo420g15).
     
 * Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
+    
 
 ---
 
@@ -225,6 +226,11 @@ Here's what a couple of my previous colleagues and industry leaders have to say 
 ---
 
 > Bolaji has a natural passion for knowledge and a firm grasp of modern FE engineering tools and techniques. He is a self-starter and unique in his ability to confidently transfer knowledge and pen his thoughts in a coherent and succinct manner. I have always known him to be a hardworking and pleasant person to work with. Bolaji’s future is bright and I cannot wait to see all that he will accomplish. —[Joseph Akintola](https://linkedin.com/in/josephakintolayo/), Founder and CEO of [Deposits](https://deposits.inc).
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Bolaji has a natural passion for knowledge and a firm grasp of modern FE engineering tools and techniques. He is a self-starter and unique in his ability to confidently transfer knowledge and pen his thoughts in a coherent and succinct manner. I have always known him to be a hardworking and pleasant person to work with. Bolaji’s future is bright and I cannot wait to see all that he will accomplish. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/josephakintolayo/" style="pointer-events: none">Joseph Akintola</a>, Founder and CEO of <a target="_blank" rel="noopener noreferrer nofollow" href="https://deposits.inc" style="pointer-events: none">Deposits</a>.</div>
+</div>
 
 ---
 
