@@ -200,6 +200,8 @@ I have also been co-organizing the yearly [Open Source Festival](https://festiva
 
 I also actively contribute to [The Good Docs Project](https://thegooddocsproject.dev), where best practice templates and writing instructions for documenting open-source software are created. I worked last on the [Installation Guide Template](https://gitlab.com/tgdp/templates/-/tree/main/installation-guide) alongside a partner in the [Capilano release](https://gitlab.com/tgdp/templates/-/releases/v1.0.0), and I'm currently working on an API Use Cases Template.
 
+---
+
 ## Testimonials
 
 Here's what a couple of my previous colleagues and industry leaders have to say about my work:
@@ -235,6 +237,8 @@ Here's what a couple of my previous colleagues and industry leaders have to say 
 </div>
 
 ![An image of Bolaji giving a talk at a conference.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692715622837/714ebaec-881b-4d0e-a1ec-25c8d77f3767.jpeg align="center")
+
+---
 
 ## Contact Me
 
