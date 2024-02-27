@@ -16,9 +16,7 @@ I will spend the next months hunting for new opportunities, interviewing, explor
 
 ## A little about me
 
-I’m a Software Engineer (focusing on JavaScript/Python web engineering, data, and embedded systems—Raspberry Pi mainly), Content Creator, Teacher, and Developer Advocate with five (5) years of professional working experience.
-
-I’m very passionate about sharing knowledge, educating people about technology and helping them become better at what they do. I do this by writing technical articles on my blog, running a weekly newsletter, building open-source projects, organizing/speaking at meetups/conferences, and building technical communities. Being able to solve problems systematically and efficiently is my greatest strength. Using a hands-on technical approach paired with strong communication and management skills, I collaborate with people, establish and lead teams, professionally develop support, enhance operations, and manage information systems, communities, and solutions.
+I’m a Software Engineer (focusing on JavaScript/Python web engineering, data, and embedded systems—Raspberry Pi mainly), Content Creator, Teacher, and Developer Advocate with five (5) years of professional working experience. I’m very passionate about sharing knowledge, educating people about technology and helping them become better at what they do. I do this by writing technical articles on my blog, running a weekly newsletter, building open-source projects, organizing/speaking at meetups/conferences, and building technical communities. Being able to solve problems systematically and efficiently is my greatest strength. Using a hands-on technical approach paired with strong communication and management skills, I collaborate with people, establish and lead teams, professionally develop support, enhance operations, and manage information systems, communities, and solutions.
 
 As a developer advocate, I've spent the last years working with outstanding teams, building great developer and API products. This developer relations career portfolio will show you why I would be a valuable addition to your company.
 
