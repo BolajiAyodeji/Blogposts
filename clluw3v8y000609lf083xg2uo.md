@@ -4,7 +4,7 @@ datePublished: Mon Aug 28 2023 13:03:08 GMT+0000 (Coordinated Universal Time)
 cuid: clluw3v8y000609lf083xg2uo
 slug: my-developer-advocate-portfolio
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692733408514/2670436e-61a2-4935-99fb-16d7c9c552c7.jpeg
-tags: developer-relations, portfolio, software-engineering
+tags: developer-relations, portfolio, software-engineering, career
 
 ---
 
@@ -213,42 +213,35 @@ I also actively contribute to [The Good Docs Project](https://thegooddocsproject
 
 Here's what a couple of my previous colleagues and industry leaders have to say about my work:
 
----
-
-> It has been my pleasure to know and collaborate with Bolaji for several years now, and to say he is a gem in the tech community would be an understatement. Bolaji stands out as someone who is not only a competent Developer Advocate but one also genuinely cares about uplifting and educating others.
-
-> One of Bolaji's most striking qualities is his passion for sharing and teaching. As he learns, he shares that knowledge, ensuring that others too can benefit. His content, which spans a wide array of tech topics, is a testament to his versatility as a Developer Advocate.
-
-> Apart from his technical acumen, what makes Bolaji an exceptional Developer Advocate is his kind and humble nature. He interacts with everyone with so much respect and humility, creating an environment of trust and collaboration. His track record, from his involvement with leading developer communities to his insightful technical writings, speaks for itself.
-
-> For companies seeking a Developer Advocate or Developer Experience Engineer who will go the extra mile, invest wholeheartedly in community growth, and bridge the gap between product teams and developers with grace and expertise, Bolaji Ayodeji is the one. I am confident that he will continue to make significant positive impacts wherever his journey takes him, and you'd be fortunate to be a part of this story. — [Angie Jones](https://linkedin.com/in/angiejones), Global VP of Developer Relations at [TBD at Block, Inc](https://tbd.website).
-
----
-
-> Bolaji has a natural passion for knowledge and a firm grasp of modern FE engineering tools and techniques. He is a self-starter and unique in his ability to confidently transfer knowledge and pen his thoughts in a coherent and succinct manner. I have always known him to be a hardworking and pleasant person to work with. Bolaji’s future is bright and I cannot wait to see all that he will accomplish. —[Joseph Akintola](https://linkedin.com/in/josephakintolayo/), Founder and CEO of [Deposits](https://deposits.inc).
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">It has been my pleasure to know and collaborate with Bolaji for several years now, and to say he is a gem in the tech community would be an understatement. Bolaji stands out as someone who is not only a competent Developer Advocate but one also genuinely cares about uplifting and educating others. One of Bolaji's most striking qualities is his passion for sharing and teaching. As he learns, he shares that knowledge, ensuring that others too can benefit. His content, which spans a wide array of tech topics, is a testament to his versatility as a Developer Advocate. Apart from his technical acumen, what makes Bolaji an exceptional Developer Advocate is his kind and humble nature. He interacts with everyone with so much respect and humility, creating an environment of trust and collaboration. His track record, from his involvement with leading developer communities to his insightful technical writings, speaks for itself. For companies seeking a Developer Advocate or Developer Experience Engineer who will go the extra mile, invest wholeheartedly in community growth, and bridge the gap between product teams and developers with grace and expertise, Bolaji Ayodeji is the one. I am confident that he will continue to make significant positive impacts wherever his journey takes him, and you'd be fortunate to be a part of this story. — <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/angiejones" style="pointer-events: none">Angie Jones</a>, Global VP of Developer Relations at <a target="_blank" rel="noopener noreferrer nofollow" href="https://tbd.website" style="pointer-events: none">TBD at Block, Inc</a>.</div>
+</div>
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text">Bolaji has a natural passion for knowledge and a firm grasp of modern FE engineering tools and techniques. He is a self-starter and unique in his ability to confidently transfer knowledge and pen his thoughts in a coherent and succinct manner. I have always known him to be a hardworking and pleasant person to work with. Bolaji’s future is bright and I cannot wait to see all that he will accomplish. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/josephakintolayo/" style="pointer-events: none">Joseph Akintola</a>, Founder and CEO of <a target="_blank" rel="noopener noreferrer nofollow" href="https://deposits.inc" style="pointer-events: none">Deposits</a>.</div>
 </div>
 
----
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">I got the opportunity to work alongside Bolaji at Hashnode and it has been an immense learning experience. Bolaji is passionate about what he does and deeply cares the values. He has always been supportive to the team members. He takes his responsibilities seriously and deliver the best result possible. He played a key role in the growth of Hashnode in past here. Personally, I have learned a lot about technical writing and content creation from him and I would always be grateful for that. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/iamshadmirza/" style="pointer-events: none">Shad Mirza</a>, Senior Software Engineer at <a target="_blank" rel="noopener noreferrer nofollow" href="https://hashnode.com" style="pointer-events: none">Hashnode</a>.</div>
+</div>
 
-> I got the opportunity to work alongside Bolaji at Hashnode and it has been an immense learning experience. Bolaji is passionate about what he does and deeply cares the values. He has always been supportive to the team members. He takes his responsibilities seriously and deliver the best result possible. He played a key role in the growth of Hashnode in past here. Personally, I have learned a lot about technical writing and content creation from him and I would always be grateful for that. —[Shad Mirza](https://www.linkedin.com/in/iamshadmirza/), Senior Software Engineer at [Hashnode](https://hashnode.com).
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">I have had the pleasure of working with Bolaji for over 4 years on Open Source Community Africa and I can confidently say that he is one of the most hardworking individuals I have ever worked with. His work ethic is unparalleled, and he has an innate ability to take charge and lead tasks with ease. I have experienced Bolaji take on numerous challenges and handle them all with grace and efficiency. He is always quick to take the lead on new tasks and projects, and his ability to juggle multiple responsibilities is truly remarkable. Additionally, he has an incredible attention to detail and always ensures that everything he works on is of the highest quality. He is a true asset to any organization or company and I feel lucky to have had the opportunity to work with him for so long. — <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/peace-ojemeh-0b5bb2151" style="pointer-events: none">Peace Ojemeh</a>.</div>
+</div>
 
----
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Bolaji is focused, driven and excited about his work. He is a life long learner and a joy to work with. If you need things done with diligence and care, Bolaji is the person to reach out to. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/hauwa-aguillard-24a386150" style="pointer-events: none">Hauwa Aguillard</a>.</div>
+</div>
 
-> I have had the pleasure of working with Bolaji for over 4 years on Open Source Community Africa and I can confidently say that he is one of the most hardworking individuals I have ever worked with. His work ethic is unparalleled, and he has an innate ability to take charge and lead tasks with ease. I have experienced Bolaji take on numerous challenges and handle them all with grace and efficiency. He is always quick to take the lead on new tasks and projects, and his ability to juggle multiple responsibilities is truly remarkable. Additionally, he has an incredible attention to detail and always ensures that everything he works on is of the highest quality. He is a true asset to any organization or company and I feel lucky to have had the opportunity to work with him for so long. — [Peace Ojemeh](https://linkedin.com/in/peace-ojemeh-0b5bb2151).
-
----
-
-> Bolaji is focused, driven and excited about his work. He is a life long learner and a joy to work with. If you need things done with diligence and care, Bolaji is the person to reach out to. —[Hauwa Aguillard](https://linkedin.com/in/hauwa-aguillard-24a386150).
-
----
-
-> I rarely come across energetic talents who stand out like Bolaji. I had the pleasure of supervising Bolaji during his internship at Energy Detectors. His ability get things done fast while maintaining industry standard is unlike any I've seen before. I totally recommend working with him. —[Abdul Rahman](https://linkedin.com/in/salaudeenabdulrahman).
-
----
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">I rarely come across energetic talents who stand out like Bolaji. I had the pleasure of supervising Bolaji during his internship at Energy Detectors. His ability get things done fast while maintaining industry standard is unlike any I've seen before. I totally recommend working with him. —<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/salaudeenabdulrahman" style="pointer-events: none">Abdul Rahman</a>.</div>
+</div>
 
 ![A collage with some images of Bolaji and some friends/colleagues at different developer conferences.](https://cdn.hashnode.com/res/hashnode/image/upload/v1692802932861/e8402000-2f25-4217-be36-357a9993657d.jpeg align="center")
 
