@@ -8,7 +8,7 @@ tags: developer-relations, portfolio, software-engineering, career
 
 ---
 
-I'm back in the job market and hunting for my next gig! I'm keeping an open mind about the type of company and technology industry I'd like to work with next; however, I'm looking for a full-time **Developer Advocate**, **Developer Relations Engineer**, **Developer Experience Engineer**, **Developer Relations Program Manager**, **Solutions Engineer**, **Technical Writer**, **Documentation Engineer**, or other similar developer/customer success roles with focus on technical integrations (JavaScript/Python), developer relations/education, documentation, content production/marketing, and developer programs/community management.
+I'm back in the job market and hunting for my next gig! I'm keeping an open mind about the type of company and technology industry I'd like to work with next; however, I'm looking for a full-time **Developer Advocate**, **Developer Relations Engineer**, **Developer Experience Engineer**, **Developer Relations Program Manager**, **Solutions Engineer**, **Technical Writer**, **Documentation Engineer**, **Community Manager**, or other similar developer/customer success roles with focus on technical integrations (JavaScript/Python), developer relations/education, documentation, content production/marketing, and developer programs/community management.
 
 I will spend the next months hunting for new opportunities, interviewing, exploring new stuff, doing some open-source work, and shipping new content. I've had quite some projects on my backlog that I didn't get to yet, and I'd use the extra free time I have now to get to some of them. This includes revamping a couple of old OSS projects, open-sourcing some private repos, sharing my knowledge through new content on my blog, continuing to run my [newsletter](https://bawd.bolajiayodeji.com), finally starting to create/edit technical educational videos for my [YouTube channel](https://youtube.com/c/bolajiayodeji), upskilling in different capacities, and maybe live streaming Chess with a couple of acquaintances/strangers. The next couple of weeks will be an exciting roller coaster for me, and I look forward to seeing how it turns out.
 
@@ -40,6 +40,7 @@ Here are a few reasons that make me a great addition to your team:
     
 * I'm mostly humorous, and people enjoy working with me :).
     
+
 ---
 
 My key strengths are:
@@ -64,6 +65,7 @@ My key strengths are:
     
 * Memes collection and efficient distribution :).
     
+
 ---
 
 As your next Developer Advocate or Developer Experience Engineer, I will bring my software engineering and developer relations experience to:
@@ -90,6 +92,7 @@ As your next Developer Advocate or Developer Experience Engineer, I will bring m
     
 * Track and measure the success and failure of the activities and responsibilities you assign to me, showing the business value of Developer Relations at your company.
     
+
 ---
 
 ## DevRel Career Achievements
@@ -106,6 +109,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * All writings on opensource․com: https://opensource.com/users/bolajiayodeji.
     
+
 ---
 
 ### Code and Integration Samples
@@ -130,6 +134,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * [twilio-sms-notification](https://github.com/commercelayer/examples/blob/main/webhooks/twilio-sms-notification) — A Nodejs script for sending an SMS notification to customers when an SKU that had finished is back in stock using Commerce Layer Webhooks and Twilio SMS API. I worked on the code, documentation, and supporting tutorial.
     
+
 ---
 
 ### Content and Documentation Samples
@@ -152,6 +157,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * Product overview video recording: [Introducing Commerce Layer Postman Collection](https://youtu.be/LdFHjM-m8fo)
     
+
 ---
 
 ### Teaching/Workshops/Podcast/Public Speaking
@@ -178,6 +184,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
     
 * 🎙️ Web Standards and Future Trends: Staying Ahead in the Evolving Web Landscape ([podcast](https://podcasters.spotify.com/pod/show/favfront-end-dev/episodes/Web-Standards-and-Future-Trends-Staying-Ahead-in-the-Evolving-Web-Landscape-with-Bolaji-Ayodeji-e276atn/a-a5g0o6)).
     
+
 ---
 
 ### Courses and BootCamps
