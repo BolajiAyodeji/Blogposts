@@ -191,7 +191,7 @@ Here are some notable and publicly available samples of my DevRel, content creat
 
 I organized a [Software Engineering BootCamp](https://tau.edu.ng/news-page.php?i=75&a=tau-taico-to-host-maiden-software-engineering-bootcamp) at [Thomas Adewumi University](https://tau.edu.ng) in 2022 for their university and high school students that introduced them to key areas of Software Engineering, such as Data Science, Machine Learning, and Full-stack Web Development. Aside from organizing and managing the entire BootCamp/Curriculum, I taught the Anatomy of the Web and Version Control class.
 
-Although not publicly visible (only visible to registered students), I partnered with [AltSchool Africa](https://altschoolafrica.com) in the past to teach an **Introduction to Open Source and Version Control with Git and GitHub** course for their [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of 22” and will potentially be used in the Class of 23". I have since received good feedback from students who took the course (most of which were verbal, but you can find some written ones below).
+Although not publicly visible (only visible to registered students), I partnered with [AltSchool Africa](https://altschoolafrica.com) in the past to teach an **Introduction to Open Source and Version Control with Git and GitHub** course for their [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of 22” and 23". I have since received good feedback from students who took the course (most of which were verbal, but you can find some written ones below).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692719734881/7d24e5a5-ff55-4d1e-9531-d58fbeb91243.jpeg align="center")
 
