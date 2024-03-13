@@ -68,8 +68,10 @@ My key strengths are:
 
 ---
 
-As your next Developer Advocate or Developer Experience Engineer, I will bring my software engineering and developer relations experience to:
+As the next member of your team, I will bring my software engineering and developer relations experience to:
 
+* Build trust relationships with developers and customers using your product.
+    
 * Stand as a mediator between your product and developers using the products—helping them be successful with your product offerings.
     
 * Talk to your prospective technical or non-technical customers in different engineering teams and help them understand the value of your product.
@@ -90,7 +92,7 @@ As your next Developer Advocate or Developer Experience Engineer, I will bring m
     
 * Gather feedback from the developer community on old/new product features for further planning, prioritization, and shipping.
     
-* Track and measure the success and failure of the activities and responsibilities you assign to me, showing the business value of Developer Relations at your company.
+* Track and measure the success and failure of the activities and responsibilities you assign to me, showing the business value of developer relations at your company.
     
 
 ---
