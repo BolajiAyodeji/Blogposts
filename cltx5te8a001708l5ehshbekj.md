@@ -301,23 +301,23 @@ Here, we make a POST request to OpenAI’s [Chat Completion API](https://platfor
 
 ```javascript
 [
-  {
-    "role": "user",
-    "content": "Hello world!"
-  },
-  {
-    "role": "system",
-    "content": "Hello! How can I assist you today?"
-  },
-  {
-    "role": "user",
-    "content": "How can I fry plantain?"
-  },
-  {
-    "role": "system",
-    "content": "Frying plantains is a straightforward process..."
-  }
-  ...
+   {
+     "role": "user",
+     "content": "Hello world!"
+   },
+   {
+     "role": "system",
+     "content": "Hello! How can I assist you today?"
+   },
+   {
+     "role": "user",
+     "content": "How can I fry plantain?"
+   },
+   {
+     "role": "system",
+     "content": "Frying plantains is a straightforward process..."
+   }
+   ...
 ];
 ```
 
@@ -702,8 +702,8 @@ export default function ChatVoice({ voices, selectedVoice, setSelectedVoice }: C
           value={selectedVoice}
           onChange={(event) => setSelectedVoice(event.target.value)}
         >
-          {voices
-            .sort((a, b) => (a.name && b.name ? a.name.localeCompare(b.name) : 0))
+          {voices && voices
+            .sort((a, b) => (a.name!.localeCompare(b.name!))
             .map((voice) => (
               <option key={voice.voice_id} value={voice.name}>
                 {voice.name} ({voice.labels?.age} {voice.labels?.accent} {voice.labels?.gender})
