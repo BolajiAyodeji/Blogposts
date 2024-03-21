@@ -38,7 +38,7 @@ Here are a few reasons that make me a great addition to your team:
     
     * I have some experience with academic research writing and published my first paper on [Performance and Accessibility Evaluation of University Websites in Nigeria](https://ieeexplore.ieee.org/document/10051461) in the 2022 5th Information Technology for Education and Development (ITED). I'm currently working on publishing my second research paper for my undergraduate dissertation.
         
-    * I also actively contribute technical writing efforts to [The Good Docs Project](https://thegooddocsproject.dev), where best practice templates and writing instructions for documenting OSS projects are created. I worked last on the [Installation Guide Template](https://gitlab.com/tgdp/templates/-/tree/main/installation-guide) alongside a partner in the [Capilano release](https://gitlab.com/tgdp/templates/-/releases/v1.0.0), and I'm currently working on an API Use Cases Template.
+    * I also actively contribute technical writing efforts to [The Good Docs Project](https://thegooddocsproject.dev), where best practice templates and writing instructions for documenting OSS projects are created. I worked last on the [Installation Guide Template](https://gitlab.com/tgdp/templates/-/tree/main/installation-guide) alongside a partner in the [Capilano](https://gitlab.com/tgdp/templates/-/releases/v1.1.0) and [Dragon](https://gitlab.com/tgdp/templates/-/releases/v1.1.0) release, and I'm currently working on an API Use Cases Template.
         
 * I'm mostly humorous, and people enjoy working with me :).
     
