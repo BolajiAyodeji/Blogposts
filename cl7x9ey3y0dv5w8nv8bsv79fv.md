@@ -1,4 +1,12 @@
-## Contributing to Open Source Pocket Guide
+---
+title: "Contributing to Open Source Pocket Guide"
+datePublished: Sun Sep 11 2022 11:35:20 GMT+0000 (Coordinated Universal Time)
+cuid: cl7x9ey3y0dv5w8nv8bsv79fv
+slug: contributing-to-open-source-pocket-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1662379950778/XGrt8pYE9.png
+tags: programming-blogs, github, programming, opensource
+
+---
 
 Open Source is a flourishing and beneficial ecosystem that publicly solves problems in communities and industries using software through a decentralized model and community contributions. On the other hand, version control is an essential part of everyday modern-day software engineering practices and is the core backbone of open-source. In this article, you will learn more about Open Source, Version Control with Git and GitHub, and how to contribute to projects effectively. This will be a quick overview pocket guide, and I'll try to mention the fundamental details you need while linking you to other external resources for further learning.
 
@@ -6,10 +14,14 @@ Let's roll!
 
 ## Prerequisites
 
-- Basic programming knowledge
-- A working laptop running on any operating system
-- An IDE and required tools for programming
-- A smile on your face :)
+* Basic programming knowledge
+    
+* A working laptop running on any operating system
+    
+* An IDE and required tools for programming
+    
+* A smile on your face :)
+    
 
 ## What Exactly is Open Source?
 
@@ -23,83 +35,124 @@ OSS is about collaborating with people from different regions, cultures, and tec
 
 Some benefits of contributing to open-source projects include:
 
-- Opportunity to build technical work experience.
-- Opportunity to gain experience with collaborating with people.
-- Opportunity to build communication and soft skills.
-- Opportunity to gain domain-specific industry knowledge.
-- Possibility to earn money or certain financial rewards.
-- Access to mentorship and network opportunities.
-- Ultimately, career growth.
+* Opportunity to build technical work experience.
+    
+* Opportunity to gain experience with collaborating with people.
+    
+* Opportunity to build communication and soft skills.
+    
+* Opportunity to gain domain-specific industry knowledge.
+    
+* Possibility to earn money or certain financial rewards.
+    
+* Access to mentorship and network opportunities.
+    
+* Ultimately, career growth.
+    
 
 ## Fields in Open Source
 
 Here are several ways you can contribute to open-source with your existing skills:
 
-#### 1. Software Engineering
+#### 1\. Software Engineering
 
-  - Writing code
-  - Writing tests for code
-  - Reviewing code
-  - Fixing bugs
-  - Beta testing
-  - QA testing
+* Writing code
+    
+* Writing tests for code
+    
+* Reviewing code
+    
+* Fixing bugs
+    
+* Beta testing
+    
+* QA testing
+    
 
-#### 2. Data Engineering
+#### 2\. Data Engineering
 
-  - Writing code
-  - Data collection and cleaning
-  - Data analysis
-  - Data visualization
-  - Research
+* Writing code
+    
+* Data collection and cleaning
+    
+* Data analysis
+    
+* Data visualization
+    
+* Research
+    
 
-#### 3. Content Writing
+#### 3\. Content Writing
 
-   - Writing documentation
-   - Writing tutorials
-   - Writing translations
-   - Writing newsletters
-   - Creating or editing content
+* Writing documentation
+    
+* Writing tutorials
+    
+* Writing translations
+    
+* Writing newsletters
+    
+* Creating or editing content
+    
 
-#### 4. Design
+#### 4\. Design
 
-   - Designing designs 🥹
-   - UX surveys and research
-   - Creating styles guides
-   - Producing brand materials
+* Designing designs 🥹
+    
+* UX surveys and research
+    
+* Creating styles guides
+    
+* Producing brand materials
+    
 
-#### 5. Marketing
+#### 5\. Marketing
 
-   - Promoting projects
-   - Engaging users on the internet
-   - Converting new users through certain means
-   - Developing marketing strategies
-   - Running Producthunt launches
+* Promoting projects
+    
+* Engaging users on the internet
+    
+* Converting new users through certain means
+    
+* Developing marketing strategies
+    
+* Running Producthunt launches
+    
 
-#### 6. Project Management
+#### 6\. Project Management
 
-   - Managing the development phases of the project
-   - Managing the allocation of resources and funds
-   - Tasks and issues organization
-   - Tooling and automation
+* Managing the development phases of the project
+    
+* Managing the allocation of resources and funds
+    
+* Tasks and issues organization
+    
+* Tooling and automation
+    
 
-#### 7. Community Management
+#### 7\. Community Management
 
-   - Managing people and contributors
-   - Organizing events
-   - Organizing programs
-   - Enforcing the code of conduct
+* Managing people and contributors
+    
+* Organizing events
+    
+* Organizing programs
+    
+* Enforcing the code of conduct
+    
 
-#### 8. Reporting bugs
+#### 8\. Reporting bugs
 
-#### 9. Research
+#### 9\. Research
 
-#### 10. Idea suggestions
+#### 10\. Idea suggestions
 
-#### 11. Funding
+#### 11\. Funding
 
-#### 12. Et. Cetera
-<br >
-## Getting Started with Open Source
+#### 12\. Et. Cetera
+
+  
+\## Getting Started with Open Source
 
 The first thing you need to do is to understand what your skills and strength are. The fields in the OSS section should have given you ideas of certain things you can do. This is very important because it gives you the right perception and confidence about who you are and what you can do. Then you can use this knowledge to search for projects matching your skills. For example, Ruth has some intermediate experience with the JavaScript programing language, advanced understanding of the Python programing language, some technical writing experience, and can write some unit tests. With this, Ruth can contribute code to some JavaScript and Python projects based on the complexities of the tasks (offering her an opportunity to gain more experience) and can contribute to writing documentation for any project.
 
@@ -107,15 +160,24 @@ Next, you can decide to find some projects that you're interested in (this is op
 
 Once you have completed the first and second phases, it's time to find projects. Here are some places:
 
-- [GitHub Showcase](https://github.com/showcases/great-for-new-contributors): A collection of projects with a history and reputation for being welcoming to new open source contributors.
-- [GitHub Explore](https://github.com/explore): a recommendation of projects on GitHub based on your interests.
-- [GitHub Topics](https://github.com/topics): a collection of projects on GitHub categorized based on popular topics.
-- [Good First Issues](https://goodfirstissues.com): a collection of open issues on GitHub with the ability to filter by programming language, issue label, or repository.
-- [Pull Request Roulette](www.pullrequestroulette.com): a list of pull requests submitted for review belonging to open-source projects hosted on Github.
-- [Ovio Projects](https://ovio.org/projects): a curated list of projects and issues with the ability to filter by programming language, topic, and activity.
-- [Code Triage](https://codetriage.com): a collection of different GitHub repositories to pick from, and you receive a different open issue in your inbox every day.
-- [Up For Grabs](https://up-for-grabs.net): a curated list of projects which have curated tasks specifically for new contributors.
-- [24 Pull Requests](https://24pullrequests.com): a program that allows you to find open-source projects to contribute to and gift them your contribution as a Christmas gift.
+* [GitHub Showcase](https://github.com/showcases/great-for-new-contributors): A collection of projects with a history and reputation for being welcoming to new open source contributors.
+    
+* [GitHub Explore](https://github.com/explore): a recommendation of projects on GitHub based on your interests.
+    
+* [GitHub Topics](https://github.com/topics): a collection of projects on GitHub categorized based on popular topics.
+    
+* [Good First Issues](https://goodfirstissues.com): a collection of open issues on GitHub with the ability to filter by programming language, issue label, or repository.
+    
+* [Pull Request Roulette](www.pullrequestroulette.com): a list of pull requests submitted for review belonging to open-source projects hosted on Github.
+    
+* [Ovio Projects](https://ovio.org/projects): a curated list of projects and issues with the ability to filter by programming language, topic, and activity.
+    
+* [Code Triage](https://codetriage.com): a collection of different GitHub repositories to pick from, and you receive a different open issue in your inbox every day.
+    
+* [Up For Grabs](https://up-for-grabs.net): a curated list of projects which have curated tasks specifically for new contributors.
+    
+* [24 Pull Requests](https://24pullrequests.com): a program that allows you to find open-source projects to contribute to and gift them your contribution as a Christmas gift.
+    
 
 ...and lots more. With these, I believe you can begin finding projects to contribute to.
 
@@ -158,28 +220,43 @@ You can always run the `git help` command to learn more or `git help <command na
 
 ## The Anatomy of an Open Source Project
 
-OSS projects usually include the following sets of people:
+Generally, open source projects will four main components, the **Source** code, a **Licence**, **Documentation**, and **People**. These sets of people include:
 
-- **Creator(s)**: Those who created the project.
-- **Maintainer(s)**: Those who actively manage the entire project.
-- **Contributor(s)**: Those who contribute to the project (someone like you).
-- **Users**: Those who use the project (developers or customers).
-- **Working group(s)**: A collection of contributors split into domain-specific groups to focus on a discussion or activity around a specific subject area (e.g., testing group, DevOps group, documentation group, code reviews group, performance group, etc.).
-- **Sponsor(s)**: Those who contribute to the project with financial support.
+* **Creator(s)**: Those who created the project.
+    
+* **Maintainer(s)**: Those who actively manage the entire project.
+    
+* **Contributor(s)**: Those who contribute to the project (someone like you).
+    
+* **Users**: Those who use the project (developers or customers).
+    
+* **Working group(s)**: A collection of contributors split into domain-specific groups to focus on a discussion or activity around a specific subject area (e.g., testing group, DevOps group, documentation group, code reviews group, performance group, etc.).
+    
+* **Sponsor(s)**: Those who contribute to the project with financial support.
+    
 
 ---
 
 OSS projects usually include the following files (usually in text or markdown format) and documents:
 
-- **License**: the legal document that explains how and to what extent the project can be freely used, modified, and shared ([example](https://github.com/commercelayer/commercelayer-microstore/blob/master/LICENSE)).
-- **Code of conduct**: the document that outlines the rules, norms, acceptable practices, and responsibilities of anyone who decides to participate in the project in any way—including what happens when someone violates any of the rules ([example](https://github.com/commercelayer/.github/blob/master/CODE_OF_CONDUCT.md)).
-- **README**: the markdown file that displays under any repository on GitHub. This is usually the entry point to any project, so you might find the documentation here and links to other necessary documents. ([example](https://github.com/oven-sh/bun/blob/main/README.md)).
-- **Documentation**: the file that contains all documentation resources for the project, including guides, API references, tutorials, data models, etc. ([example](https://reactjs.org/docs/getting-started.html)).
-- **Contributing docs**: the document that explains how to get started with contributing to the project, including installation guides, configuration, etc. ([example](https://github.com/googleapis/python-firestore/blob/main/CONTRIBUTING.rst)).
-- **Security**: the file that explains how to submit vulnerability reports or any security issue ([example](https://github.com/appsmithorg/appsmith/blob/release/SECURITY.md)).
-- **Issues**: the board with a collection of tasks and bug reports awaiting someone like you to fix them ([example](https://github.com/microsoft/TypeScript/issues)).
-- **Pull requests**: the board with a collection of solutions submitted to fix certain issue(s) ([example](https://github.com/brix/crypto-js/pulls)).
-- **Discussions**: the place where maintainers, contributors, and users discuss on GitHub. Usually, you'd report bugs here or ask the community for help when you encounter an issue with the project ([example](https://github.com/vercel/next.js/discussions)).
+* **License**: the legal document that explains how and to what extent the project can be freely used, modified, and shared ([example](https://github.com/commercelayer/commercelayer-microstore/blob/master/LICENSE)).
+    
+* **Code of conduct**: the document that outlines the rules, norms, acceptable practices, and responsibilities of anyone who decides to participate in the project in any way—including what happens when someone violates any of the rules ([example](https://github.com/commercelayer/.github/blob/master/CODE_OF_CONDUCT.md)).
+    
+* **README**: the markdown file that displays under any repository on GitHub. This is usually the entry point to any project, so you might find the documentation here and links to other necessary documents. ([example](https://github.com/oven-sh/bun/blob/main/README.md)).
+    
+* **Documentation**: the file that contains all documentation resources for the project, including guides, API references, tutorials, data models, etc. ([example](https://reactjs.org/docs/getting-started.html)).
+    
+* **Contributing docs**: the document that explains how to get started with contributing to the project, including installation guides, configuration, etc. ([example](https://github.com/googleapis/python-firestore/blob/main/CONTRIBUTING.rst)).
+    
+* **Security**: the file that explains how to submit vulnerability reports or any security issue ([example](https://github.com/appsmithorg/appsmith/blob/release/SECURITY.md)).
+    
+* **Issues**: the board with a collection of tasks and bug reports awaiting someone like you to fix them ([example](https://github.com/microsoft/TypeScript/issues)).
+    
+* **Pull requests**: the board with a collection of solutions submitted to fix certain issue(s) ([example](https://github.com/brix/crypto-js/pulls)).
+    
+* **Discussions**: the place where maintainers, contributors, and users discuss on GitHub. Usually, you'd report bugs here or ask the community for help when you encounter an issue with the project ([example](https://github.com/vercel/next.js/discussions)).
+    
 
 And that's pretty much it. Most projects will also have a communication channel on maybe Discord or Slack for conversations and interactions between community members.
 
@@ -188,20 +265,33 @@ And that's pretty much it. Most projects will also have a communication channel 
 Now you have some background knowledge, know how to use Git, have a GitHub account, and you have found some projects you would like to delve into. Here's what to do next in the exact order:
 
 1. Indicate interest under the issue you want to work on or send a message in the project chat communication channel to declare you want to work on XYZ. It's wise to do this to ensure someone else isn't working on the issue. If you don't get feedback quickly (different projects have different response rates depending on the number of requests), you can begin working on your solution **slowly** but try not to do anything serious till you get approval, or the issue is assigned to you.
+    
 2. Request for assignment to an issue.
+    
 3. Open an issue and clearly explain what you want to contribute, your thought process, and how you intend to build your solution. Try to wait for some feedback here in order to validate your idea against the requirements of preferences of the project owner (remember it isn't your project, the same way the company you work at isn't yours, so you can't make business decisions for them but can only suggest project features and all).
+    
 4. Read the documentation and contributing guidelines.
+    
 5. Fork the repository to your GitHub account.
+    
 6. Clone the forked repository to your local computer.
+    
 7. Set up locally following the contributing guidelines.
+    
 8. Create a new branch locally.
+    
 9. Work on your changes locally, versioning along the way.
+    
 10. Test your changes locally.
+    
 11. Push your branch and changes to your fork on your GitHub account.
+    
 12. Submit a pull request to the original repository and await feedback.
+    
 13. Review feedback, process the feedback, respond kindly, and make necessary changes.
+    
 14. Done! ✅
-
+    
 
 ## Conclusion
 
@@ -209,8 +299,10 @@ We've come to the end of this guide, and I hope you find it helpful. This is a p
 
 ## Useful Resources
 
-- [Git Cheat Sheets](https://training.github.com) (in different languages)
-- [Open Source Guides](https://opensource.guide)
-- [A collection of recommended OSS resources, tools, and communities](https://github.com/oscafrica/awesome-open-source)
-- [Software to make running OSS projects a little bit easier](https://github.com/collections/tools-for-open-source)
-
+* [Git Cheat Sheets](https://training.github.com) (in different languages)
+    
+* [Open Source Guides](https://opensource.guide)
+    
+* [A collection of recommended OSS resources, tools, and communities](https://github.com/oscafrica/awesome-open-source)
+    
+* [Software to make running OSS projects a little bit easier](https://github.com/collections/tools-for-open-source)
