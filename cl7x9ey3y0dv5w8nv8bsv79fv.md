@@ -151,8 +151,7 @@ Here are several ways you can contribute to open-source with your existing skill
 
 #### 12\. Et. Cetera
 
-  
-\## Getting Started with Open Source
+## Getting Started with Open Source
 
 The first thing you need to do is to understand what your skills and strength are. The fields in the OSS section should have given you ideas of certain things you can do. This is very important because it gives you the right perception and confidence about who you are and what you can do. Then you can use this knowledge to search for projects matching your skills. For example, Ruth has some intermediate experience with the JavaScript programing language, advanced understanding of the Python programing language, some technical writing experience, and can write some unit tests. With this, Ruth can contribute code to some JavaScript and Python projects based on the complexities of the tasks (offering her an opportunity to gain more experience) and can contribute to writing documentation for any project.
 
