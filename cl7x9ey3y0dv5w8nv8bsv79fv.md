@@ -219,7 +219,7 @@ You can always run the `git help` command to learn more or `git help <command na
 
 ## The Anatomy of an Open Source Project
 
-Generally, open source projects includes four main components, the **Source** code, a **Licence**, **Documentation**, and **People**. These sets of people can be broken into more parts:
+Generally, open source projects are built on four main components, the **Source** code, a **Licence**, **Documentation**, and **People**. These sets of people can further be broken into more parts:
 
 * **Creator(s)**: Those who created the project.
     
