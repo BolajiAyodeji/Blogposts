@@ -1,9 +1,9 @@
 ---
-title: "How to Create Design Editing Apps using Nextjs, Clerk, and IMGLY’s CE.SDK Engine"
+title: "How to Build Design Editing Apps using Nextjs, Clerk, and IMGLY’s CE.SDK Engine"
 seoTitle: "How to Create Design Editing Apps using Nextjs and IMGLY’s CE Engine"
 datePublished: Wed Sep 11 2024 14:58:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm0xzjmmk000209jn8jg0btqw
-slug: how-to-create-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine
+slug: how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726066517452/8f221380-a620-43fd-8899-0a4d571259c8.png
 tags: javascript, design, reactjs, sdk, nextjs
 
@@ -945,4 +945,4 @@ Phew (happy sigh 😅)! That was quite some learning and building! Trust me, the
 
 ---
 
-> This is not a paid ad for IMGLY or so :). I built this app and wrote this tutorial months ago as part of the interview process for a job and happy to share my learnings with everyone as always. I hope you still find the content useful; there’s quite a lot you can learn here even beyond the product!
+> This is not a paid ad for IMGLY or so :). I built this app and wrote this tutorial months ago as part of the interview process for a job and I’m happy to share my learnings with everyone as always. I hope you still find the content useful; there’s quite a lot you can learn here even beyond the product. Cheers!
