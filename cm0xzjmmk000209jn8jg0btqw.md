@@ -947,4 +947,4 @@ Phew (happy sigh 😅)! That was quite some learning and building! Trust me, the
 
 ---
 
-> **Friendly disclaimer**: This is not a paid ad for IMGLY or so :). I built this app and wrote this tutorial months ago as part of an interview process and I’m happy to share my learnings with everyone as always. I hope you still find the content useful; there’s quite a lot you can learn here even beyond the product. Cheers!
+> **Friendly disclaimer**: This is not a paid promotional for IMGLY or so :). I built this app and wrote this tutorial months ago as part of an interview process and I’m happy to share my learnings with everyone as always. I hope you still find the content useful; there’s quite a lot you can learn here. Cheers!
