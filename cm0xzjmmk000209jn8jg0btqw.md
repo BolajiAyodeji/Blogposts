@@ -5,7 +5,7 @@ datePublished: Wed Sep 11 2024 14:58:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm0xzjmmk000209jn8jg0btqw
 slug: how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726066517452/8f221380-a620-43fd-8899-0a4d571259c8.png
-tags: javascript, design, reactjs, sdk, nextjs
+tags: javascript, design, reactjs, sdk, nextjs, clerkdev
 
 ---
 
@@ -910,13 +910,15 @@ With this, your canvas should looks like the amazing screenshot below!
 
 ## Authentication and Protected Pages with Clerk
 
-If you observed, I imported a `@clerk/nextjs` package in the snippet above. That’s Clerk, a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage users. By installing the SDK package and importing a few components, you can setup auth routes, authenticate users, and protect certain pages from unauthenticated access. The major configuration is done in the `/middleware.ts` file as seen in the code snippet below where I set some `publicRoutes` that would not be protected while the others (`/editor` specifically) will not be accessible unless the user signs in. You can learn more by reading [Clerk’s Nextjs documentation](https://clerk.com/docs/references/nextjs/overview) and exploring my setup in [the repository](https://github.com/BolajiAyodeji/attraktives-headshot/tree/main/app/auth).
+If you observed, I imported a `@clerk/nextjs` package in the snippet above. That’s Clerk, a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage users. By installing the SDK package and importing a few components, you can setup auth routes, authenticate users, and protect certain pages from unauthenticated access. The major configuration is done in the `/middleware.ts` file as seen in the code snippet below where I specify the `/editor` route to protect (will not be accessible unless the user signs in). You can learn more by reading [Clerk’s Nextjs documentation](https://clerk.com/docs/references/nextjs/overview) and exploring my setup in [the repository](https://github.com/BolajiAyodeji/attraktives-headshot/tree/main/app/auth).
 
 ```ts
-import { authMiddleware } from "@clerk/nextjs";
+import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 
-export default authMiddleware({
-  publicRoutes: ["/", "/start", "/bg-add", "/bg-remove"],
+const isProtectedRoute = createRouteMatcher(["/editor"]);
+
+export default clerkMiddleware((auth, req) => {
+  if (isProtectedRoute(req)) auth().protect();
 });
 
 export const config = {
