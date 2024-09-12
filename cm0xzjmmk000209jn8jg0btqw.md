@@ -1,6 +1,6 @@
 ---
 title: "How to Build Design Editing Apps using Nextjs, Clerk, and IMGLY’s CE.SDK Engine"
-seoTitle: "How to Create Design Editing Apps using Nextjs and IMGLY’s CE Engine"
+seoTitle: "How to Create Design Editing Apps using Nextjs and IMGLY’s CE.SDK"
 datePublished: Wed Sep 11 2024 14:58:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm0xzjmmk000209jn8jg0btqw
 slug: how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine
@@ -36,7 +36,7 @@ To get the best out of this tutorial, you need to have the following:
 * A smile on your face :).
     
 
-## Quick Introduction to CreativeEditor Engine
+## Preface to The CreativeEditor Engine
 
 IMG․LY has built a creative engine that allows developers and businesses to add video and photo editing features to their applications. The engine is used to build different SDKs, that can power photo, video, design editing, and creative automation features for unlimited distributed end-users. They currently provide a [CreativeEditor SDK](https://img.ly/products/creative-sdk) (CE.SDK), [PhotoEditor SDK](https://img.ly/products/photo-sdk), [VideoEditor SDK](https://img.ly/products/video-sdk), and [Camera SDK](https://img.ly/products/camera-sdk) on different platforms including, Web, Server, iOS, and Android. This means you can use these SDKs with a wide range of frameworks like Vanilla JS, Reactjs, Nextjs, Vuejs, Angular, Svelte, Electron, Flutter, ReactNative, Ionic, etc. All these SDKs can be used for a wide range of use cases and industries like:
 
