@@ -5,7 +5,7 @@ datePublished: Wed Sep 11 2024 14:58:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm0xzjmmk000209jn8jg0btqw
 slug: how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726066517452/8f221380-a620-43fd-8899-0a4d571259c8.png
-tags: javascript, design, reactjs, sdk, nextjs, clerkdev
+tags: software-development, javascript, design, reactjs, sdk, nextjs, clerkdev
 
 ---
 
