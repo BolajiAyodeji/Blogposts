@@ -40,6 +40,8 @@ This is a new space for me, and the past two months have been an exciting ride w
 
 I see [how](https://digitalpublicgoods.net/digital-public-goods-alliance-strategy-2023-2028?ref=bolajiayodeji) the Digital Public Good Alliance is facilitating the discovery and deployment of open source technologies, bringing together countries and like-minded organizations to create a thriving global ecosystem for digital public goods. This prompted me to develop an interest in the great work they’ve been doing, and I'm elated to join and help in different capacities to drive the goals of the DPGA towards unlocking the potential of open source technologies for a more equitable world.
 
-Onwards, cheers! 💙
+> "If we create a product we like that never ends up in people’s hands, who are we working for beyond ourselves? How can we fix that? How do we know we’re making the world a better place and not just creating software for people with free time and a spare laptop?..." —Thibault Martin.
+
+Cheers to making the world a better place. Onwards! 💙
 
 %[https://youtu.be/lzQR1K-u0ag?si=RdnhQk9khZnlWpS6]
