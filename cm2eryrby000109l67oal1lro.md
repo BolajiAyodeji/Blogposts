@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729182706869/57d4d3a
 
 ---
 
-Hey! I’m super excited to announce that I have joined the [Secretariat Team](https://digitalpublicgoods.net/digital-public-goods-alliance-secretariat?ref=bolajiayodeji) at the [Digital Public Goods Alliance](https://digitalpublicgoods.net?ref=bolajiayodeji) as the **DPG Evangelist and Technical Coordinator**. In this role, I leverage my passion for open source and technical background to assess DPG applications, provide technical support and advocate for open source projects seeking recognition as digital public goods, educate stakeholders about the DPG Standard and DPG application process, contribute to strategic planning efforts to improve the DPG application processes and build/manage relationships with DPG product owners and the entire DPG community.
+Hey! I’m super excited to announce that I have joined the [Secretariat Team](https://digitalpublicgoods.net/digital-public-goods-alliance-secretariat?ref=bolajiayodeji) at the [Digital Public Goods Alliance](https://digitalpublicgoods.net?ref=bolajiayodeji). In this role, I leverage my passion for open source and technical background to assess DPG applications, provide technical support and advocate for open source projects seeking recognition as digital public goods, educate stakeholders about the DPG Standard and DPG application process, contribute to strategic planning efforts to improve the DPG application processes and build/manage relationships with DPG product owners and the entire DPG community.
 
 ---
 
